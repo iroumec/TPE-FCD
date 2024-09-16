@@ -1,4 +1,4 @@
-Artista,Nacionality
+Artist,Nacionality
 The Jackson 5,US
 The Beatles,GB
 Simon & Garfunkel,US
@@ -41,7 +41,6 @@ Blues Image,US
 Brook Benton,US
 Eddie Holman,US
 the Archies,US
-Dawn,US
 Sugarloaf,US
 The Brotherhood of Man,GB
 The Four Tops,US
@@ -70,7 +69,6 @@ The Friends of Distinction,US
 The Pipkins,GB
 Diana Ross,US
 Tom Jones,
-The Supremes,US
 Tommy Roe,US
 Bobbi Martin,US
 Kenny Rogers & The First Edition,US
@@ -81,12 +79,10 @@ Elton John,GB
 Cat Stevens,GB
 Ike & Tina Turner,
 John Denver,US
-John Lennon,GB
 Plastic Ono Band,GB
 The Partridge Family,US
 Al Green,US
 The Doors,US
-Aretha Franklin,US
 Janis Joplin,US
 Marvin Gaye,US
 Van Morrison,
@@ -130,7 +126,6 @@ Dave Edmunds,GB
 Delaney & Bonnie & Friends,US
 Ringo Starr,GB
 Donny Osmond,US
-The Partridge Family,US
 Barbra Streisand,US
 Ocean,CA
 Bobby Goldsboro,US
@@ -143,7 +138,6 @@ Wilson Pickett,US
 Carly Simon,US
 The Free Movement,US
 THE LAZY RIVER,
-The Doobie Brothers,US
 Apollo 100,GB
 Roberta Flack,US
 Donny Hathaway,US
@@ -164,13 +158,11 @@ Gilbert O’Sullivan,IE
 The Moody Blues,GB
 Jim Croce,US
 T. Rex,GB
-The Rolling Stones,GB
 David Cassidy,US
 Robert John,US
 Eagles,US
 Raspberries,US
 the Stylistics,US
-Roberta Flack,US
 Dennis Coffey,US
 Dr. Hook,US
 The O’Jays,US
@@ -237,7 +229,6 @@ Seals and Crofts,US
 Timmy Thomas,US
 Johnnie Taylor,US
 Focus,NL
-War,US
 Bette Midler,US
 Sylvia,US
 The Stylistics,US
@@ -257,8 +248,6 @@ Clint Holmes,US
 Hurricane Smith,US
 Deodato,BR
 New York City,
-Carly Simon,US
-James Taylor,US
 Redbone,US
 Lynyrd Skynyrd,US
 Bad Company,GB
@@ -295,13 +284,11 @@ Al Wilson,US
 Dave Loggins,US
 MFSB,US
 The Three Degrees,US
-Dionne Warwick,US
 Bo Donaldson and The Heywoods,US
 Jim Stafford,US
 B.T. Express,US
 The Righteous Brothers,US
 Love Unlimited Orchestra,US
-The Guess Who,CA
 Wolfman Jack,US
 Bobby Vinton,US
 Donny and Marie Osmond,US
@@ -340,7 +327,6 @@ Freddy Fender,US
 Sammy Johns,US
 Van McCoy & the Soul City Symphony,US
 Melissa Manchester,US
-Wings,GB
 The Blackbyrds,US
 Phoebe Snow,US
 Donny & Marie Osmond,US
@@ -361,7 +347,6 @@ Bay City Rollers,GB
 Blue Oyster Cult,US
 Fleetwood Mac,GB
 The Four Seasons,US
-The Miracles,US
 Wild Cherry,US
 Queen,GB
 Commodores,US
@@ -380,25 +365,21 @@ Gary Wright,US
 Rhythm Heritage,US
 Harold Melvin & the Blue Notes,US
 Wing and a Prayer Fife and Drum Corps,US
-Dr. Hook,US
 Dorothy Moore,US
 John Sebastian,US
 Pratt and McClain,US
 Donna Summer,US
 Walter Murphy,US
-Seals and Crofts,US
 Carolyn Willis,US
 David Ruffin,US
 Silver Convention,DE
 The Sylvers,US
 Cliff Richard,GB
-Paul Anka,CA
 Starbuck,US
 Henry Gross,US
 George Benson,US
 Vicki Sue Robinson,US
 Rick Dees & His Cast of Idiots,US
-Elton John,GB
 Kiki Dee,GB
 Lou Rawls,US
 England Dan & John Ford Coley,US
@@ -472,7 +453,6 @@ Foxy,US
 Peter Brown,US
 Raydio,US
 John Travolta,US
-Olivia Newton-John,AU
 Player,US
 Meat Loaf,US
 Paul Davis,US
@@ -505,7 +485,6 @@ Herb Alpert,US
 John Stewart,US
 The Emotions,US
 Bobby Caldwell,US
-Donna Summer,US
 Brooklyn Dreams,US
 KC & the Sunshine Band,US
 Nicolette Larson,US
@@ -529,8 +508,6 @@ Amii Stewart,US
 Gino Vannelli,CA
 Ace Frehley,US
 M,GB
-Neil Diamond,US
-Barbra Streisand,US
 Nick Lowe,GB
 David Naughton,US
 Rex Smith,US
