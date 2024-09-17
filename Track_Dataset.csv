@@ -1,4 +1,4 @@
-,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Word_Length,Track Transformed,Track_Language
+,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Word_Length,Track_Transformed,Track_Language
 0,abc,The Jackson 5,2:42,4,0.682,0.926,3,-2.515,0,0.0607,0.0404,0.0,0.19,0.86,105.969,81,1970,3,1,abc,ENGLISH
 1,let it be,The Beatles,4:03,4,0.443,0.403,0,-8.339,1,0.0322,0.631,0.0,0.111,0.41,143.462,78,1970,9,3,let  ,GERMAN
 2,i want you back,The Jackson 5,2:56,4,0.469,0.538,8,-13.559,1,0.0575,0.305,0.000114,0.37,0.885,196.606,78,1970,15,4, want you back,ENGLISH
@@ -51,7 +51,7 @@
 49,still water (love),The Four Tops,3:14,4,0.515,0.532,10,-12.472,1,0.0245,0.355,0.000711,0.498,0.961,94.165,47,1970,18,3,still water love,ENGLISH
 50,take a letter maria,R.B. Greaves,2:44,4,0.582,0.5,2,-11.647,1,0.0459,0.636,9.71e-06,0.134,0.971,160.414,46,1970,19,4,take  letter maria,ENGLISH
 51,reflections of my life,Marmalade,4:11,4,0.387,0.406,7,-10.666,1,0.0269,0.572,0.0354,0.295,0.509,92.683,45,1970,22,4,reflections   life,ENGLISH
-52,ball of confusion (that’s what the world is today),The Temptations,4:06,4,0.529,0.735,5,-8.153,1,0.0896,0.238,0.0,0.102,0.862,79.002,45,1970,50,9,ball  confusion ’s   world  today,ENGLISH
+52,ball of confusion (that’s what the world is today),The Temptations,4:06,4,0.529,0.735,5,-8.153,1,0.0896,0.238,0.0,0.102,0.862,79.002,45,1970,50,9,ball  confusion    world  today,ENGLISH
 53,patches,Clarence Carter,3:13,4,0.639,0.544,4,-12.843,1,0.141,0.617,0.0,0.479,0.793,80.844,44,1970,7,1,patches,ENGLISH
 54,midnight cowboy,Ferrante and Teicher,2:57,4,0.58,0.636,5,-6.401,1,0.0252,0.214,0.001,0.108,0.715,92.476,44,1970,15,2,midnight cowboy,ENGLISH
 55,band of gold,Freda Payne,3:32,4,0.608,0.478,11,-9.351,1,0.0369,0.569,0.00207,0.118,0.302,130.989,43,1970,12,3,band  gold,ENGLISH
@@ -63,7 +63,7 @@
 61,everything is beautiful,Ray Stevens,3:32,4,0.39,0.376,5,-15.205,1,0.0366,0.548,0.0,0.212,0.739,108.895,39,1970,23,3,everything  beautiful,ENGLISH
 62,we’ve only just begun,The Carpenters,3:59,4,0.374,0.452,6,-5.854,0,0.0308,0.677,1.02e-05,0.284,0.157,84.47,39,1970,21,4, only just begun,ENGLISH
 63,don’t play that song (you lied),Aretha Franklin with the Dixie Flyers,2:54,4,0.699,0.454,1,-11.062,0,0.0505,0.74,0.0,0.166,0.692,110.566,37,1970,31,6, play  song you lied,ENGLISH
-64,i just can’t help believing,B.J. Thomas,2:57,4,0.554,0.464,5,-8.529,1,0.0266,0.483,0.0,0.174,0.537,134.475,37,1970,27,5, just can’t help believing,ENGLISH
+64,i just can’t help believing,B.J. Thomas,2:57,4,0.554,0.464,5,-8.529,1,0.0266,0.483,0.0,0.174,0.537,134.475,37,1970,27,5, just  help believing,ENGLISH
 65,ma belle amie,Tee Set,3:14,4,0.419,0.492,7,-11.18,1,0.0448,0.11,0.000681,0.168,0.706,86.693,37,1970,13,3,ma belle amie,FRENCH
 66,up the ladder to the roof,The Supremes,3:11,4,0.533,0.567,10,-13.743,1,0.0539,0.549,2.61e-06,0.177,0.658,120.157,37,1970,25,6,up  ladder   roof,ENGLISH
 67,lay down (candles in the rain),Melanie,7:39,4,0.317,0.866,7,-4.896,1,0.0703,0.426,0.000445,0.0792,0.603,94.372,36,1970,30,6,lay down candles   rain,ENGLISH
@@ -78,14 +78,14 @@
 76,gimme dat ding,The Pipkins,2:14,4,0.649,0.741,7,-9.469,1,0.0414,0.598,2.15e-06,0.0295,0.918,96.791,31,1970,14,3,gimme dat ding,ENGLISH
 77,ain’t no mountain high enough,Diana Ross,3:26,4,0.207,0.202,11,-16.461,0,0.0383,0.861,0.0517,0.078,0.0791,89.116,30,1970,29,5, no mountain high enough,ENGLISH
 78,without love (there is nothing),Tom Jones,2:53,4,0.269,0.252,2,-15.729,1,0.0325,0.752,0.302,0.19,0.599,113.922,28,1970,31,5,without love there  nothing,ENGLISH
-79,someday we’ll be together,Diana Ross & the Supremes,3:15,4,0.618,0.363,4,-12.986,1,0.0319,0.0323,0.357,0.104,0.113,117.978,27,1970,25,4,someday ’ll  together,ENGLISH
+79,someday we’ll be together,Diana Ross & the Supremes,3:15,4,0.618,0.363,4,-12.986,1,0.0319,0.0323,0.357,0.104,0.113,117.978,27,1970,25,4,someday   together,ENGLISH
 80,eli’s coming,Three Dog Night,2:41,4,0.33,0.771,9,-7.059,0,0.102,0.398,0.00283,0.198,0.44,167.128,27,1970,12,2,eli’s coming,ENGLISH
 81,jam up and jelly tight,Tommy Roe,2:20,4,0.669,0.784,10,-6.648,0,0.0505,0.00708,0.121,0.0637,0.681,121.768,26,1970,22,5,jam up  jelly tight,ENGLISH
 82,for the love of him,Bobbi Martin,3:13,4,0.5,0.81,6,-7.646,0,0.0474,0.0878,0.0607,0.127,0.545,132.046,25,1970,19,5,  love  him,ENGLISH
 83,something’s burning,Kenny Rogers & The First Edition,2:46,4,0.635,0.566,5,-8.696,1,0.0246,0.372,0.0173,0.106,0.481,109.089,25,1970,19,2,something’s burning,ENGLISH
 84,i’ll never fall in love again,Dionne Warwick,4:15,3,0.358,0.547,4,-6.355,1,0.0287,0.794,0.00908,0.108,0.275,145.914,24,1970,29,6, never fall  love again,ENGLISH
 85,la la la (if i had you),Bobby Sherman,2:42,4,0.232,0.644,9,-10.51,1,0.0494,0.741,4.65e-05,0.743,0.897,200.423,20,1970,23,7,la la la   had you,ENGLISH
-86,(if you let me make love to you then) why can’t i touch you?,Ronnie Dyson,3:23,4,0.398,0.692,0,-8.596,1,0.045,0.496,0.0,0.394,0.65,93.907,20,1970,60,14, you let  make love  you then  can’t  touch you?,ENGLISH
+86,(if you let me make love to you then) why can’t i touch you?,Ronnie Dyson,3:23,4,0.398,0.692,0,-8.596,1,0.045,0.496,0.0,0.394,0.65,93.907,20,1970,60,14, you let  make love  you then    touch you?,ENGLISH
 88,somebody’s been sleeping,100 Proof (Aged in Soul),2:42,4,0.799,0.528,11,-15.649,0,0.0731,0.0122,0.739,0.0479,0.826,148.03,13,1970,24,3,somebody’s been sleeping,ENGLISH
 90,if,Bread,2:52,4,0.457,0.499,1,-6.67,1,0.0334,0.247,6.34e-05,0.171,0.0348,127.95,84,1971,2,1,,ENGLISH
 91,your song,Elton John,4:01,4,0.552,0.315,3,-11.028,1,0.0299,0.828,5.52e-06,0.101,0.324,128.187,80,1971,9,2, song,ENGLISH
@@ -149,7 +149,7 @@
 150,smiling faces sometimes,The Undisputed Truth,3:18,4,0.551,0.461,11,-11.778,1,0.0255,0.252,2.39e-06,0.0541,0.739,105.155,49,1971,23,3,smiling faces sometimes,ENGLISH
 151,i just want to celebrate,Rare Earth,3:37,4,0.446,0.929,9,-7.7,1,0.234,0.105,1.59e-06,0.015,0.652,176.462,48,1971,24,5, just want  celebrate,ENGLISH
 152,temptation eyes,Grass Roots,2:39,4,0.555,0.869,3,-5.479,1,0.0278,0.0104,0.000156,0.108,0.84,134.892,47,1971,15,2,temptation eyes,ENGLISH
-153,what’s going on,Marvin Gaye,3:51,4,0.565,0.646,1,-4.908,1,0.0352,0.195,0.0,0.0937,0.654,145.966,47,1971,15,3,’s going ,ENGLISH
+153,what’s going on,Marvin Gaye,3:51,4,0.565,0.646,1,-4.908,1,0.0352,0.195,0.0,0.0937,0.654,145.966,47,1971,15,3, going ,ENGLISH
 154,for the good times,Ray Price,6:27,3,0.522,0.289,7,-12.013,1,0.0783,0.545,9.62e-05,0.136,0.584,171.497,47,1971,18,4,  good times,ENGLISH
 155,one toke over the line,Brewer & Shipley,3:19,4,0.581,0.806,0,-8.158,1,0.0335,0.156,4.53e-06,0.215,0.87,77.496,46,1971,22,5,one toke over  line,ENGLISH
 156,indian reservation (the lament of the cherokee reservation indian),Paul Revere & the Raiders,2:51,4,0.639,0.385,2,-13.253,1,0.0759,0.284,0.00193,0.0873,0.209,131.714,45,1971,66,9,indian reservation  lament   cherokee reservation indian,ENGLISH
@@ -169,7 +169,7 @@
 170,watching scotty grow,Bobby Goldsboro,2:37,4,0.506,0.401,2,-11.96,1,0.033,0.474,0.00191,0.358,0.567,90.259,32,1971,20,3,watching scotty grow,ENGLISH
 171,want ads,Honey Cone,2:46,4,0.65,0.812,1,-6.912,1,0.239,0.33,0.000131,0.0833,0.927,189.684,32,1971,8,2,want ads,ENGLISH
 172,i don’t know how to love him,Helen Reddy,3:40,4,0.408,0.417,2,-7.099,1,0.0269,0.259,1.1e-06,0.154,0.34,71.334,31,1971,28,7,  know   love him,ENGLISH
-173,somos novios (it’s impossible),Perry Como,3:07,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,30,4,somos novios ’s impossible,SPANISH
+173,somos novios (it’s impossible),Perry Como,3:07,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,30,4,somos novios  impossible,SPANISH
 174,doesn’t somebody want to be wanted,The Partridge Family,2:47,4,0.742,0.387,10,-13.822,1,0.0349,0.634,0.0,0.0424,0.878,113.045,29,1971,34,6,doesn’t somebody want   wanted,ENGLISH
 175,chick-a-boom (don’t ya jes’ love it),Daddy Dewdrop,2:51,4,0.781,0.732,0,-6.766,1,0.0505,0.0343,0.0,0.173,0.962,124.557,26,1971,36,6,chick--boom  ya jes’ love ,ENGLISH
 176,don’t pull your love,"Hamilton, Joe Frank & Reynolds",3:22,3,0.567,0.575,11,-6.618,0,0.0255,0.678,2.33e-05,0.0745,0.62,105.461,26,1971,20,4, pull  love,ENGLISH
@@ -178,8 +178,8 @@
 179,don’t knock my love,Wilson Pickett,4:53,4,0.572,0.425,10,-16.738,1,0.0391,0.384,0.265,0.0817,0.88,113.264,13,1971,19,4, knock  love,ENGLISH
 180,she’s not just another woman,8th Day,3:06,4,0.716,0.864,9,-4.782,0,0.192,0.257,0.0,0.0544,0.874,80.332,12,1971,28,5, not just another woman,ENGLISH
 182,i’ll meet you halfway,the Partridge Family,4:15,4,0.391,0.693,0,-7.56,1,0.0293,0.000854,1.9e-06,0.104,0.39,103.065,6,1971,21,4, meet you halfway,ENGLISH
-183,that’s the way i’ve always heard it should be,Carly Simon,4:18,4,0.4,0.0897,0,-19.012,1,0.0288,0.938,0.000521,0.0847,0.24,70.387,1,1971,45,9,’s  way ’ve always heard  should ,ENGLISH
-185,i’ve found someone of my own,The Free Movement,3:34,3,0.676,0.334,7,-14.458,1,0.0526,0.803,0.479,0.158,0.776,112.225,0,1971,28,6,’ve found someone   own,ENGLISH
+183,that’s the way i’ve always heard it should be,Carly Simon,4:18,4,0.4,0.0897,0,-19.012,1,0.0288,0.938,0.000521,0.0847,0.24,70.387,1,1971,45,9,  way  always heard  should ,ENGLISH
+185,i’ve found someone of my own,The Free Movement,3:34,3,0.676,0.334,7,-14.458,1,0.0526,0.803,0.479,0.158,0.776,112.225,0,1971,28,6, found someone   own,ENGLISH
 186,rocket man,Elton John,4:41,4,0.601,0.532,10,-9.119,1,0.0286,0.433,5.95e-06,0.0925,0.342,136.576,82,1972,10,2,rocket man,ENGLISH
 187,down,THE LAZY RIVER,4:21,4,0.541,0.366,11,-10.412,1,0.0748,0.56,1e-06,0.0946,0.168,159.707,82,1972,4,1,down,ENGLISH
 188,listen to the music,the Doobie Brothers,3:47,4,0.645,0.598,1,-13.18,0,0.0334,0.221,3.53e-06,0.0721,0.913,105.929,81,1972,19,4,listen   music,ENGLISH
@@ -250,13 +250,13 @@
 253,have you seen her,the Chi-Lites,5:09,4,0.62,0.334,4,-15.598,1,0.0536,0.479,1.2e-06,0.169,0.298,139.375,47,1972,17,4,have you seen her,ENGLISH
 254,everybody plays the fool,The Main Ingredient,3:22,4,0.485,0.641,3,-8.752,1,0.0418,0.704,9.92e-05,0.159,0.855,168.645,46,1972,24,4,everybody plays  fool,ENGLISH
 255,jungle fever,The Chakachas,2:56,4,0.719,0.707,7,-9.025,1,0.339,0.0751,0.0,0.121,0.615,151.055,45,1972,12,2,jungle fever,ENGLISH
-256,an old fashioned love song,Three Dog Night,3:50,4,0.46,0.498,10,-12.718,1,0.0373,0.478,0.00884,0.0817,0.84,101.392,45,1972,26,5,an old fashioned love song,ENGLISH
+256,an old fashioned love song,Three Dog Night,3:50,4,0.46,0.498,10,-12.718,1,0.0373,0.478,0.00884,0.0817,0.84,101.392,45,1972,26,5, old fashioned love song,ENGLISH
 257,anticipation,Carly Simon,3:21,4,0.61,0.297,2,-14.956,1,0.0304,0.838,9.16e-06,0.107,0.543,99.963,44,1972,12,1,anticipation,FRENCH
 258,sweet seasons,Carole King,3:13,4,0.66,0.545,10,-12.499,1,0.0274,0.305,0.00185,0.099,0.864,116.229,44,1972,13,2,sweet seasons,ENGLISH
 259,(if loving you is wrong) i don’t want to be right,Luther Ingram,3:36,4,0.502,0.451,4,-7.423,0,0.0438,0.283,0.0,0.154,0.531,140.474,44,1972,49,11, loving you  wrong   want   right,ENGLISH
 260,i’m still in love with you,Al Green,2:57,4,0.771,0.536,2,-9.867,1,0.151,0.2,1.88e-06,0.0766,0.899,81.343,43,1972,26,6, still  love  you,ENGLISH
 261,precious and few,Climax,2:44,4,0.203,0.401,9,-12.341,1,0.0339,0.434,0.0,0.1,0.17,201.467,43,1972,16,3,precious  few,ENGLISH
-262,(last night) i didn’t get to sleep at all,The 5th Dimension,3:12,4,0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,43,1972,41,9,last night  didn’t get  sleep at all,ENGLISH
+262,(last night) i didn’t get to sleep at all,The 5th Dimension,3:12,4,0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,43,1972,41,9,last night  didn’t get  sleep  all,ENGLISH
 263,hold your head up,Argent,6:17,4,0.502,0.488,7,-12.265,1,0.0261,0.3,0.128,0.319,0.74,89.279,42,1972,17,4,hold  head up,ENGLISH
 264,drowning in the sea of love,Joe Simon,3:23,4,0.603,0.448,9,-10.548,0,0.0934,0.392,0.0157,0.105,0.509,119.717,42,1972,27,6,drowning   sea  love,ENGLISH
 265,got to be there,Michael Jackson,3:24,4,0.349,0.569,1,-9.512,1,0.0434,0.11,0.000122,0.0416,0.721,171.354,42,1972,15,4,got   there,ENGLISH
@@ -273,10 +273,10 @@
 276,rock and roll (part 2),Gary Glitter,7:16,4,0.514,0.858,9,-6.691,1,0.306,0.134,0.000196,0.101,0.47,98.023,27,1972,22,5,rock  roll part 2,GERMAN
 277,troglodyte (cave man),The Jimmy Castor Bunch,3:37,4,0.797,0.653,5,-14.226,1,0.0722,0.0527,0.0043,0.0801,0.861,133.294,27,1972,21,3,troglodyte cave man,FRENCH
 278,daddy don’t you walk so fast,Wayne Newton,3:26,4,0.541,0.305,5,-14.475,1,0.0385,0.826,2.29e-06,0.148,0.515,146.596,26,1972,28,6,daddy  you walk so fast,ENGLISH
-279,i’d love you to want me,Lobo,3:16,4,0.545,0.684,3,-10.036,1,0.0428,0.637,0.00018,0.0929,0.576,123.847,18,1972,23,6,’d love you  want ,ENGLISH
+279,i’d love you to want me,Lobo,3:16,4,0.545,0.684,3,-10.036,1,0.0428,0.637,0.00018,0.0929,0.576,123.847,18,1972,23,6, love you  want ,ENGLISH
 280,i’ll take you there,The Staple Singers,3:47,4,0.775,0.587,11,-12.71,1,0.0397,0.053,0.0102,0.0879,0.888,101.555,16,1972,19,4, take you there,ENGLISH
-281,i’d like to teach the world to sing (in perfect harmony),The Hillside Singers,2:30,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11,’d like  teach  world  sing  perfect harmony,ENGLISH
-282,i’d like to teach the world to sing (in perfect harmony),The New Seekers,2:30,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11,’d like  teach  world  sing  perfect harmony,ENGLISH
+281,i’d like to teach the world to sing (in perfect harmony),The Hillside Singers,2:30,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11, like  teach  world  sing  perfect harmony,ENGLISH
+282,i’d like to teach the world to sing (in perfect harmony),The New Seekers,2:30,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11, like  teach  world  sing  perfect harmony,ENGLISH
 283,wildflower,Skylark,4:21,4,0.467,0.247,6,-12.002,0,0.0431,0.612,0.000271,0.17,0.126,148.101,90,1973,10,1,wildflower,ENGLISH
 284,my love,Paul McCartney & Wings,2:17,4,0.504,0.308,9,-14.958,1,0.0321,0.868,0.135,0.158,0.121,113.95,89,1973,7,2, love,ENGLISH
 285,why me,Kris Kristofferson,2:41,4,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,85,1973,6,2, ,ENGLISH
@@ -320,7 +320,7 @@
 323,danny’s song,Anne Murray,4:14,4,0.505,0.258,11,-12.193,0,0.0297,0.805,0.0,0.12,0.641,141.003,61,1973,12,2,danny’s song,ENGLISH
 324,shambala,Three Dog Night,3:24,4,0.551,0.62,9,-11.464,1,0.0348,0.64,0.00147,0.559,0.834,127.495,61,1973,8,1,shambala,SPANISH
 325,give me love (give me peace on earth),George Harrison,3:35,4,0.365,0.57,5,-11.674,1,0.0466,0.499,0.0128,0.13,0.639,81.149,60,1973,37,8,give  love give  peace  earth,ENGLISH
-326,we’re an american band,Grand Funk Railroad,3:27,4,0.637,0.89,7,-4.872,1,0.0676,0.119,6.5e-05,0.103,0.923,127.688,60,1973,22,4, an american band,ENGLISH
+326,we’re an american band,Grand Funk Railroad,3:27,4,0.637,0.89,7,-4.872,1,0.0676,0.119,6.5e-05,0.103,0.923,127.688,60,1973,22,4,  american band,ENGLISH
 327,all i know,Garfunkel,1:58,4,0.719,0.549,10,-8.297,1,0.147,0.327,0.148,0.117,0.192,102.092,59,1973,10,3,all  know,ENGLISH
 328,superfly,Curtis Mayfield,3:53,4,0.784,0.708,2,-9.141,1,0.11,0.457,7.5e-05,0.0913,0.748,120.11,57,1973,8,1,superfly,ENGLISH
 329,the cover of the rolling stone,Dr. Hook & The Medicine Show,2:52,4,0.614,0.56,9,-8.168,1,0.0699,0.201,0.0,0.214,0.826,142.332,57,1973,30,6, cover   rolling stone,ENGLISH
@@ -336,7 +336,7 @@
 339,that lady,The Isley Brothers,5:34,4,0.344,0.769,5,-9.112,0,0.0606,0.261,0.000122,0.335,0.923,126.318,54,1973,9,2, lady,ENGLISH
 340,your mama don’t dance,Loggins and Messina,2:47,4,0.545,0.816,0,-7.37,1,0.0343,0.0471,1.18e-05,0.163,0.962,146.211,53,1973,21,4, mama  dance,FRENCH
 341,diamond girl,Seals and Crofts,4:13,4,0.575,0.386,4,-12.012,0,0.0319,0.463,0.00176,0.0576,0.414,138.467,53,1973,12,2,diamond girl,ENGLISH
-342,why can’t we live together,Timmy Thomas,5:28,4,0.837,0.322,10,-10.161,1,0.0356,0.81,0.875,0.0966,0.962,104.499,53,1973,26,5, can’t  live together,ENGLISH
+342,why can’t we live together,Timmy Thomas,5:28,4,0.837,0.322,10,-10.161,1,0.0356,0.81,0.875,0.0966,0.962,104.499,53,1973,26,5,   live together,ENGLISH
 343,i believe in you (you believe in me),Johnnie Taylor,3:21,4,0.612,0.744,8,-5.671,1,0.033,0.125,2.57e-06,0.0978,0.527,113.009,52,1973,36,8, believe  you you believe  ,ENGLISH
 344,touch me in the morning,Diana Ross,3:27,4,0.356,0.615,6,-7.211,1,0.0315,0.456,0.0,0.0477,0.602,137.186,51,1973,23,5,touch    morning,ENGLISH
 345,hocus pocus,Focus,6:42,4,0.267,0.722,2,-7.344,1,0.102,0.00596,0.893,0.35,0.347,184.093,50,1973,11,2,hocus pocus,ENGLISH
@@ -365,7 +365,7 @@
 368,funny face,Donna Fargo,2:46,3,0.541,0.249,2,-13.125,1,0.0339,0.813,5.59e-05,0.159,0.437,96.802,36,1973,10,2,funny face,ENGLISH
 369,don’t expect me to be your friend,Lobo,3:35,4,0.607,0.419,2,-10.837,1,0.0279,0.181,0.000949,0.108,0.476,78.627,35,1973,33,7, expect     friend,ENGLISH
 370,yes we can can,The Pointer Sisters,6:02,4,0.745,0.544,7,-14.06,1,0.21,0.0239,0.000524,0.0901,0.84,88.383,33,1973,14,4,yes  can can,ENGLISH
-371,heartbeat – it’s a lovebeat,the DeFranco Family featuring Tony DeFranco,3:14,4,0.48,0.761,6,-9.895,0,0.0346,0.2,0.0,0.05,0.794,145.338,31,1973,27,5,heartbeat – ’s  lovebeat,ENGLISH
+371,heartbeat – it’s a lovebeat,the DeFranco Family featuring Tony DeFranco,3:14,4,0.48,0.761,6,-9.895,0,0.0346,0.2,0.0,0.05,0.794,145.338,31,1973,27,5,heartbeat –   lovebeat,ENGLISH
 372,daddy’s home,Jermaine Jackson,3:17,4,0.327,0.816,8,-7.88,1,0.318,0.804,0.00031,0.974,0.636,205.747,30,1973,12,2,daddy’s home,ENGLISH
 373,playground in my mind,Clint Holmes,2:52,4,0.704,0.681,5,-7.4,1,0.0343,0.431,0.0,0.11,0.927,125.209,28,1973,21,4,playground   mind,ENGLISH
 374,"oh, babe, what would you say?",Hurricane Smith,3:29,4,0.37,0.587,0,-7.111,1,0.0318,0.603,5.82e-06,0.12,0.598,151.152,28,1973,29,6,"oh, babe,  would you say?",ENGLISH
@@ -373,7 +373,7 @@
 376,keeper of the castle,The Four Tops,2:56,4,0.57,0.625,8,-7.548,1,0.0347,0.47,0.0,0.0922,0.962,78.342,27,1973,20,4,keeper   castle,ENGLISH
 377,gypsy man,War,5:23,4,0.523,0.688,9,-8.442,0,0.0557,0.00511,0.195,0.259,0.778,126.921,25,1973,9,2,gypsy man,ENGLISH
 378,you’re so vain,Carly Simon,4:18,4,0.665,0.594,0,-10.638,1,0.0293,0.0969,1.16e-05,0.0818,0.749,105.934,23,1973,14,3, so vain,FRENCH
-379,ain’t no woman (like the one i’ve got),The Four Tops,2:37,4,0.519,0.71,9,-10.908,0,0.0362,0.665,0.963,0.0889,0.67,102.585,18,1973,38,8, no woman like  one ’ve got,ENGLISH
+379,ain’t no woman (like the one i’ve got),The Four Tops,2:37,4,0.519,0.71,9,-10.908,0,0.0362,0.665,0.963,0.0889,0.67,102.585,18,1973,38,8, no woman like  one  got,ENGLISH
 380,could it be i’m falling in love,The Spinners,4:09,4,0.382,0.727,9,-6.677,0,0.0861,0.729,0.0,0.196,0.826,207.266,17,1973,31,7,    falling  love,ENGLISH
 381,also sprach zarathustra (2001),Deodato,8:59,4,0.425,0.669,5,-9.481,1,0.0316,0.0844,0.916,0.9,0.324,114.751,15,1973,30,4,also sprach zarathustra 2001,GERMAN
 382,i’m doin’ fine now,New York City,4:00,4,0.789,0.743,7,-12.758,0,0.0341,0.00162,0.455,0.0416,0.96,115.984,8,1973,18,4, doin’ fine now,ENGLISH
@@ -381,7 +381,7 @@
 384,come and get your love,Redbone,3:25,4,0.731,0.804,11,-7.621,0,0.0473,0.172,0.00028,0.0685,0.957,107.383,83,1974,22,5,come  get  love,ENGLISH
 385,sweet home alabama,Lynyrd Skynyrd,4:43,4,0.596,0.606,7,-12.145,1,0.0255,0.181,0.000327,0.0863,0.886,97.785,81,1974,18,3,sweet home alabama,ENGLISH
 386,"never, never gonna give you up",Barry White,3:33,4,0.721,0.939,8,-11.823,1,0.0376,0.115,3.79e-05,0.108,0.914,113.309,79,1974,30,6,"never, never  give you up",ENGLISH
-387,can’t get enough,Bad Company,3:39,4,0.659,0.629,0,-8.685,0,0.18,0.19,0.0,0.105,0.262,94.049,78,1974,16,3,can’t get enough,ENGLISH
+387,can’t get enough,Bad Company,3:39,4,0.659,0.629,0,-8.685,0,0.18,0.19,0.0,0.105,0.262,94.049,78,1974,16,3, get enough,ENGLISH
 388,goodbye yellow brick road,Elton John,3:12,4,0.559,0.473,5,-7.712,1,0.0279,0.446,0.00141,0.154,0.397,121.227,76,1974,25,4,goodbye yellow brick road,ENGLISH
 389,time in a bottle,Jim Croce,2:28,3,0.533,0.157,2,-16.838,1,0.0374,0.888,0.0,0.108,0.587,134.019,76,1974,16,4,time   bottle,ENGLISH
 390,waterloo,ABBA,2:48,4,0.445,0.949,2,-4.682,1,0.0471,0.395,8.18e-06,0.0902,0.653,147.604,75,1974,8,1,waterloo,ENGLISH
@@ -422,7 +422,7 @@
 425,the bitch is back,Elton John,3:44,4,0.586,0.86,1,-6.752,1,0.0578,0.0372,0.0011,0.1,0.942,132.798,56,1974,17,4, bitch  back,ENGLISH
 426,hollywood swinging,Kool & the Gang,4:39,4,0.623,0.824,6,-8.971,0,0.0479,0.0195,0.13,0.0491,0.574,111.356,56,1974,18,2,hollywood swinging,ENGLISH
 427,be thankful for what you got,William DeVaughn,3:41,4,0.778,0.481,6,-13.136,0,0.0565,0.00345,0.0102,0.105,0.879,107.183,56,1974,28,6, thankful   you got,ENGLISH
-428,hello it’s me,Todd Rundgren,4:24,4,0.578,0.848,5,-6.842,1,0.0261,0.0563,0.00426,0.0963,0.779,87.246,55,1974,13,3,hello ’s ,ENGLISH
+428,hello it’s me,Todd Rundgren,4:24,4,0.578,0.848,5,-6.842,1,0.0261,0.0563,0.00426,0.0963,0.779,87.246,55,1974,13,3,hello  ,ENGLISH
 429,for the love of money,The O’Jays,7:19,4,0.679,0.802,0,-7.739,1,0.0406,0.236,2.33e-06,0.132,0.894,97.375,54,1974,21,5,  love  money,ENGLISH
 430,you won’t see me,Anne Murray,3:19,4,0.488,0.539,9,-8.752,1,0.0304,0.136,0.0,0.0538,0.473,115.941,53,1974,16,4,you  see ,ENGLISH
 431,back home again,John Denver,4:45,4,0.528,0.305,4,-11.671,1,0.0301,0.837,3.03e-06,0.113,0.549,117.828,52,1974,15,3,back home again,ENGLISH
@@ -440,7 +440,7 @@
 443,hang on in there baby,Johnny Bristol,3:53,4,0.593,0.855,7,-8.421,1,0.0775,0.336,2.1e-05,0.126,0.648,96.183,49,1974,21,5,hang   there baby,ENGLISH
 444,the lord’s prayer,Sister Janet Mead,3:23,4,0.518,0.841,9,-5.744,1,0.0503,0.0203,0.0,0.0676,0.464,150.033,49,1974,17,3, lord’s prayer,ENGLISH
 445,best thing that ever happened to me,Gladys Knight & the Pips,3:44,4,0.352,0.545,1,-11.939,0,0.0871,0.309,0.0563,0.106,0.459,189.498,48,1974,35,7,best thing  ever happened  ,ENGLISH
-446,midnight at the oasis,Maria Muldaur,5:20,4,0.637,0.64,8,-8.244,1,0.0385,0.191,0.782,0.0436,0.419,88.923,48,1974,21,4,midnight at  oasis,ENGLISH
+446,midnight at the oasis,Maria Muldaur,5:20,4,0.637,0.64,8,-8.244,1,0.0385,0.191,0.782,0.0436,0.419,88.923,48,1974,21,4,midnight   oasis,ENGLISH
 447,i honestly love you,Olivia Newton-John,3:40,4,0.355,0.112,10,-15.309,1,0.0362,0.959,0.000104,0.0674,0.153,134.893,48,1974,19,4, honestly love you,ENGLISH
 448,the night chicago died,Paper Lace,3:23,4,0.767,0.45,0,-12.352,1,0.0824,0.347,0.0,0.113,0.809,106.847,48,1974,22,4, night chicago died,ENGLISH
 449,tubular bells,Mike Oldfield,26:01,4,0.374,0.219,4,-19.104,0,0.0343,0.564,0.56,0.114,0.0579,103.535,47,1974,13,2,tubular bells,ENGLISH
@@ -467,14 +467,14 @@
 470,you haven’t done nothin’,Stevie Wonder,3:23,4,0.748,0.65,10,-10.17,0,0.0369,0.305,2.23e-05,0.213,0.825,101.503,33,1974,24,4,you haven’t done nothin’,ENGLISH
 471,my melody of love,Bobby Vinton,3:11,4,0.382,0.483,9,-9.625,1,0.0258,0.337,0.0,0.282,0.461,82.612,30,1974,17,4, melody  love,ENGLISH
 472,leave me alone (ruby red dress),Helen Reddy,3:27,4,0.655,0.626,7,-11.386,1,0.0467,0.134,2.3e-05,0.0586,0.874,134.071,30,1974,31,6,leave  alone ruby red dress,ENGLISH
-473,until you come back to me (that’s what i’m gonna do),Aretha Franklin,3:26,4,0.68,0.54,2,-9.831,1,0.0275,0.624,0.000908,0.116,0.718,94.548,29,1974,52,11,until you come back   ’s    do,ENGLISH
+473,until you come back to me (that’s what i’m gonna do),Aretha Franklin,3:26,4,0.68,0.54,2,-9.831,1,0.0275,0.624,0.000908,0.116,0.718,94.548,29,1974,52,11,until you come back       do,ENGLISH
 474,put your hands together,The O’Jays,4:07,4,0.579,0.773,7,-7.199,1,0.109,0.506,2.08e-05,0.188,0.737,141.258,29,1974,23,4,put  hands together,ENGLISH
-475,"can’t get enough of your love, babe",Barry White,4:30,4,0.539,0.793,5,-9.589,1,0.0352,0.0389,3.77e-06,0.33,0.715,111.299,28,1974,35,7,"can’t get enough   love, babe",ENGLISH
-476,i’ve got to use my imagination,Gladys Knight & the Pips,4:14,4,0.56,0.397,9,-14.496,0,0.0276,0.457,0.0183,0.112,0.894,97.01,26,1974,30,6,’ve got  use  imagination,ENGLISH
+475,"can’t get enough of your love, babe",Barry White,4:30,4,0.539,0.793,5,-9.589,1,0.0352,0.0389,3.77e-06,0.33,0.715,111.299,28,1974,35,7," get enough   love, babe",ENGLISH
+476,i’ve got to use my imagination,Gladys Knight & the Pips,4:14,4,0.56,0.397,9,-14.496,0,0.0276,0.457,0.0183,0.112,0.894,97.01,26,1974,30,6, got  use  imagination,ENGLISH
 477,steppin’ out (gonna boogie tonight),Tony Orlando and Dawn,2:54,4,0.627,0.631,2,-9.218,1,0.0361,0.246,0.0,0.0418,0.895,163.474,19,1974,35,5,steppin’ out  boogie tonight,ENGLISH
 478,spiders and snakes,Jim Stafford,2:54,4,0.659,0.707,4,-10.244,1,0.0962,0.636,7.95e-06,0.1,0.754,86.283,12,1974,18,3,spiders  snakes,ENGLISH
 479,i’m leaving it up to you,Donny and Marie Osmond,3:04,4,0.44,0.31,10,-15.53,1,0.0357,0.738,0.000311,0.779,0.696,77.002,4,1974,24,6, leaving  up  you,ENGLISH
-480,(i’ve been) searchin’ so long,Chicago,4:20,4,0.322,0.647,7,-3.862,1,0.0291,0.438,4.47e-06,0.985,0.169,90.75,0,1974,29,5,’ve been searchin’ so long,ENGLISH
+480,(i’ve been) searchin’ so long,Chicago,4:20,4,0.322,0.647,7,-3.862,1,0.0291,0.438,4.47e-06,0.985,0.169,90.75,0,1974,29,5, been searchin’ so long,ENGLISH
 481,(you’re) having my baby,Paul Anka with Odia Coates,2:38,4,0.445,0.637,0,-9.1,1,0.0284,0.571,0.0,0.121,0.304,180.159,0,1974,23,4, having  baby,ENGLISH
 482,brazil,the Ritchie Family,4:12,4,0.687,0.617,4,-5.213,1,0.0287,0.0941,1.27e-05,0.0898,0.665,121.079,83,1975,6,1,brazil,ENGLISH
 483,i’m sorry,John Denver,2:47,5,0.445,0.455,7,-6.405,1,0.0575,0.731,1.47e-06,0.124,0.151,109.885,81,1975,9,2, sorry,ENGLISH
@@ -521,7 +521,7 @@
 524,old days,Chicago,3:15,4,0.599,0.71,1,-7.39,1,0.576,0.351,0.0,0.113,0.572,82.243,59,1975,8,2,old days,ENGLISH
 525,miracles,Jefferson Starship,2:54,4,0.721,0.718,7,-6.916,1,0.0431,0.00146,0.00013,0.12,0.343,96.48,59,1975,8,1,miracles,FRENCH
 526,when will i be loved,Linda Ronstadt,2:04,4,0.513,0.573,9,-10.023,1,0.0337,0.186,0.000958,0.0878,0.621,132.607,59,1975,20,5,    loved,ENGLISH
-527,why can’t we be friends,War,3:50,4,0.776,0.68,10,-10.088,1,0.0389,0.179,0.0,0.483,0.962,92.481,59,1975,23,5, can’t   friends,ENGLISH
+527,why can’t we be friends,War,3:50,4,0.776,0.68,10,-10.088,1,0.0389,0.179,0.0,0.483,0.962,92.481,59,1975,23,5,    friends,ENGLISH
 528,philadelphia freedom,Elton John,5:24,4,0.712,0.681,0,-6.351,0,0.0294,0.0444,0.000235,0.0592,0.809,125.497,57,1975,20,2,philadelphia freedom,ENGLISH
 529,never can say goodbye,Gloria Gaynor,2:59,4,0.527,0.821,2,-7.19,1,0.047,0.337,1.68e-06,0.394,0.835,166.139,55,1975,21,4,never can say goodbye,ENGLISH
 530,get down tonight,KC and the Sunshine Band,5:17,4,0.671,0.776,10,-11.414,1,0.0282,0.137,0.00649,0.394,0.92,112.629,55,1975,16,3,get down tonight,ENGLISH
@@ -530,7 +530,7 @@
 533,someone saved my life tonight,Elton John,6:44,4,0.457,0.428,1,-9.796,1,0.0283,0.329,2.21e-06,0.169,0.151,129.98,54,1975,29,5,someone saved  life tonight,ENGLISH
 534,island girl,Elton John,4:18,4,0.801,0.495,9,-11.286,0,0.0474,0.0314,0.0002,0.0596,0.896,143.867,53,1975,11,2,island girl,ENGLISH
 535,who loves you,Four Seasons,4:15,4,0.68,0.608,2,-12.575,1,0.0499,0.0729,0.0,0.0911,0.904,137.481,53,1975,13,3,who loves you,ENGLISH
-536,at seventeen,Janis Ian,2:41,4,0.557,0.853,8,-5.116,1,0.16,0.00223,0.0,0.267,0.565,174.985,53,1975,12,2,at seventeen,ENGLISH
+536,at seventeen,Janis Ian,2:41,4,0.557,0.853,8,-5.116,1,0.16,0.00223,0.0,0.267,0.565,174.985,53,1975,12,2, seventeen,ENGLISH
 537,fight the power,The Isley Brothers,4:42,4,0.797,0.582,2,-12.97,1,0.255,0.00484,2.04e-06,0.517,0.415,105.974,53,1975,15,3,fight  power,ENGLISH
 538,before the next teardrop falls,Freddy Fender,2:29,4,0.778,0.307,10,-9.356,1,0.0341,0.892,0.000287,0.0985,0.699,92.299,52,1975,30,5,before  next teardrop falls,ENGLISH
 539,chevy van,Sammy Johns,2:59,4,0.449,0.547,9,-12.259,1,0.0351,0.457,0.0,0.0737,0.74,152.211,52,1975,9,2,chevy van,ENGLISH
@@ -562,17 +562,17 @@
 567,the ballroom blitz,Sweet,3:41,4,0.601,0.948,1,-5.176,0,0.0543,0.000598,0.00031,0.0537,0.511,112.49,31,1975,18,3, ballroom blitz,ENGLISH
 568,ain’t no way to treat a lady,Helen Reddy,3:28,4,0.486,0.32,10,-14.084,1,0.0389,0.728,4.79e-05,0.0979,0.35,80.207,30,1975,28,7, no way  treat  lady,ENGLISH
 569,the rockford files theme,Mike Post,3:06,4,0.489,0.562,2,-11.494,1,0.0301,0.0671,0.92,0.191,0.23,111.921,28,1975,24,4, rockford files theme,ENGLISH
-570,they just can’t stop it the (games people play),the Spinners,3:31,4,0.722,0.409,11,-12.056,0,0.0341,0.513,0.000426,0.119,0.659,76.522,27,1975,47,9,they just can’t stop   games people play,ENGLISH
+570,they just can’t stop it the (games people play),the Spinners,3:31,4,0.722,0.409,11,-12.056,0,0.0341,0.513,0.000426,0.119,0.659,76.522,27,1975,47,9,they just  stop   games people play,ENGLISH
 571,dynomite,Tony Camillo’s Bazuka,1:17,4,0.685,0.403,0,-10.887,1,0.305,0.00483,0.0,0.174,0.546,93.826,23,1975,8,1,dynomite,ENGLISH
 572,thank god i’m a country boy,John Denver,3:20,3,0.398,0.703,9,-11.289,1,0.319,0.662,0.0,0.703,0.861,202.14,16,1975,27,6,thank god   country boy,ENGLISH
-573,that’s the way of the world,"Earth, Wind & Fire",8:43,4,0.265,0.969,1,-5.062,1,0.448,0.016,0.000223,0.717,0.302,90.017,15,1975,27,6,’s  way   world,ENGLISH
+573,that’s the way of the world,"Earth, Wind & Fire",8:43,4,0.265,0.969,1,-5.062,1,0.448,0.016,0.000223,0.717,0.302,90.017,15,1975,27,6,  way   world,ENGLISH
 574,"get down, get down (get on the floor)",Joe Simon,4:31,4,0.985,0.782,1,-12.575,1,0.0976,0.0272,0.0,0.0574,0.86,124.382,13,1975,37,8,"get down, get down get   floor",ENGLISH
-575,can’t get it out of my head,Electric Light Orchestra,3:53,4,0.298,0.797,0,-6.54,1,0.0334,0.0132,0.0,0.935,0.205,97.984,9,1975,27,7,can’t get  out   head,ENGLISH
+575,can’t get it out of my head,Electric Light Orchestra,3:53,4,0.298,0.797,0,-6.54,1,0.0334,0.0132,0.0,0.935,0.205,97.984,9,1975,27,7, get  out   head,ENGLISH
 576,doctor’s orders,Carol Douglas,4:23,4,0.657,0.914,7,-4.493,1,0.0285,0.002,0.0356,0.0688,0.542,127.001,6,1975,15,2,doctor’s orders,ENGLISH
 577,"you’re the first, the last, my everything",Barry White,3:08,4,0.598,0.807,5,-6.652,1,0.0282,0.000288,0.00246,0.181,0.919,132.072,4,1975,41,7,"  first,  last,  everything",ENGLISH
 578,cat’s in the cradle,Harry Chapin,5:15,3,0.519,0.423,9,-7.051,1,0.0303,0.0938,1.81e-05,0.108,0.224,144.597,2,1975,19,4,cat’s   cradle,ENGLISH
 579,i’m not lisa,Jessi Colter,3:30,4,0.38,0.342,5,-8.256,1,0.0279,0.757,0.000259,0.638,0.366,71.962,1,1975,12,3, not lisa,FRENCH
-580,"don’t call us, we’ll call you",Sugarloaf,3:50,4,0.221,0.954,8,-5.457,1,0.143,0.00263,9.57e-05,0.341,0.19,150.978,0,1975,29,6," call , ’ll call you",ENGLISH
+580,"don’t call us, we’ll call you",Sugarloaf,3:50,4,0.221,0.954,8,-5.457,1,0.143,0.00263,9.57e-05,0.341,0.19,150.978,0,1975,29,6," call ,  call you",ENGLISH
 581,summer,War,3:42,4,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,86,1976,6,1,summer,GERMAN
 582,dream on,Aerosmith,4:27,4,0.392,0.476,1,-7.583,1,0.0249,0.397,0.000163,0.309,0.234,78.031,82,1976,8,2,dream ,ENGLISH
 583,all,MYSELF,3:38,4,0.585,0.55,11,-7.342,1,0.0255,0.408,3.97e-05,0.115,0.839,78.176,81,1976,3,1,all,ENGLISH
@@ -658,14 +658,14 @@
 663,tryin’ to get the feeling again,Barry Manilow,3:51,4,0.274,0.553,3,-9.345,1,0.0505,0.612,0.000171,0.182,0.252,136.488,39,1976,31,6,tryin’  get  feeling again,ENGLISH
 664,country boy (you got your feet in l.a.),Glen Campbell,3:07,4,0.643,0.735,10,-8.621,1,0.0255,0.379,0.0,0.0605,0.885,114.212,39,1976,39,8,country boy you got  feet  l..,ENGLISH
 665,get up and boogie,Silver Convention,2:52,4,0.797,0.552,7,-14.86,1,0.0303,0.117,0.00132,0.0806,0.967,104.988,39,1976,17,4,get up  boogie,ENGLISH
-666,that’ll be the day,Linda Ronstadt,2:38,4,0.56,0.14,1,-20.439,1,0.0325,0.862,0.968,0.0927,0.0589,74.483,32,1976,18,4,’ll   day,ENGLISH
+666,that’ll be the day,Linda Ronstadt,2:38,4,0.56,0.14,1,-20.439,1,0.0325,0.862,0.968,0.0927,0.0589,74.483,32,1976,18,4,   day,ENGLISH
 667,deep purple,Donny & Marie Osmond,2:40,3,0.507,0.32,5,-12.472,1,0.0305,0.881,2.59e-05,0.153,0.575,130.565,30,1976,11,2,deep purple,ENGLISH
 668,disco duck,Rick Dees & His Cast of Idiots,3:18,4,0.81,0.448,4,-15.137,1,0.0693,0.132,0.000926,0.063,0.968,117.04,30,1976,10,2,disco duck,ENGLISH
 669,lonely night (angel face),Captain & Tennille,3:18,4,0.593,0.698,0,-9.163,1,0.191,0.508,2.23e-05,0.0796,0.647,122.139,25,1976,25,4,lonely night angel face,ENGLISH
 670,don’t go breaking my heart,Elton John & Kiki Dee,4:11,4,0.481,0.995,5,-5.174,1,0.0417,0.0247,0.000209,0.962,0.452,139.224,23,1976,26,5, go breaking  heart,ENGLISH
 671,you’ll never find another love like mine,Lou Rawls,3:52,4,0.564,0.657,7,-9.318,1,0.109,0.653,0.0,0.122,0.516,129.849,21,1976,40,7,you’ll never find another love like mine,ENGLISH
-672,that’s the way (i like it),KC and the Sunshine Band,3:03,4,0.685,0.919,5,-9.046,0,0.0395,0.161,0.125,0.35,0.904,108.685,20,1976,26,6,’s  way  like ,ENGLISH
-673,i’d really love to see you tonight,England Dan & John Ford Coley,2:39,4,0.62,0.556,5,-12.044,1,0.0336,0.184,0.0,0.301,0.591,119.17,19,1976,34,7,’d really love  see you tonight,ENGLISH
+672,that’s the way (i like it),KC and the Sunshine Band,3:03,4,0.685,0.919,5,-9.046,0,0.0395,0.161,0.125,0.35,0.904,108.685,20,1976,26,6,  way  like ,ENGLISH
+673,i’d really love to see you tonight,England Dan & John Ford Coley,2:39,4,0.62,0.556,5,-12.044,1,0.0336,0.184,0.0,0.301,0.591,119.17,19,1976,34,7, really love  see you tonight,ENGLISH
 674,i’ll be good to you,The Brothers Johnson,4:12,4,0.599,0.232,8,-8.156,1,0.0394,0.827,0.0,0.134,0.44,131.023,18,1976,19,5,  good  you,ENGLISH
 675,nadia’s theme (the young and the restless),"Barry DeVorzon and Perry Botkin, Jr.",3:09,4,0.279,0.243,7,-12.56,0,0.0298,0.913,0.959,0.0939,0.0393,139.649,15,1976,42,7,nadia’s theme  young   restless,ENGLISH
 677,let’s do it again,The Staple Singers,2:52,4,0.607,0.883,9,-4.588,1,0.0308,0.0116,0.0,0.0832,0.962,127.534,11,1976,17,4,let’s do  again,ENGLISH
@@ -706,7 +706,7 @@
 712,i just want to be your everything,Andy Gibb,3:45,4,0.651,0.648,9,-7.44,1,0.0346,0.167,1.7e-05,0.192,0.868,97.017,65,1977,33,7, just want    everything,ENGLISH
 713,brick house,Commodores,3:28,4,0.832,0.782,4,-10.48,0,0.0597,0.0743,0.0179,0.032,0.63,107.878,65,1977,11,2,brick house,ENGLISH
 714,sorry seems to be the hardest word,Elton John,3:48,4,0.371,0.22,7,-12.797,0,0.0324,0.828,1.23e-06,0.195,0.112,118.464,65,1977,34,7,sorry seems    hardest word,ENGLISH
-715,fly like an eagle,Steve Miller Band,4:42,4,0.561,0.754,9,-12.769,0,0.112,0.61,0.0194,0.328,0.642,100.08,65,1977,17,4,fly like an eagle,ENGLISH
+715,fly like an eagle,Steve Miller Band,4:42,4,0.561,0.754,9,-12.769,0,0.112,0.61,0.0194,0.328,0.642,100.08,65,1977,17,4,fly like  eagle,ENGLISH
 716,jet airliner,Steve Miller Band,3:35,4,0.574,0.664,5,-11.5,1,0.0346,0.0737,0.0,0.22,0.936,122.956,65,1977,12,2,jet airliner,GERMAN
 717,the rubberband man,The Spinners,3:33,4,0.801,0.446,10,-14.604,1,0.0745,0.74,0.038,0.0832,0.924,97.894,65,1977,18,3, rubberband man,ENGLISH
 718,the things we do for love,10cc,3:27,4,0.637,0.528,1,-9.837,1,0.0394,0.163,0.0,0.122,0.781,106.949,64,1977,25,6, things  do  love,ENGLISH
@@ -758,9 +758,9 @@
 764,after the lovin’,Engelbert Humperdinck,3:53,3,0.33,0.532,0,-8.48,1,0.0333,0.523,6.51e-06,0.173,0.358,117.936,40,1977,16,3,after  lovin’,ENGLISH
 765,you don’t have to be a star (to be in my show),Marilyn McCoo & Billy Davis Jr.,4:39,4,0.475,0.556,6,-8.388,0,0.0321,0.312,0.0,0.216,0.917,200.033,40,1977,46,12,you  have    star     show,ENGLISH
 767,undercover angel,Alan O’Day,3:31,4,0.673,0.662,5,-7.021,1,0.04,0.226,0.0,0.121,0.725,98.564,33,1977,16,2,undercover angel,ENGLISH
-768,it’s ecstasy when you lay down next to me,Barry White,3:28,4,0.859,0.383,0,-10.954,1,0.0391,0.0302,0.0195,0.0395,0.749,102.572,33,1977,41,9,’s ecstasy  you lay down next  ,ENGLISH
+768,it’s ecstasy when you lay down next to me,Barry White,3:28,4,0.859,0.383,0,-10.954,1,0.0391,0.0302,0.0195,0.0395,0.749,102.572,33,1977,41,9, ecstasy  you lay down next  ,ENGLISH
 769,i like dreamin’,Kenny Nolan,3:32,4,0.379,0.61,6,-7.681,1,0.0307,0.0749,0.0,0.0927,0.371,135.11,32,1977,15,3, like dreamin’,ENGLISH
-770,that’s rock ‘n’ roll,Shaun Cassidy,2:34,4,0.586,0.855,4,-8.904,1,0.0414,0.32,0.0605,0.113,0.963,128.512,32,1977,20,4,’s rock ‘n’ roll,ENGLISH
+770,that’s rock ‘n’ roll,Shaun Cassidy,2:34,4,0.586,0.855,4,-8.904,1,0.0414,0.32,0.0605,0.113,0.963,128.512,32,1977,20,4, rock ‘n’ roll,ENGLISH
 771,you made me believe in magic,Bay City Rollers,2:41,4,0.608,0.876,0,-5.82,0,0.0694,0.237,0.0,0.207,0.865,126.465,28,1977,28,6,you made  believe  magic,ENGLISH
 772,swayin’ to the music (slow dancing),Johnny Rivers,4:08,4,0.6,0.537,7,-9.639,1,0.0278,0.169,8.34e-05,0.111,0.4,175.924,28,1977,35,6,swayin’   music slow dancing,ENGLISH
 773,hot line,The Sylvers,3:01,4,0.845,0.911,2,-8.656,1,0.0528,0.31,0.0,0.0825,0.965,132.827,26,1977,8,2,hot line,ENGLISH
@@ -769,7 +769,7 @@
 776,don’t it make my brown eyes blue,Crystal Gayle,2:38,4,0.587,0.237,6,-16.541,1,0.0407,0.499,1.31e-06,0.614,0.368,85.383,7,1977,32,7,  make  brown eyes blue,ENGLISH
 777,couldn’t get it right,Climax Blues Band,6:11,4,0.655,0.937,9,-6.355,1,0.0415,0.213,0.00337,0.218,0.845,104.209,5,1977,21,4,couldn’t get  right,ENGLISH
 778,ain’t gonna bump no more (with no big fat woman),Joe Tex,3:15,4,0.742,0.745,2,-8.68,1,0.0633,0.0176,0.00202,0.321,0.896,113.194,0,1977,48,10,  bump no more  no big fat woman,ENGLISH
-779,i’ve got love on my mind,Natalie Cole,3:54,3,0.494,0.44,1,-11.18,1,0.0425,0.0133,0.0,0.113,0.124,205.845,0,1977,24,6,’ve got love   mind,ENGLISH
+779,i’ve got love on my mind,Natalie Cole,3:54,3,0.494,0.44,1,-11.18,1,0.0425,0.0133,0.0,0.113,0.124,205.845,0,1977,24,6, got love   mind,ENGLISH
 780,tonight’s the night (gonna be alright),Rod Stewart,3:33,3,0.567,0.606,11,-10.71,1,0.0421,0.104,0.0176,0.582,0.645,135.22,0,1977,38,6,tonight’s  night   alright,ENGLISH
 781,just the way you are,Billy Joel,3:40,4,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,84,1978,20,5,just  way you are,ENGLISH
 782,flash light,Parliament,3:57,4,0.639,0.628,6,-7.578,0,0.0398,0.0381,0.0,0.386,0.43,90.482,84,1978,11,2,flash light,ENGLISH
@@ -794,7 +794,7 @@
 801,reminiscing,Little River Band,4:17,4,0.35,0.443,7,-11.01,1,0.0369,0.762,0.00192,0.0994,0.345,189.125,67,1978,11,1,reminiscing,ENGLISH
 802,love is in the air,John Paul Young,3:28,4,0.617,0.568,0,-14.255,1,0.0335,0.0429,0.000254,0.0422,0.949,122.562,66,1978,18,5,love    air,ENGLISH
 803,miss you,The Rolling Stones,2:07,4,0.702,0.923,1,-5.077,0,0.295,0.21,0.0,0.06,0.687,128.021,66,1978,8,2,miss you,ENGLISH
-804,if i can’t have you,Yvonne Elliman,3:10,4,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,66,1978,19,5,  can’t have you,ENGLISH
+804,if i can’t have you,Yvonne Elliman,3:10,4,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,66,1978,19,5,   have you,ENGLISH
 805,how much i feel,Ambrosia,4:43,4,0.667,0.513,4,-7.96,1,0.026,0.305,0.0,0.0851,0.518,95.306,65,1978,15,4, much  feel,ENGLISH
 806,still the same,Bob Seger & The Silver Bullet Band,3:23,4,0.709,0.767,0,-6.732,1,0.0283,0.405,0.000172,0.0592,0.557,115.64,65,1978,14,3,still  same,ENGLISH
 807,running on empty,Jackson Browne,4:51,4,0.541,0.711,9,-13.492,1,0.0383,0.0635,0.0201,0.719,0.588,136.58,65,1978,16,3,running  empty,ENGLISH
@@ -813,7 +813,7 @@
 820,jack and jill,Raydio,1:39,4,0.519,0.0265,7,-26.128,1,0.0554,0.992,0.94,0.0986,0.523,98.47,63,1978,13,3,jack  jill,ENGLISH
 821,hollywood nights,Bob Seger & The Silver Bullet Band,5:02,4,0.529,0.968,9,-5.198,1,0.0503,0.00506,0.00034,0.201,0.751,150.326,62,1978,16,2,hollywood nights,ENGLISH
 822,blue bayou,Linda Ronstadt,3:59,4,0.732,0.161,11,-12.817,1,0.0306,0.739,0.000379,0.105,0.5,95.21,62,1978,10,2,blue bayou,ENGLISH
-823,it’s so easy,Linda Ronstadt,3:22,4,0.388,0.989,8,-6.181,1,0.162,0.0206,1.16e-05,0.126,0.199,150.77,62,1978,12,3,’s so easy,ENGLISH
+823,it’s so easy,Linda Ronstadt,3:22,4,0.388,0.989,8,-6.181,1,0.162,0.0206,1.16e-05,0.126,0.199,150.77,62,1978,12,3, so easy,ENGLISH
 824,peg,Steely Dan,3:57,4,0.778,0.441,7,-15.259,1,0.0314,0.22,0.000652,0.171,0.944,116.918,62,1978,3,1,peg,GERMAN
 825,turn to stone,Electric Light Orchestra,3:49,4,0.548,0.72,1,-9.777,0,0.0409,0.0686,0.000232,0.107,0.458,140.966,61,1978,13,3,turn  stone,ENGLISH
 826,lay down sally,Eric Clapton,3:56,4,0.69,0.5,4,-16.145,0,0.0909,0.598,0.0288,0.11,0.586,191.539,61,1978,14,3,lay down sally,ENGLISH
@@ -833,7 +833,7 @@
 840,love will find a way,Pablo Cruise,4:11,4,0.78,0.491,7,-13.934,1,0.0351,0.00719,1.8e-05,0.0677,0.843,124.238,55,1978,20,5,love  find  way,ENGLISH
 841,slip slidin’ away,Paul Simon,4:45,4,0.641,0.409,8,-12.452,1,0.0348,0.743,2.58e-06,0.118,0.315,121.165,55,1978,17,3,slip slidin’ away,ENGLISH
 842,use ta be my girl,The O’Jays,3:18,4,0.65,0.614,1,-7.367,1,0.0522,0.528,0.0,0.167,0.872,111.477,55,1978,17,5,use ta   girl,ENGLISH
-843,an everlasting love,Andy Gibb,4:10,4,0.665,0.686,9,-6.542,1,0.0384,0.299,0.0,0.145,0.919,125.357,54,1978,19,3,an everlasting love,ENGLISH
+843,an everlasting love,Andy Gibb,4:10,4,0.665,0.686,9,-6.542,1,0.0384,0.299,0.0,0.145,0.919,125.357,54,1978,19,3, everlasting love,ENGLISH
 844,the closer i get to you,Roberta Flack & Donny Hathaway,4:40,4,0.49,0.321,9,-13.283,1,0.0302,0.711,2.15e-06,0.0372,0.229,121.377,54,1978,23,6, closer  get  you,ENGLISH
 845,boogie oogie oogie,A Taste of Honey,4:05,4,0.797,0.548,2,-9.228,0,0.0492,0.0401,1.05e-05,0.0994,0.868,123.686,53,1978,18,3,boogie oogie oogie,GERMAN
 846,feels so good,Chuck Mangione,9:42,4,0.576,0.603,5,-9.603,1,0.0329,0.455,0.0537,0.0406,0.524,103.658,51,1978,13,3,feels so good,ENGLISH
@@ -846,7 +846,7 @@
 853,magnet and steel,Walter Egan,3:24,3,0.719,0.395,1,-9.581,0,0.0335,0.349,5.07e-05,0.0716,0.718,113.036,49,1978,16,3,magnet  steel,ENGLISH
 854,i love the nightlife,Alicia Bridges,3:07,4,0.693,0.708,0,-7.816,1,0.031,0.309,0.00305,0.0857,0.949,125.315,48,1978,20,4, love  nightlife,ENGLISH
 855,ebony eyes,Bob Welch,3:32,4,0.698,0.676,11,-11.717,1,0.0277,0.0101,2.57e-05,0.112,0.961,116.486,48,1978,10,2,ebony eyes,ENGLISH
-856,fool (if you think it’s over),Chris Rea,4:44,4,0.722,0.412,4,-14.3,0,0.0267,0.312,2.5e-05,0.0448,0.91,105.927,48,1978,29,6,fool  you think ’s over,ENGLISH
+856,fool (if you think it’s over),Chris Rea,4:44,4,0.722,0.412,4,-14.3,0,0.0267,0.312,2.5e-05,0.0448,0.91,105.927,48,1978,29,6,fool  you think  over,ENGLISH
 857,serpentine fire,"Earth, Wind & Fire",3:50,4,0.773,0.917,0,-7.333,1,0.037,0.184,0.00463,0.116,0.946,139.872,48,1978,15,2,serpentine fire,FRENCH
 858,hot child in the city,Nick Gilder,3:35,4,0.731,0.664,4,-6.995,1,0.0371,0.0349,7.59e-05,0.127,0.818,110.775,48,1978,21,5,hot child   city,ENGLISH
 859,short people,Randy Newman,2:56,4,0.68,0.617,2,-5.849,1,0.0378,0.731,0.0674,0.12,0.54,121.356,47,1978,12,2,short people,ENGLISH
@@ -855,19 +855,19 @@
 862,love is like oxygen,Sweet,3:47,4,0.567,0.455,9,-9.896,0,0.0479,0.242,2.79e-06,0.118,0.58,123.416,42,1978,19,4,love  like oxygen,ENGLISH
 863,"dance, dance, dance (yowsah, yowsah, yowsah)",Chic,8:21,4,0.85,0.665,10,-9.404,0,0.0887,0.00964,0.486,0.0886,0.718,123.166,41,1978,44,6,"dance, dance, dance yowsah, yowsah, yowsah",GERMAN
 864,"too much, too little, too late",Johnny Mathis & Deniece Williams,2:56,4,0.501,0.573,8,-9.078,1,0.0673,0.464,6.37e-06,0.0937,0.753,77.805,37,1978,30,6,"too much, too little, too late",ENGLISH
-865,what’s your name,Lynyrd Skynyrd,1:27,4,0.889,0.45,11,-6.852,0,0.0357,0.334,0.0,0.349,0.783,112.023,36,1978,16,3,’s  name,ENGLISH
+865,what’s your name,Lynyrd Skynyrd,1:27,4,0.889,0.45,11,-6.852,0,0.0357,0.334,0.0,0.349,0.783,112.023,36,1978,16,3,  name,ENGLISH
 866,don’t look back,Boston,2:39,4,0.832,0.43,0,-6.163,1,0.0717,0.00145,0.0,0.16,0.205,139.952,35,1978,15,3, look back,ENGLISH
-868,you can’t turn me off (in the middle of turning me on),High Inergy,3:32,4,0.381,0.362,0,-10.321,0,0.0501,0.695,0.0,0.0863,0.595,183.438,29,1978,54,12,you can’t turn  off   middle  turning  ,ENGLISH
+868,you can’t turn me off (in the middle of turning me on),High Inergy,3:32,4,0.381,0.362,0,-10.321,0,0.0501,0.695,0.0,0.0863,0.595,183.438,29,1978,54,12,you  turn  off   middle  turning  ,ENGLISH
 869,life’s been good,Joe Walsh,3:24,4,0.887,0.474,0,-6.667,1,0.0458,0.674,0.0,0.105,0.907,95.992,29,1978,16,3,life’s been good,ENGLISH
 870,hey deanie,Shaun Cassidy,3:39,4,0.624,0.769,5,-10.718,1,0.028,0.182,4.37e-06,0.331,0.96,130.184,26,1978,10,2,hey deanie,ENGLISH
 871,my angel baby,Toby Beau,3:27,5,0.228,0.116,9,-23.56,0,0.0435,0.965,0.944,0.152,0.0385,82.294,26,1978,13,3, angel baby,ENGLISH
 872,you never done it like that,Captain & Tennille,3:21,4,0.622,0.777,0,-6.139,1,0.0677,0.555,0.0,0.288,0.744,88.51,24,1978,27,6,you never done  like ,ENGLISH
 873,you’re in my heart (the final acclaim),Rod Stewart,4:31,4,0.556,0.277,9,-13.26,1,0.0319,0.663,0.0,0.109,0.345,103.619,23,1978,38,7,   heart  final acclaim,ENGLISH
-874,can’t smile without you,Barry Manilow,3:06,4,0.443,0.449,4,-9.854,0,0.0417,0.499,0.0,0.076,0.395,103.889,17,1978,23,4,can’t smile without you,ENGLISH
-875,it’s a heartache,Bonnie Tyler,3:25,4,0.515,0.535,9,-11.168,1,0.0264,0.301,0.0,0.209,0.819,172.396,13,1978,16,3,’s  heartache,ENGLISH
+874,can’t smile without you,Barry Manilow,3:06,4,0.443,0.449,4,-9.854,0,0.0417,0.499,0.0,0.076,0.395,103.889,17,1978,23,4, smile without you,ENGLISH
+875,it’s a heartache,Bonnie Tyler,3:25,4,0.515,0.535,9,-11.168,1,0.0264,0.301,0.0,0.209,0.819,172.396,13,1978,16,3,  heartache,ENGLISH
 876,don’t it make my brown eyes blue,Crystal Gayle,2:38,4,0.587,0.237,6,-16.541,1,0.0407,0.499,1.31e-06,0.614,0.368,85.383,7,1978,32,7,  make  brown eyes blue,ENGLISH
 877,you’re the one that i want,John Travolta & Olivia Newton-John,4:04,4,0.284,0.903,5,-4.845,0,0.0876,0.00655,1.3e-05,0.178,0.145,131.28,7,1978,26,6,  one   want,ENGLISH
-878,we’ll never have to say goodbye again,England Dan & John Ford Coley,2:52,4,0.516,0.344,4,-14.353,1,0.0296,0.0428,0.0,0.0634,0.605,112.224,2,1978,37,7,’ll never have  say goodbye again,ENGLISH
+878,we’ll never have to say goodbye again,England Dan & John Ford Coley,2:52,4,0.516,0.344,4,-14.353,1,0.0296,0.0428,0.0,0.0634,0.605,112.224,2,1978,37,7, never have  say goodbye again,ENGLISH
 879,sentimental lady,Bob Welch,4:35,4,0.539,0.396,4,-16.386,1,0.0378,0.777,0.000118,0.146,0.621,75.315,0,1978,16,2,sentimental lady,ENGLISH
 880,this time i’m in it for love,Player,1:56,4,0.965,0.427,8,-19.72,1,0.105,0.883,0.905,0.105,0.966,139.996,0,1978,28,7, time     love,ENGLISH
 881,stumblin’ in,Suzi Quatro & Chris Norman,3:33,4,0.875,0.518,2,-8.388,1,0.0551,0.0638,0.00995,0.125,0.37,126.089,90,1979,12,2,stumblin’ ,ENGLISH
@@ -947,7 +947,7 @@
 955,shake your body (down to the ground),The Jacksons,3:47,4,0.796,0.72,0,-7.203,1,0.0763,0.0528,0.0,0.337,0.851,117.401,49,1979,36,7,shake  body down   ground,ENGLISH
 956,i love the nightlife,Alicia Bridges,3:07,4,0.693,0.708,0,-7.816,1,0.031,0.309,0.00305,0.0857,0.949,125.315,48,1979,20,4, love  nightlife,ENGLISH
 957,makin’ it,David Naughton,4:42,4,0.617,0.38,5,-9.809,1,0.0486,0.67,0.000582,0.0697,0.315,172.024,48,1979,9,2,makin’ ,ENGLISH
-958,you can’t change that,Raydio,3:23,4,0.691,0.706,1,-5.983,0,0.115,0.27,0.0,0.272,0.892,169.722,48,1979,21,4,you can’t change ,ENGLISH
+958,you can’t change that,Raydio,3:23,4,0.691,0.706,1,-5.983,0,0.115,0.27,0.0,0.272,0.892,169.722,48,1979,21,4,you  change ,ENGLISH
 959,you take my breath away,Rex Smith,3:17,4,0.313,0.6,11,-7.913,1,0.0357,0.476,2.56e-05,0.523,0.272,141.912,47,1979,23,5,you take  breath away,ENGLISH
 960,music box dancer,Frank Mills,3:12,4,0.466,0.471,1,-13.762,1,0.039,0.573,0.82,0.121,0.794,132.109,46,1979,16,3,music box dancer,ENGLISH
 961,i was made for dancin’,Leif Garrett,3:16,4,0.689,0.584,11,-13.957,0,0.0314,0.0319,0.00275,0.327,0.837,127.132,44,1979,22,5, was made  dancin’,ENGLISH
@@ -960,7 +960,7 @@
 968,disco nights (rock-freak),GQ,5:54,4,0.798,0.528,5,-12.228,0,0.0531,0.0116,0.00379,0.0446,0.898,122.61,39,1979,25,3,disco nights rock-freak,ENGLISH
 969,a little more love,Olivia Newton-John,3:27,4,0.717,0.414,8,-14.855,1,0.0364,0.029,0.00944,0.0865,0.494,100.178,39,1979,18,4, little more love,ENGLISH
 970,in the navy,Village People,3:45,4,0.759,0.889,7,-10.592,0,0.0502,0.125,0.0,0.041,0.886,126.201,38,1979,11,3,  navy,ENGLISH
-971,mama can’t buy you love,Elton John,4:04,4,0.529,0.432,5,-14.245,1,0.0333,0.524,0.0,0.115,0.555,94.382,36,1979,23,5,mama can’t buy you love,ENGLISH
+971,mama can’t buy you love,Elton John,4:04,4,0.529,0.432,5,-14.245,1,0.0333,0.524,0.0,0.115,0.555,94.382,36,1979,23,5,mama  buy you love,ENGLISH
 972,goodnight tonight,Paul McCartney & Wings,4:20,4,0.748,0.683,1,-9.885,0,0.0466,0.0566,0.000639,0.0809,0.943,123.385,35,1979,17,2,goodnight tonight,ENGLISH
 973,we’ve got tonight,Bob Seger & The Silver Bullet Band,3:35,4,0.379,0.387,8,-9.283,1,0.0278,0.757,0.0,0.103,0.222,61.53,26,1979,17,3, got tonight,ENGLISH
 975,he’s the greatest dancer,Sister Sledge,6:15,4,0.7,0.815,7,-9.711,0,0.044,0.00115,0.00124,0.0901,0.837,113.245,14,1979,24,4,  greatest dancer,ENGLISH

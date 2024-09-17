@@ -1,4 +1,4 @@
-,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Word_Length,Track Transformed,Track_Language
+,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Word_Length,Track_Transformed,Track_Language
 1,let it be,The Beatles,4:03,4,0.443,0.403,0,-8.339,1,0.0322,0.631,0.0,0.111,0.41,143.462,78,1970,9,3,let  ,GERMAN
 3,cecilia,Simon & Garfunkel,2:54,4,0.755,0.876,0,-8.867,1,0.0362,0.357,5.17e-06,0.22,0.954,102.762,76,1970,7,1,cecilia,SPANISH
 11,war,Edwin Starr,2:36,4,0.633,0.664,10,-5.037,1,0.0294,0.46,0.0,0.108,0.268,115.058,69,1970,3,1,war,GERMAN
@@ -17,7 +17,7 @@
 130,theme from shaft,Isaac Hayes,4:39,4,0.487,0.716,9,-17.689,0,0.0463,0.233,0.00445,0.113,0.819,120.795,56,1971,16,3,theme from shaft,GERMAN
 135,amos moses,Jerry Reed,2:19,4,0.738,0.723,2,-10.356,1,0.0728,0.4,0.00134,0.0166,0.95,105.541,54,1971,10,2,amos moses,SPANISH
 166,one bad apple,The Osmonds,2:44,4,0.6,0.567,0,-7.163,1,0.0398,0.382,0.0,0.213,0.92,101.041,36,1971,13,3,one bad apple,SPANISH
-173,somos novios (it’s impossible),Perry Como,3:07,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,30,4,somos novios ’s impossible,SPANISH
+173,somos novios (it’s impossible),Perry Como,3:07,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,30,4,somos novios  impossible,SPANISH
 200,ben,Michael Jackson,5:22,4,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,74,1972,3,1,ben,GERMAN
 228,scorpio,Dennis Coffey,2:45,4,0.736,0.532,1,-7.151,1,0.265,0.0292,8.86e-06,0.0806,0.273,84.983,58,1972,7,1,scorpio,SPANISH
 248,betcha,"GOLLY, WOW",4:13,4,0.43,0.56,3,-9.62,1,0.0268,0.362,0.000107,0.495,0.391,72.238,50,1972,6,1,betcha,FRENCH
