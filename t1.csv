@@ -1,4 +1,4 @@
-Artist,Nationality
+Artista,Nacionality
 The Jackson 5,US
 The Beatles,GB
 Simon & Garfunkel,US
@@ -41,6 +41,7 @@ Blues Image,US
 Brook Benton,US
 Eddie Holman,US
 the Archies,US
+Dawn,US
 Sugarloaf,US
 The Brotherhood of Man,GB
 The Four Tops,US
@@ -78,7 +79,7 @@ Ronnie Dyson,US
 100 Proof (Aged in Soul),US
 Elton John,GB
 Cat Stevens,GB
-Ike & Tina Turner,US
+Ike & Tina Turner,
 John Denver,US
 John Lennon,GB
 Plastic Ono Band,GB
@@ -142,6 +143,7 @@ Wilson Pickett,US
 Carly Simon,US
 The Free Movement,US
 THE LAZY RIVER,
+The Doobie Brothers,US
 Apollo 100,GB
 Roberta Flack,US
 Donny Hathaway,US
@@ -175,6 +177,7 @@ The O’Jays,US
 Paul Simon,US
 Betty Wright,US
 The Chi-Lites,US
+Jackson 5,US
 Daniel Boone,GB
 Ricky Nelson,US
 Sonny & Cher,US
@@ -421,6 +424,7 @@ Bill Conti,US
 Burton Cummings,
 Leo Sayer,GB
 THE LIGHT,
+The Jacksons,US
 Kenny Rogers,US
 "Crosby, Stills & Nash",US
 Heatwave,GB
@@ -503,6 +507,7 @@ Herb Alpert,US
 John Stewart,US
 The Emotions,US
 Bobby Caldwell,US
+Donna Summer,US
 Brooklyn Dreams,US
 KC & the Sunshine Band,US
 Nicolette Larson,US
@@ -526,6 +531,8 @@ Amii Stewart,US
 Gino Vannelli,CA
 Ace Frehley,US
 M,GB
+Neil Diamond,US
+Barbra Streisand,US
 Nick Lowe,GB
 David Naughton,US
 Rex Smith,US
