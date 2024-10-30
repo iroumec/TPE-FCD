@@ -14,7 +14,6 @@
 12,venus,Shocking Blue,229,4,0.722,0.961,9,-4.812,1,0.0514,0.0883,0.61,0.278,0.911,126.113,69,1970,5,1,venus,FRENCH
 13,no time,The Guess Who,224,4,0.576,0.974,1,-2.785,1,0.0829,0.0199,0.0,0.348,0.53,129.088,69,1970,7,2,no time,ENGLISH
 14,lola,The Kinks,241,4,0.456,0.894,9,-4.602,1,0.037,0.458,0.485,0.0695,0.926,151.333,69,1970,4,1,lola,SPANISH
-15,bridge over troubled water,Simon & Garfunkel,293,4,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,68,1970,26,4,bridge over troubled water,ENGLISH
 16,cracklin’ rosie,Neil Diamond,179,4,0.564,0.505,1,-14.835,1,0.0336,0.318,0.0,0.163,0.863,127.815,64,1970,15,2,cracklin’ rosie,GERMAN
 17,raindrops keep fallin’ on my head,B.J. Thomas,180,4,0.598,0.484,5,-9.663,1,0.0718,0.861,0.018,0.114,0.513,109.321,63,1970,33,6,raindrops keep fallin’   head,ENGLISH
 18,25 or 6 to 4,Chicago,289,4,0.604,0.905,4,-7.059,0,0.0578,0.309,0.0632,0.0837,0.723,147.448,63,1970,12,5,25 or 6  4,ENGLISH
@@ -98,7 +97,6 @@
 98,tired of being alone,Al Green,172,4,0.772,0.397,7,-8.585,1,0.0391,0.339,0.00541,0.0753,0.617,97.964,69,1971,20,4,tired  being alone,ENGLISH
 99,superstar,The Carpenters,289,4,0.572,0.822,11,-6.015,0,0.361,0.207,0.0,0.359,0.472,94.812,69,1971,9,1,superstar,GERMAN
 100,love her madly,The Doors,198,4,0.565,0.587,4,-7.393,0,0.0317,0.0573,0.00493,0.0416,0.966,147.462,69,1971,14,3,love her madly,ENGLISH
-101,bridge over troubled water,Aretha Franklin,293,4,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,68,1971,26,4,bridge over troubled water,ENGLISH
 102,me and bobby mcgee,Janis Joplin,271,4,0.43,0.463,2,-10.96,1,0.0442,0.303,5.84e-05,0.152,0.66,93.405,68,1971,18,4,  bobby mcgee,ENGLISH
 103,mercy mercy me (the ecology),Marvin Gaye,193,4,0.498,0.634,6,-12.16,0,0.0475,0.328,0.748,0.0962,0.515,93.161,68,1971,28,5,mercy mercy   ecology,ENGLISH
 104,domino,Van Morrison,231,4,0.757,0.547,7,-4.572,1,0.0355,0.0115,0.0,0.0445,0.793,126.974,68,1971,6,1,domino,SPANISH
@@ -130,7 +128,6 @@
 131,you’ve got a friend,James Taylor,255,4,0.765,0.317,11,-11.881,0,0.0274,0.88,2.35e-06,0.126,0.524,108.04,55,1971,19,4, got  friend,ENGLISH
 132,me and you and a dog named boo,Lobo,177,4,0.628,0.603,6,-10.286,1,0.0312,0.178,1.73e-05,0.0686,0.951,120.782,55,1971,30,8,  you   dog named boo,ENGLISH
 133,the tears of a clown,Smokey Robinson & the Miracles,181,4,0.593,0.607,1,-9.886,1,0.0283,0.147,0.0,0.128,0.953,128.365,55,1971,20,5, tears   clown,ENGLISH
-134,never can say goodbye,The Jackson 5,179,4,0.527,0.821,2,-7.19,1,0.047,0.337,1.68e-06,0.394,0.835,166.139,55,1971,21,4,never can say goodbye,ENGLISH
 135,amos moses,Jerry Reed,139,4,0.738,0.723,2,-10.356,1,0.0728,0.4,0.00134,0.0166,0.95,105.541,54,1971,10,2,amos moses,SPANISH
 136,spanish harlem,Aretha Franklin,174,4,0.608,0.594,2,-11.86,1,0.0435,0.32,4.75e-05,0.129,0.789,125.166,53,1971,14,2,spanish harlem,ENGLISH
 137,ain’t no sunshine,Bill Withers,192,4,0.0942,0.995,2,-27.09,0,0.0514,0.315,0.97,0.957,1e-05,83.334,53,1971,17,3, no sunshine,ENGLISH
@@ -275,8 +272,6 @@
 278,daddy don’t you walk so fast,Wayne Newton,206,4,0.541,0.305,5,-14.475,1,0.0385,0.826,2.29e-06,0.148,0.515,146.596,26,1972,28,6,daddy  you walk so fast,ENGLISH
 279,i’d love you to want me,Lobo,196,4,0.545,0.684,3,-10.036,1,0.0428,0.637,0.00018,0.0929,0.576,123.847,18,1972,23,6, love you  want ,ENGLISH
 280,i’ll take you there,The Staple Singers,227,4,0.775,0.587,11,-12.71,1,0.0397,0.053,0.0102,0.0879,0.888,101.555,16,1972,19,4, take you there,ENGLISH
-281,i’d like to teach the world to sing (in perfect harmony),The Hillside Singers,150,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11, like  teach  world  sing  perfect harmony,ENGLISH
-282,i’d like to teach the world to sing (in perfect harmony),The New Seekers,150,4,0.645,0.311,11,-12.264,1,0.0342,0.81,0.0,0.207,0.605,130.166,0,1972,56,11, like  teach  world  sing  perfect harmony,ENGLISH
 283,wildflower,Skylark,261,4,0.467,0.247,6,-12.002,0,0.0431,0.612,0.000271,0.17,0.126,148.101,90,1973,10,1,wildflower,ENGLISH
 284,my love,Paul McCartney & Wings,137,4,0.504,0.308,9,-14.958,1,0.0321,0.868,0.135,0.158,0.121,113.95,89,1973,7,2, love,ENGLISH
 285,why me,Kris Kristofferson,161,4,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,85,1973,6,2, ,ENGLISH
@@ -393,7 +388,6 @@
 396,annie’s song,John Denver,180,3,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,71,1974,12,2,annie’s song,GERMAN
 397,band on the run,Paul McCartney and Wings,313,4,0.479,0.601,7,-8.806,1,0.0319,0.0823,0.00141,0.111,0.669,124.966,71,1974,15,4,band   run,ENGLISH
 398,nothing from nothing,Billy Preston,258,4,0.606,0.377,0,-9.455,1,0.0275,0.817,0.0,0.154,0.446,101.96,70,1974,20,3,nothing from nothing,ENGLISH
-399,on and on,Gladys Knight & the Pips,446,3,0.438,0.687,7,-9.15,1,0.0619,0.000668,0.0801,0.42,0.426,103.01,70,1974,9,3,  ,ENGLISH
 400,top of the world,The Carpenters,189,4,0.635,0.926,0,-5.589,1,0.15,0.0892,4.4e-06,0.0928,0.771,100.043,70,1974,16,4,top   world,ENGLISH
 401,rock on,David Essex,194,3,0.449,0.296,0,-12.608,1,0.0361,0.892,0.000755,0.892,0.139,139.828,69,1974,7,2,rock ,GERMAN
 402,hooked on a feeling,Blue Swede,172,4,0.547,0.82,8,-6.728,1,0.0805,0.261,0.0,0.3,0.933,118.208,68,1974,19,4,hooked   feeling,ENGLISH
@@ -404,7 +398,6 @@
 407,help me,Joni Mitchell,181,4,0.749,0.709,6,-6.385,1,0.259,0.155,0.0,0.329,0.564,78.53,66,1974,7,2,help ,ENGLISH
 408,rikki don’t lose that number,Steely Dan,272,4,0.641,0.408,2,-14.971,1,0.0409,0.824,0.0022,0.0958,0.58,116.436,66,1974,28,5,rikki  lose  number,ENGLISH
 409,i shot the sheriff,Eric Clapton,279,4,0.801,0.641,8,-9.355,1,0.173,0.34,4.5e-05,0.0693,0.741,96.96,64,1974,18,4, shot  sheriff,ENGLISH
-410,feel like makin’ love,Roberta Flack,313,4,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126,64,1974,21,4,feel like makin’ love,ENGLISH
 411,the air that i breathe,The Hollies,257,4,0.279,0.473,4,-8.375,0,0.031,0.244,0.00162,0.158,0.244,167.778,64,1974,22,5, air   breathe,ENGLISH
 412,you make me feel brand new,The Stylistics,288,4,0.453,0.359,7,-8.567,1,0.0247,0.849,3.02e-05,0.137,0.178,76.015,64,1974,26,6,you make  feel brand new,ENGLISH
 413,tin man,America,209,4,0.646,0.531,7,-10.785,1,0.0671,0.528,0.0133,0.0836,0.655,172.02,63,1974,7,2,tin man,ENGLISH
@@ -479,7 +472,6 @@
 482,brazil,the Ritchie Family,252,4,0.687,0.617,4,-5.213,1,0.0287,0.0941,1.27e-05,0.0898,0.665,121.079,83,1975,6,1,brazil,ENGLISH
 483,i’m sorry,John Denver,167,5,0.445,0.455,7,-6.405,1,0.0575,0.731,1.47e-06,0.124,0.151,109.885,81,1975,9,2, sorry,ENGLISH
 484,magic,Pilot,137,4,0.911,0.689,1,-6.176,1,0.265,0.00119,0.0,0.0704,0.546,140.034,80,1975,5,1,magic,ENGLISH
-485,lady,Styx,183,4,0.539,0.16,3,-13.285,1,0.0329,0.881,0.000268,0.105,0.322,81.446,76,1975,4,1,lady,ENGLISH
 486,sister golden hair,America,199,4,0.441,0.546,4,-12.222,1,0.0336,0.13,0.000144,0.109,0.718,134.752,75,1975,18,3,sister golden hair,ENGLISH
 487,this will be,Natalie Cole,171,4,0.685,0.623,8,-11.146,1,0.042,0.228,0.00234,0.0295,0.896,126.739,74,1975,12,3,  ,ENGLISH
 488,bad blood,Neil Sedaka,199,4,0.604,0.644,2,-6.931,1,0.0889,0.0143,0.0,0.237,0.197,170.088,74,1975,9,2,bad blood,ENGLISH
@@ -489,9 +481,7 @@
 492,wildfire,Michael Martin Murphey,206,4,0.862,0.314,3,-8.269,0,0.0369,0.108,0.156,0.0878,0.502,114.472,73,1975,8,1,wildfire,ENGLISH
 493,kung fu fighting,Carl Douglas,197,4,0.621,0.764,2,-8.702,1,0.0578,0.146,4.97e-05,0.161,0.745,102.288,72,1975,16,3,kung fu fighting,ENGLISH
 494,fallin’ in love,"Hamilton, Joe Frank & Reynolds",245,4,0.475,0.269,7,-11.641,1,0.027,0.722,0.017,0.125,0.357,140.654,72,1975,15,3,fallin’  love,ENGLISH
-495,fire,Ohio Players,227,4,0.638,0.831,8,-5.039,1,0.049,0.142,0.0,0.113,0.649,124.071,72,1975,4,1,fire,ENGLISH
 496,how long?,Ace,200,4,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,71,1975,9,2, long?,ENGLISH
-497,best of my love,Eagles,220,4,0.784,0.713,0,-6.865,1,0.0339,0.447,0.14,0.0904,0.97,115.443,71,1975,15,4,best   love,ENGLISH
 498,low rider,War,190,4,0.812,0.644,0,-10.761,1,0.0493,0.0877,0.785,0.0563,0.989,140.075,71,1975,9,2,low rider,ENGLISH
 499,lovin’ you,Minnie Riperton,194,4,0.572,0.949,4,-4.865,1,0.06,0.00165,0.000195,0.163,0.53,118.974,69,1975,10,2,lovin’ you,ENGLISH
 500,some kind of wonderful,Grand Funk Railroad,202,4,0.855,0.691,2,-6.51,1,0.0514,0.144,0.0,0.36,0.647,121.472,68,1975,22,4,some kind  wonderful,ENGLISH
@@ -503,12 +493,10 @@
 506,lucy in the sky with diamonds,Elton John,208,1,0.311,0.325,2,-9.042,1,0.0283,0.0469,0.0,0.139,0.668,65.09,65,1975,29,6,lucy   sky  diamonds,ENGLISH
 507,you are so beautiful,Joe Cocker,159,3,0.297,0.182,1,-10.944,1,0.0298,0.846,0.00267,0.134,0.092,83.391,65,1975,20,4,you are so beautiful,ENGLISH
 508,feelings,Morris Albert,189,4,0.7,0.394,9,-8.911,1,0.0328,0.0567,0.0,0.0801,0.241,103.041,65,1975,8,1,feelings,ENGLISH
-509,feel like makin’ love,Bad Company,313,4,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126,64,1975,21,4,feel like makin’ love,ENGLISH
 510,shining star,"Earth, Wind & Fire",170,4,0.676,0.692,9,-13.093,1,0.052,0.668,0.00915,0.13,0.799,102.516,64,1975,12,2,shining star,ENGLISH
 511,how sweet it is (to be loved by you),James Taylor,216,4,0.764,0.628,0,-10.961,1,0.048,0.336,0.0,0.0977,0.823,109.008,64,1975,36,9, sweet     loved by you,ENGLISH
 512,laughter in the rain,Neil Sedaka,170,4,0.495,0.613,5,-9.463,1,0.0239,0.348,0.0058,0.0406,0.924,100.535,63,1975,20,4,laughter   rain,ENGLISH
 513,please mr. please,Olivia Newton-John,148,4,0.785,0.776,2,-5.259,1,0.0312,0.729,0.0,0.181,0.967,121.505,63,1975,17,3,please mr. please,ENGLISH
-514,dance with me,Orleans,231,4,0.912,0.511,9,-6.365,1,0.203,0.0259,0.0,0.0442,0.611,101.628,63,1975,13,3,dance  ,ENGLISH
 515,please mr. postman,The Carpenters,148,4,0.785,0.776,2,-5.259,1,0.0312,0.729,0.0,0.181,0.967,121.505,63,1975,18,3,please mr. postman,ENGLISH
 516,jive talkin’,Bee Gees,222,4,0.811,0.545,7,-12.969,0,0.0579,0.155,0.0853,0.156,0.734,105.911,62,1975,12,2,jive talkin’,ENGLISH
 517,love will keep us together,Captain & Tennille,205,4,0.621,0.788,4,-4.326,1,0.0314,0.354,0.0,0.305,0.926,129.62,62,1975,26,5,love  keep  together,ENGLISH
@@ -523,7 +511,6 @@
 526,when will i be loved,Linda Ronstadt,124,4,0.513,0.573,9,-10.023,1,0.0337,0.186,0.000958,0.0878,0.621,132.607,59,1975,20,5,    loved,ENGLISH
 527,why can’t we be friends,War,230,4,0.776,0.68,10,-10.088,1,0.0389,0.179,0.0,0.483,0.962,92.481,59,1975,23,5,    friends,ENGLISH
 528,philadelphia freedom,Elton John,324,4,0.712,0.681,0,-6.351,0,0.0294,0.0444,0.000235,0.0592,0.809,125.497,57,1975,20,2,philadelphia freedom,ENGLISH
-529,never can say goodbye,Gloria Gaynor,179,4,0.527,0.821,2,-7.19,1,0.047,0.337,1.68e-06,0.394,0.835,166.139,55,1975,21,4,never can say goodbye,ENGLISH
 530,get down tonight,KC and the Sunshine Band,317,4,0.671,0.776,10,-11.414,1,0.0282,0.137,0.00649,0.394,0.92,112.629,55,1975,16,3,get down tonight,ENGLISH
 531,jackie blue,Ozark Mountain Daredevils,250,4,0.562,0.538,1,-9.937,1,0.0275,0.362,0.00315,0.0411,0.962,107.096,55,1975,11,2,jackie blue,ENGLISH
 532,pick up the pieces,Average White Band,239,4,0.768,0.853,10,-5.915,0,0.0427,0.0548,0.13,0.0188,0.889,107.234,54,1975,18,4,pick up  pieces,ENGLISH
@@ -620,7 +607,6 @@
 625,i love music,The O’Jays,132,4,0.516,0.321,3,-12.192,1,0.0755,0.678,0.00412,0.243,0.748,180.041,58,1976,12,3, love music,ENGLISH
 626,dream weaver,Gary Wright,256,4,0.266,0.389,4,-13.682,1,0.0305,0.244,1.42e-06,0.0688,0.148,140.243,57,1976,12,2,dream weaver,ENGLISH
 627,love rollercoaster,Ohio Players,290,4,0.613,0.82,0,-10.175,1,0.0737,0.181,1.45e-06,0.049,0.465,115.125,57,1976,18,2,love rollercoaster,ENGLISH
-628,got to get you into my life,The Beatles,149,4,0.521,0.524,0,-6.136,1,0.0302,0.42,9.27e-06,0.0838,0.711,136.679,57,1976,27,7,got  get you into  life,ENGLISH
 629,fanny (be tender with my love),Bee Gees,243,4,0.438,0.526,4,-9.913,1,0.0273,0.215,0.0154,0.122,0.543,95.218,56,1976,30,6,fanny  tender   love,ENGLISH
 630,sing a song,"Earth, Wind & Fire",203,4,0.774,0.698,9,-7.5,1,0.0481,0.157,0.00027,0.0684,0.969,122.325,56,1976,11,3,sing  song,ENGLISH
 631,theme from s.w.a.t.,Rhythm Heritage,126,4,0.631,0.888,5,-8.491,1,0.0375,0.171,0.0433,0.146,0.925,147.824,56,1976,19,3,theme from s.w..t.,ENGLISH
@@ -692,8 +678,6 @@
 698,don’t stop,Fleetwood Mac,267,4,0.834,0.669,6,-5.582,0,0.0637,0.0341,7.18e-05,0.0535,0.547,122.669,71,1977,10,2, stop,ENGLISH
 699,southern nights,Glen Campbell,180,4,0.697,0.813,11,-8.89,0,0.0315,0.0989,0.0232,0.583,0.85,95.301,71,1977,15,2,southern nights,ENGLISH
 700,margaritaville,Jimmy Buffett,250,4,0.801,0.545,2,-13.637,1,0.0357,0.709,0.00176,0.104,0.862,124.941,71,1977,14,1,margaritaville,SPANISH
-701,best of my love,The Emotions,220,4,0.784,0.713,0,-6.865,1,0.0339,0.447,0.14,0.0904,0.97,115.443,71,1977,15,4,best   love,ENGLISH
-702,on and on,Stephen Bishop,446,3,0.438,0.687,7,-9.15,1,0.0619,0.000668,0.0801,0.42,0.426,103.01,70,1977,9,3,  ,ENGLISH
 703,sir duke,Stevie Wonder,232,4,0.588,0.568,6,-9.766,1,0.0672,0.16,0.0,0.0792,0.952,106.938,70,1977,8,2,sir duke,ENGLISH
 704,so into you,Atlanta Rhythm Section,261,4,0.656,0.479,7,-7.055,0,0.0348,0.0665,0.00272,0.168,0.708,184.374,69,1977,11,3,so into you,ENGLISH
 705,new kid in town,Eagles,304,4,0.649,0.425,4,-9.811,1,0.0267,0.378,0.0013,0.108,0.651,107.383,69,1977,15,4,new kid  town,ENGLISH
@@ -807,7 +791,6 @@
 816,sometimes when we touch,Dan Hill,252,4,0.591,0.345,2,-11.007,1,0.0391,0.691,1.87e-06,0.0851,0.264,119.333,63,1978,23,4,sometimes   touch,ENGLISH
 817,sweet talkin’ woman,Electric Light Orchestra,229,4,0.609,0.611,0,-9.208,1,0.0298,0.513,0.0,0.093,0.916,121.836,63,1978,19,3,sweet talkin’ woman,ENGLISH
 818,get off,Foxy,215,4,0.78,0.407,5,-8.026,1,0.0473,0.0151,0.0,0.156,0.0558,121.937,63,1978,7,2,get off,ENGLISH
-819,dance with me,Peter Brown,231,4,0.912,0.511,9,-6.365,1,0.203,0.0259,0.0,0.0442,0.611,101.628,63,1978,13,3,dance  ,ENGLISH
 820,jack and jill,Raydio,99,4,0.519,0.0265,7,-26.128,1,0.0554,0.992,0.94,0.0986,0.523,98.47,63,1978,13,3,jack  jill,ENGLISH
 821,hollywood nights,Bob Seger & The Silver Bullet Band,302,4,0.529,0.968,9,-5.198,1,0.0503,0.00506,0.00034,0.201,0.751,150.326,62,1978,16,2,hollywood nights,ENGLISH
 822,blue bayou,Linda Ronstadt,239,4,0.732,0.161,11,-12.817,1,0.0306,0.739,0.000379,0.105,0.5,95.21,62,1978,10,2,blue bayou,ENGLISH
@@ -821,7 +804,6 @@
 830,shadow dancing,Andy Gibb,204,4,0.457,0.292,4,-12.165,0,0.0313,0.824,0.61,0.0924,0.139,53.986,59,1978,14,2,shadow dancing,ENGLISH
 831,two out of three ain’t bad,Meat Loaf,324,4,0.586,0.48,9,-9.138,1,0.0243,0.385,0.0,0.0947,0.488,79.873,59,1978,26,6,two out  three  bad,ENGLISH
 832,i go crazy,Paul Davis,207,4,0.474,0.537,2,-6.77,1,0.0649,0.0758,0.0,0.316,0.335,90.103,58,1978,10,3, go crazy,ENGLISH
-833,got to get you into my life,"Earth, Wind & Fire",149,4,0.521,0.524,0,-6.136,1,0.0302,0.42,9.27e-06,0.0838,0.711,136.679,57,1978,27,7,got  get you into  life,ENGLISH
 834,three times a lady,Commodores,217,3,0.39,0.0803,8,-20.518,1,0.0306,0.874,0.000639,0.127,0.184,150.503,55,1978,18,4,three times  lady,ENGLISH
 836,baby hold on,Eddie Money,213,4,0.637,0.598,2,-13.664,1,0.0535,0.317,0.0,0.0622,0.806,120.253,55,1978,12,3,baby hold ,ENGLISH
 837,kiss you all over,Exile,214,4,0.741,0.267,0,-17.204,1,0.0285,0.253,0.000447,0.0987,0.497,102.428,55,1978,17,4,kiss you all over,ENGLISH
@@ -875,7 +857,6 @@
 887,gold,John Stewart,207,4,0.629,0.696,1,-5.572,0,0.348,0.0195,0.0,0.0554,0.623,93.034,80,1979,4,1,gold,ENGLISH
 888,le freak,Chic,255,4,0.353,0.898,2,-5.877,1,0.052,2.23e-05,0.105,0.39,0.525,103.299,78,1979,8,2,le freak,ENGLISH
 889,boogie wonderland,"Earth, Wind & Fire & The Emotions",288,4,0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,77,1979,17,2,boogie wonderland,GERMAN
-890,lady,Little River Band,183,4,0.539,0.16,3,-13.285,1,0.0329,0.881,0.000268,0.105,0.322,81.446,76,1979,4,1,lady,ENGLISH
 891,still,Commodores,246,4,0.946,0.646,5,-6.604,1,0.21,0.219,0.0,0.0643,0.961,127.978,75,1979,5,1,still,ENGLISH
 892,don’t stop ‘til you get enough,Michael Jackson,365,4,0.878,0.821,11,-9.875,1,0.089,0.126,0.0461,0.183,0.947,118.881,75,1979,30,6, stop ‘til you get enough,ENGLISH
 893,renegade,Styx,195,4,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,75,1979,8,1,renegade,SPANISH
@@ -888,7 +869,6 @@
 900,what a fool believes,The Doobie Brothers,223,4,0.758,0.378,8,-15.308,0,0.0449,0.284,0.0,0.049,0.985,120.736,74,1979,20,4,  fool believes,ENGLISH
 901,bad girls,Donna Summer,227,4,0.639,0.912,1,-2.621,1,0.0615,0.00107,0.0,0.097,0.343,143.448,72,1979,9,2,bad girls,ENGLISH
 902,born to be alive,Patrick Hernandez,188,4,0.704,0.868,2,-5.808,1,0.0315,0.0834,0.0,0.206,0.808,131.468,72,1979,16,4,born   alive,ENGLISH
-903,fire,The Pointer Sisters,227,4,0.638,0.831,8,-5.039,1,0.049,0.142,0.0,0.113,0.649,124.071,72,1979,4,1,fire,ENGLISH
 904,take me home,Cher,174,4,0.592,0.891,10,-3.144,1,0.0512,0.0267,0.0,0.352,0.674,99.983,71,1979,12,3,take  home,ENGLISH
 905,shake it,Ian Matthews,219,4,0.647,0.785,7,-5.414,1,0.165,0.0561,0.0,0.148,0.943,160.015,71,1979,8,2,shake ,ENGLISH
 906,da ya think i’m sexy?,Rod Stewart,331,4,0.715,0.689,2,-8.065,0,0.029,0.0143,0.000192,0.111,0.852,111.504,71,1979,21,5,da ya think  sexy?,ENGLISH
