@@ -1,76 +1,76 @@
-,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Word_Length,Track_Transformed,Track_Language
-1,let it be,The Beatles,243,4,0.443,0.403,0,-8.339,1,0.0322,0.631,0.0,0.111,0.41,143.462,78,1970,9,3,let  ,GERMAN
-3,cecilia,Simon & Garfunkel,174,4,0.755,0.876,0,-8.867,1,0.0362,0.357,5.17e-06,0.22,0.954,102.762,76,1970,7,1,cecilia,SPANISH
-11,war,Edwin Starr,156,4,0.633,0.664,10,-5.037,1,0.0294,0.46,0.0,0.108,0.268,115.058,69,1970,3,1,war,GERMAN
-12,venus,Shocking Blue,229,4,0.722,0.961,9,-4.812,1,0.0514,0.0883,0.61,0.278,0.911,126.113,69,1970,5,1,venus,FRENCH
-14,lola,The Kinks,241,4,0.456,0.894,9,-4.602,1,0.037,0.458,0.485,0.0695,0.926,151.333,69,1970,4,1,lola,SPANISH
-16,cracklin’ rosie,Neil Diamond,179,4,0.564,0.505,1,-14.835,1,0.0336,0.318,0.0,0.163,0.863,127.815,64,1970,15,2,cracklin’ rosie,GERMAN
-34,arizona,Mark Lindsay,290,4,0.506,0.523,4,-6.809,1,0.0302,0.0146,0.232,0.0874,0.348,154.053,53,1970,7,1,arizona,SPANISH
-36,instant karma!,John Lennon,200,4,0.628,0.931,9,-9.973,1,0.0968,0.000689,0.00146,0.0997,0.144,119.976,52,1970,14,2,instant karma!,SPANISH
-46,candida,Dawn,182,4,0.783,0.596,7,-10.056,1,0.0676,0.235,0.0,0.0427,0.88,127.576,47,1970,7,1,candida,SPANISH
-65,ma belle amie,Tee Set,194,4,0.419,0.492,7,-11.18,1,0.0448,0.11,0.000681,0.168,0.706,86.693,37,1970,13,3,ma belle amie,FRENCH
-95,imagine,John Lennon / Plastic Ono Band,187,4,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752,75,1971,7,1,imagine,FRENCH
-99,superstar,The Carpenters,289,4,0.572,0.822,11,-6.015,0,0.361,0.207,0.0,0.359,0.472,94.812,69,1971,9,1,superstar,GERMAN
-104,domino,Van Morrison,231,4,0.757,0.547,7,-4.572,1,0.0355,0.0115,0.0,0.0445,0.793,126.974,68,1971,6,1,domino,SPANISH
-114,rose garden,Lynn Anderson,175,4,0.589,0.501,0,-11.665,1,0.031,0.168,0.0,0.0741,0.969,131.064,63,1971,11,2,rose garden,GERMAN
-125,liar,Three Dog Night,191,4,0.436,0.946,8,-4.755,0,0.103,0.00121,0.0,0.215,0.603,93.544,58,1971,4,1,liar,SPANISH
-130,theme from shaft,Isaac Hayes,279,4,0.487,0.716,9,-17.689,0,0.0463,0.233,0.00445,0.113,0.819,120.795,56,1971,16,3,theme from shaft,GERMAN
-135,amos moses,Jerry Reed,139,4,0.738,0.723,2,-10.356,1,0.0728,0.4,0.00134,0.0166,0.95,105.541,54,1971,10,2,amos moses,SPANISH
-166,one bad apple,The Osmonds,164,4,0.6,0.567,0,-7.163,1,0.0398,0.382,0.0,0.213,0.92,101.041,36,1971,13,3,one bad apple,SPANISH
-173,somos novios (it’s impossible),Perry Como,187,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,30,4,somos novios  impossible,SPANISH
-200,ben,Michael Jackson,322,4,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,74,1972,3,1,ben,GERMAN
-228,scorpio,Dennis Coffey,165,4,0.736,0.532,1,-7.151,1,0.265,0.0292,8.86e-06,0.0806,0.273,84.983,58,1972,7,1,scorpio,SPANISH
-257,anticipation,Carly Simon,201,4,0.61,0.297,2,-14.956,1,0.0304,0.838,9.16e-06,0.107,0.543,99.963,44,1972,12,1,anticipation,FRENCH
-267,outa-space,Billy Preston,250,4,0.715,0.827,1,-8.555,1,0.0369,0.14,0.176,0.243,0.901,116.213,41,1972,10,1,outa-space,FRENCH
-276,rock and roll (part 2),Gary Glitter,436,4,0.514,0.858,9,-6.691,1,0.306,0.134,0.000196,0.101,0.47,98.023,27,1972,22,5,rock  roll part 2,GERMAN
-277,troglodyte (cave man),The Jimmy Castor Bunch,217,4,0.797,0.653,5,-14.226,1,0.0722,0.0527,0.0043,0.0801,0.861,133.294,27,1972,21,3,troglodyte cave man,FRENCH
-289,superstition,Stevie Wonder,245,4,0.633,0.634,8,-12.115,1,0.0725,0.038,0.0064,0.0385,0.872,100.499,75,1973,12,1,superstition,GERMAN
-293,my maria,B.W. Stevenson,208,4,0.673,0.842,3,-4.627,1,0.0366,0.06,0.000257,0.178,0.898,125.57,73,1973,8,2, maria,SPANISH
-295,angie,The Rolling Stones,272,4,0.429,0.554,9,-6.128,0,0.0291,0.67,0.000152,0.105,0.407,136.302,72,1973,5,1,angie,GERMAN
-296,live and let die,Paul McCartney & Wings,182,4,0.266,0.778,11,-8.671,1,0.0624,0.0106,0.113,0.12,0.262,151.244,71,1973,16,4,live  let die,GERMAN
-299,daniel,Elton John,234,4,0.689,0.476,0,-11.945,1,0.029,0.379,5.12e-05,0.0864,0.9,132.074,70,1973,6,1,daniel,GERMAN
-310,stir it up,Johnny Nash,217,4,0.688,0.487,9,-8.256,1,0.174,0.157,0.00304,0.0488,0.926,146.035,67,1973,10,3,stir  up,FRENCH
-316,clair,Gilbert O’Sullivan,268,4,0.335,0.00532,1,-31.646,1,0.0376,0.994,0.912,0.0621,0.0397,65.832,65,1973,5,1,clair,FRENCH
-324,shambala,Three Dog Night,204,4,0.551,0.62,9,-11.464,1,0.0348,0.64,0.00147,0.559,0.834,127.495,61,1973,8,1,shambala,SPANISH
-331,frankenstein,The Edgar Winter Group,202,4,0.826,0.745,2,-6.091,1,0.141,0.13,1.32e-05,0.178,0.883,119.92,57,1973,12,1,frankenstein,GERMAN
-340,your mama don’t dance,Loggins and Messina,167,4,0.545,0.816,0,-7.37,1,0.0343,0.0471,1.18e-05,0.163,0.962,146.211,53,1973,21,4, mama  dance,FRENCH
-347,boogie woogie bugle boy,Bette Midler,161,4,0.64,0.479,7,-11.55,1,0.467,0.881,0.000171,0.0973,0.79,166.868,49,1973,23,4,boogie woogie bugle boy,GERMAN
-378,you’re so vain,Carly Simon,258,4,0.665,0.594,0,-10.638,1,0.0293,0.0969,1.16e-05,0.0818,0.749,105.934,23,1973,14,3, so vain,FRENCH
-381,also sprach zarathustra (2001),Deodato,539,4,0.425,0.669,5,-9.481,1,0.0316,0.0844,0.916,0.9,0.324,114.751,15,1973,30,4,also sprach zarathustra 2001,GERMAN
-394,jungle boogie,Kool & the Gang,174,4,0.538,0.52,7,-11.063,0,0.737,0.308,0.0,0.214,0.551,180.274,73,1974,13,2,jungle boogie,GERMAN
-395,eres tú,Mocedades,242,4,0.639,0.399,5,-11.815,1,0.0248,0.484,0.00056,0.133,0.306,79.113,72,1974,7,2,eres tú,SPANISH
-396,annie’s song,John Denver,180,3,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,71,1974,12,2,annie’s song,GERMAN
-401,rock on,David Essex,194,3,0.449,0.296,0,-12.608,1,0.0361,0.892,0.000755,0.892,0.139,139.828,69,1974,7,2,rock ,GERMAN
-404,jet,Paul McCartney and Wings,345,4,0.791,0.557,7,-9.622,0,0.0698,0.54,0.0,0.103,0.284,119.973,68,1974,3,1,jet,FRENCH
-455,jazzman,Carole King,223,4,0.576,0.657,5,-10.484,1,0.0297,0.227,0.000909,0.231,0.812,118.354,43,1974,7,1,jazzman,FRENCH
-504,emma,Hot Chocolate,220,4,0.669,0.613,4,-11.12,0,0.036,0.487,0.176,0.132,0.566,110.668,67,1975,4,1,emma,FRENCH
-525,miracles,Jefferson Starship,174,4,0.721,0.718,7,-6.916,1,0.0431,0.00146,0.00013,0.12,0.343,96.48,59,1975,8,1,miracles,FRENCH
-557,angie baby,Helen Reddy,210,4,0.544,0.412,7,-12.628,0,0.0482,0.543,2.32e-05,0.0839,0.527,79.957,40,1975,10,2,angie baby,GERMAN
-579,i’m not lisa,Jessi Colter,210,4,0.38,0.342,5,-8.256,1,0.0279,0.757,0.000259,0.638,0.366,71.962,1,1975,12,3, not lisa,FRENCH
-581,summer,War,222,4,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,86,1976,6,1,summer,GERMAN
-621,convoy,C. W. McCall,230,4,0.68,0.543,5,-14.876,1,0.141,0.857,0.000116,0.0881,0.796,111.62,59,1976,6,1,convoy,FRENCH
-634,let ‘em in,Wings,311,4,0.761,0.482,10,-11.849,1,0.0572,0.491,0.31,0.0864,0.626,88.054,55,1976,10,3,let ‘em ,GERMAN
-651,boogie fever,The Sylvers,136,4,0.872,0.839,3,-11.649,1,0.0755,0.577,0.0286,0.0375,0.963,116.032,48,1976,12,2,boogie fever,GERMAN
-658,shannon,Henry Gross,233,4,0.558,0.36,5,-11.771,1,0.0232,0.23,0.00248,0.18,0.509,87.838,43,1976,7,1,shannon,FRENCH
-683,rich girl,Daryl Hall & John Oates,142,4,0.573,0.683,5,-6.644,1,0.176,0.461,0.0,0.0935,0.817,169.519,84,1977,9,2,rich girl,GERMAN
-695,barracuda,Heart,261,4,0.548,0.691,4,-13.553,0,0.0369,0.015,0.106,0.144,0.667,137.145,74,1977,9,1,barracuda,SPANISH
-700,margaritaville,Jimmy Buffett,250,4,0.801,0.545,2,-13.637,1,0.0357,0.709,0.00176,0.104,0.862,124.941,71,1977,14,1,margaritaville,SPANISH
-716,jet airliner,Steve Miller Band,215,4,0.574,0.664,5,-11.5,1,0.0346,0.0737,0.0,0.22,0.936,122.956,65,1977,12,2,jet airliner,GERMAN
-729,lucille,Kenny Rogers,220,3,0.646,0.362,5,-11.954,1,0.0312,0.724,0.0,0.134,0.387,142.46,59,1977,7,1,lucille,FRENCH
-794,disco inferno,The Trammps,214,4,0.925,0.659,3,-4.763,1,0.231,0.206,7.95e-05,0.279,0.709,97.018,74,1978,13,2,disco inferno,SPANISH
-797,copacabana,Barry Manilow,236,4,0.606,0.899,7,-6.412,0,0.0758,0.333,0.000102,0.0754,0.66,116.735,68,1978,10,1,copacabana,SPANISH
-812,bluer than blue,Michael Johnson,179,4,0.356,0.251,8,-14.24,1,0.0307,0.599,0.0,0.157,0.395,137.875,64,1978,15,3,bluer than blue,FRENCH
-824,peg,Steely Dan,237,4,0.778,0.441,7,-15.259,1,0.0314,0.22,0.000652,0.171,0.944,116.918,62,1978,3,1,peg,GERMAN
-838,double vision,Foreigner,224,4,0.682,0.711,9,-7.637,0,0.0325,0.179,9.53e-05,0.126,0.766,129.546,55,1978,13,2,double vision,FRENCH
-845,boogie oogie oogie,A Taste of Honey,245,4,0.797,0.548,2,-9.228,0,0.0492,0.0401,1.05e-05,0.0994,0.868,123.686,53,1978,18,3,boogie oogie oogie,GERMAN
-852,thunder island,Jay Ferguson,240,4,0.497,0.718,0,-7.744,1,0.0275,0.00113,0.0606,0.544,0.792,127.79,49,1978,14,2,thunder island,GERMAN
-857,serpentine fire,"Earth, Wind & Fire",230,4,0.773,0.917,0,-7.333,1,0.037,0.184,0.00463,0.116,0.946,139.872,48,1978,15,2,serpentine fire,FRENCH
-863,"dance, dance, dance (yowsah, yowsah, yowsah)",Chic,501,4,0.85,0.665,10,-9.404,0,0.0887,0.00964,0.486,0.0886,0.718,123.166,41,1978,44,6,"dance, dance, dance yowsah, yowsah, yowsah",GERMAN
-886,rise,Herb Alpert,161,3,0.483,0.129,5,-20.149,0,0.0349,0.947,0.145,0.106,0.203,137.35,81,1979,4,1,rise,FRENCH
-889,boogie wonderland,"Earth, Wind & Fire & The Emotions",288,4,0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,77,1979,17,2,boogie wonderland,GERMAN
-893,renegade,Styx,195,4,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,75,1979,8,1,renegade,SPANISH
-920,promises,Eric Clapton,646,4,0.362,0.421,10,-11.699,1,0.0372,0.281,6.2e-05,0.0943,0.233,114.669,65,1979,8,1,promises,FRENCH
-937,tusk,Fleetwood Mac,217,4,0.628,0.779,0,-11.841,1,0.0831,0.224,0.776,0.151,0.936,180.837,58,1979,4,1,tusk,GERMAN
-949,sail on,Commodores,240,4,0.481,0.317,1,-17.356,1,0.0455,0.413,1.1e-05,0.0786,0.435,142.417,54,1979,7,2,sail ,FRENCH
-952,sad eyes,Robert John,253,3,0.431,0.463,0,-7.342,1,0.0268,0.599,0.00282,0.132,0.687,107.19,53,1979,8,2,sad eyes,SPANISH
-953,time passages,Al Stewart,403,4,0.694,0.649,3,-7.176,1,0.0281,0.357,0.00258,0.0868,0.603,111.98,49,1979,13,2,time passages,FRENCH
+,Track,Artist,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity,Year,Track_Length,Track_Transformed,Track_Language
+1,let it be,The Beatles,243,4,0.443,0.403,0,-8.339,1,0.0322,0.631,0.0,0.111,0.41,143.462,78,1970,3,let  ,GERMAN
+3,cecilia,Simon & Garfunkel,174,4,0.755,0.876,0,-8.867,1,0.0362,0.357,5.17e-06,0.22,0.954,102.762,76,1970,1,cecilia,SPANISH
+11,war,Edwin Starr,156,4,0.633,0.664,10,-5.037,1,0.0294,0.46,0.0,0.108,0.268,115.058,69,1970,1,war,GERMAN
+12,venus,Shocking Blue,229,4,0.722,0.961,9,-4.812,1,0.0514,0.0883,0.61,0.278,0.911,126.113,69,1970,1,venus,FRENCH
+14,lola,The Kinks,241,4,0.456,0.894,9,-4.602,1,0.037,0.458,0.485,0.0695,0.926,151.333,69,1970,1,lola,SPANISH
+16,cracklin’ rosie,Neil Diamond,179,4,0.564,0.505,1,-14.835,1,0.0336,0.318,0.0,0.163,0.863,127.815,64,1970,2,cracklin’ rosie,GERMAN
+34,arizona,Mark Lindsay,290,4,0.506,0.523,4,-6.809,1,0.0302,0.0146,0.232,0.0874,0.348,154.053,53,1970,1,arizona,SPANISH
+36,instant karma!,John Lennon,200,4,0.628,0.931,9,-9.973,1,0.0968,0.000689,0.00146,0.0997,0.144,119.976,52,1970,2,instant karma!,SPANISH
+46,candida,Dawn,182,4,0.783,0.596,7,-10.056,1,0.0676,0.235,0.0,0.0427,0.88,127.576,47,1970,1,candida,SPANISH
+65,ma belle amie,Tee Set,194,4,0.419,0.492,7,-11.18,1,0.0448,0.11,0.000681,0.168,0.706,86.693,37,1970,3,ma belle amie,FRENCH
+95,imagine,John Lennon / Plastic Ono Band,187,4,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752,75,1971,1,imagine,FRENCH
+99,superstar,The Carpenters,289,4,0.572,0.822,11,-6.015,0,0.361,0.207,0.0,0.359,0.472,94.812,69,1971,1,superstar,GERMAN
+104,domino,Van Morrison,231,4,0.757,0.547,7,-4.572,1,0.0355,0.0115,0.0,0.0445,0.793,126.974,68,1971,1,domino,SPANISH
+114,rose garden,Lynn Anderson,175,4,0.589,0.501,0,-11.665,1,0.031,0.168,0.0,0.0741,0.969,131.064,63,1971,2,rose garden,GERMAN
+125,liar,Three Dog Night,191,4,0.436,0.946,8,-4.755,0,0.103,0.00121,0.0,0.215,0.603,93.544,58,1971,1,liar,SPANISH
+130,theme from shaft,Isaac Hayes,279,4,0.487,0.716,9,-17.689,0,0.0463,0.233,0.00445,0.113,0.819,120.795,56,1971,3,theme from shaft,GERMAN
+135,amos moses,Jerry Reed,139,4,0.738,0.723,2,-10.356,1,0.0728,0.4,0.00134,0.0166,0.95,105.541,54,1971,2,amos moses,SPANISH
+166,one bad apple,The Osmonds,164,4,0.6,0.567,0,-7.163,1,0.0398,0.382,0.0,0.213,0.92,101.041,36,1971,3,one bad apple,SPANISH
+173,somos novios (it’s impossible),Perry Como,187,4,0.535,0.121,1,-16.361,1,0.0354,0.836,0.000298,0.12,0.234,82.477,29,1971,4,somos novios  impossible,SPANISH
+200,ben,Michael Jackson,322,4,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,74,1972,1,ben,GERMAN
+228,scorpio,Dennis Coffey,165,4,0.736,0.532,1,-7.151,1,0.265,0.0292,8.86e-06,0.0806,0.273,84.983,58,1972,1,scorpio,SPANISH
+257,anticipation,Carly Simon,201,4,0.61,0.297,2,-14.956,1,0.0304,0.838,9.16e-06,0.107,0.543,99.963,44,1972,1,anticipation,FRENCH
+267,outa-space,Billy Preston,250,4,0.715,0.827,1,-8.555,1,0.0369,0.14,0.176,0.243,0.901,116.213,41,1972,1,outa-space,FRENCH
+276,rock and roll (part 2),Gary Glitter,436,4,0.514,0.858,9,-6.691,1,0.306,0.134,0.000196,0.101,0.47,98.023,27,1972,5,rock  roll part 2,GERMAN
+277,troglodyte (cave man),The Jimmy Castor Bunch,217,4,0.797,0.653,5,-14.226,1,0.0722,0.0527,0.0043,0.0801,0.861,133.294,27,1972,3,troglodyte cave man,FRENCH
+289,superstition,Stevie Wonder,245,4,0.633,0.634,8,-12.115,1,0.0725,0.038,0.0064,0.0385,0.872,100.499,75,1973,1,superstition,GERMAN
+293,my maria,B.W. Stevenson,208,4,0.673,0.842,3,-4.627,1,0.0366,0.06,0.000257,0.178,0.898,125.57,73,1973,2, maria,SPANISH
+295,angie,The Rolling Stones,272,4,0.429,0.554,9,-6.128,0,0.0291,0.67,0.000152,0.105,0.407,136.302,72,1973,1,angie,GERMAN
+296,live and let die,Paul McCartney & Wings,182,4,0.266,0.778,11,-8.671,1,0.0624,0.0106,0.113,0.12,0.262,151.244,71,1973,4,live  let die,GERMAN
+299,daniel,Elton John,234,4,0.689,0.476,0,-11.945,1,0.029,0.379,5.12e-05,0.0864,0.9,132.074,70,1973,1,daniel,GERMAN
+310,stir it up,Johnny Nash,217,4,0.688,0.487,9,-8.256,1,0.174,0.157,0.00304,0.0488,0.926,146.035,67,1973,3,stir  up,FRENCH
+316,clair,Gilbert O’Sullivan,268,4,0.335,0.00532,1,-31.646,1,0.0376,0.994,0.912,0.0621,0.0397,65.832,65,1973,1,clair,FRENCH
+324,shambala,Three Dog Night,204,4,0.551,0.62,9,-11.464,1,0.0348,0.64,0.00147,0.559,0.834,127.495,61,1973,1,shambala,SPANISH
+331,frankenstein,The Edgar Winter Group,202,4,0.826,0.745,2,-6.091,1,0.141,0.13,1.32e-05,0.178,0.883,119.92,57,1973,1,frankenstein,GERMAN
+340,your mama don’t dance,Loggins and Messina,167,4,0.545,0.816,0,-7.37,1,0.0343,0.0471,1.18e-05,0.163,0.962,146.211,53,1973,4, mama  dance,FRENCH
+347,boogie woogie bugle boy,Bette Midler,161,4,0.64,0.479,7,-11.55,1,0.467,0.881,0.000171,0.0973,0.79,166.868,49,1973,4,boogie woogie bugle boy,GERMAN
+378,you’re so vain,Carly Simon,258,4,0.665,0.594,0,-10.638,1,0.0293,0.0969,1.16e-05,0.0818,0.749,105.934,23,1973,3, so vain,FRENCH
+381,also sprach zarathustra (2001),Deodato,539,4,0.425,0.669,5,-9.481,1,0.0316,0.0844,0.916,0.9,0.324,114.751,15,1973,4,also sprach zarathustra 2001,GERMAN
+394,jungle boogie,Kool & the Gang,174,4,0.538,0.52,7,-11.063,0,0.737,0.308,0.0,0.214,0.551,180.274,73,1974,2,jungle boogie,GERMAN
+395,eres tú,Mocedades,242,4,0.639,0.399,5,-11.815,1,0.0248,0.484,0.00056,0.133,0.306,79.113,72,1974,2,eres tú,SPANISH
+396,annie’s song,John Denver,180,3,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,71,1974,2,annie’s song,GERMAN
+401,rock on,David Essex,194,3,0.449,0.296,0,-12.608,1,0.0361,0.892,0.000755,0.892,0.139,139.828,69,1974,2,rock ,GERMAN
+404,jet,Paul McCartney and Wings,345,4,0.791,0.557,7,-9.622,0,0.0698,0.54,0.0,0.103,0.284,119.973,68,1974,1,jet,FRENCH
+455,jazzman,Carole King,223,4,0.576,0.657,5,-10.484,1,0.0297,0.227,0.000909,0.231,0.812,118.354,43,1974,1,jazzman,FRENCH
+504,emma,Hot Chocolate,220,4,0.669,0.613,4,-11.12,0,0.036,0.487,0.176,0.132,0.566,110.668,67,1975,1,emma,FRENCH
+525,miracles,Jefferson Starship,174,4,0.721,0.718,7,-6.916,1,0.0431,0.00146,0.00013,0.12,0.343,96.48,59,1975,1,miracles,FRENCH
+557,angie baby,Helen Reddy,210,4,0.544,0.412,7,-12.628,0,0.0482,0.543,2.32e-05,0.0839,0.527,79.957,40,1975,2,angie baby,GERMAN
+579,i’m not lisa,Jessi Colter,210,4,0.38,0.342,5,-8.256,1,0.0279,0.757,0.000259,0.638,0.366,71.962,1,1975,3, not lisa,FRENCH
+581,summer,War,222,4,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,86,1976,1,summer,GERMAN
+621,convoy,C. W. McCall,230,4,0.68,0.543,5,-14.876,1,0.141,0.857,0.000116,0.0881,0.796,111.62,59,1976,1,convoy,FRENCH
+634,let ‘em in,Wings,311,4,0.761,0.482,10,-11.849,1,0.0572,0.491,0.31,0.0864,0.626,88.054,55,1976,3,let ‘em ,GERMAN
+651,boogie fever,The Sylvers,136,4,0.872,0.839,3,-11.649,1,0.0755,0.577,0.0286,0.0375,0.963,116.032,48,1976,2,boogie fever,GERMAN
+658,shannon,Henry Gross,233,4,0.558,0.36,5,-11.771,1,0.0232,0.23,0.00248,0.18,0.509,87.838,43,1976,1,shannon,FRENCH
+683,rich girl,Daryl Hall & John Oates,142,4,0.573,0.683,5,-6.644,1,0.176,0.461,0.0,0.0935,0.817,169.519,84,1977,2,rich girl,GERMAN
+695,barracuda,Heart,261,4,0.548,0.691,4,-13.553,0,0.0369,0.015,0.106,0.144,0.667,137.145,74,1977,1,barracuda,SPANISH
+700,margaritaville,Jimmy Buffett,250,4,0.801,0.545,2,-13.637,1,0.0357,0.709,0.00176,0.104,0.862,124.941,71,1977,1,margaritaville,SPANISH
+716,jet airliner,Steve Miller Band,215,4,0.574,0.664,5,-11.5,1,0.0346,0.0737,0.0,0.22,0.936,122.956,65,1977,2,jet airliner,GERMAN
+729,lucille,Kenny Rogers,220,3,0.646,0.362,5,-11.954,1,0.0312,0.724,0.0,0.134,0.387,142.46,59,1977,1,lucille,FRENCH
+794,disco inferno,The Trammps,214,4,0.925,0.659,3,-4.763,1,0.231,0.206,7.95e-05,0.279,0.709,97.018,74,1978,2,disco inferno,SPANISH
+797,copacabana,Barry Manilow,236,4,0.606,0.899,7,-6.412,0,0.0758,0.333,0.000102,0.0754,0.66,116.735,68,1978,1,copacabana,SPANISH
+812,bluer than blue,Michael Johnson,179,4,0.356,0.251,8,-14.24,1,0.0307,0.599,0.0,0.157,0.395,137.875,64,1978,3,bluer than blue,FRENCH
+824,peg,Steely Dan,237,4,0.778,0.441,7,-15.259,1,0.0314,0.22,0.000652,0.171,0.944,116.918,62,1978,1,peg,GERMAN
+838,double vision,Foreigner,224,4,0.682,0.711,9,-7.637,0,0.0325,0.179,9.53e-05,0.126,0.766,129.546,55,1978,2,double vision,FRENCH
+845,boogie oogie oogie,A Taste of Honey,245,4,0.797,0.548,2,-9.228,0,0.0492,0.0401,1.05e-05,0.0994,0.868,123.686,53,1978,3,boogie oogie oogie,GERMAN
+852,thunder island,Jay Ferguson,240,4,0.497,0.718,0,-7.744,1,0.0275,0.00113,0.0606,0.544,0.792,127.79,49,1978,2,thunder island,GERMAN
+857,serpentine fire,"Earth, Wind & Fire",230,4,0.773,0.917,0,-7.333,1,0.037,0.184,0.00463,0.116,0.946,139.872,48,1978,2,serpentine fire,FRENCH
+863,"dance, dance, dance (yowsah, yowsah, yowsah)",Chic,501,4,0.85,0.665,10,-9.404,0,0.0887,0.00964,0.486,0.0886,0.718,123.166,41,1978,6,"dance, dance, dance yowsah, yowsah, yowsah",GERMAN
+886,rise,Herb Alpert,161,3,0.483,0.129,5,-20.149,0,0.0349,0.947,0.145,0.106,0.203,137.35,81,1979,1,rise,FRENCH
+889,boogie wonderland,"Earth, Wind & Fire & The Emotions",288,4,0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,77,1979,2,boogie wonderland,GERMAN
+893,renegade,Styx,195,4,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,75,1979,1,renegade,SPANISH
+920,promises,Eric Clapton,646,4,0.362,0.421,10,-11.699,1,0.0372,0.281,6.2e-05,0.0943,0.233,114.669,65,1979,1,promises,FRENCH
+937,tusk,Fleetwood Mac,217,4,0.628,0.779,0,-11.841,1,0.0831,0.224,0.776,0.151,0.936,180.837,58,1979,1,tusk,GERMAN
+949,sail on,Commodores,240,4,0.481,0.317,1,-17.356,1,0.0455,0.413,1.1e-05,0.0786,0.435,142.417,54,1979,2,sail ,FRENCH
+952,sad eyes,Robert John,253,3,0.431,0.463,0,-7.342,1,0.0268,0.599,0.00282,0.132,0.687,107.19,53,1979,2,sad eyes,SPANISH
+953,time passages,Al Stewart,403,4,0.694,0.649,3,-7.176,1,0.0281,0.357,0.00258,0.0868,0.603,111.98,49,1979,2,time passages,FRENCH
