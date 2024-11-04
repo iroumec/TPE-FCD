@@ -1,0 +1,965 @@
+,Artist
+0,The Jackson 5
+1,The Beatles
+2,The Jackson 5
+3,Simon & Garfunkel
+4,Norman Greenbaum
+5,Edison Lighthouse
+6,Joe Cocker
+7,Frijid Pink
+8,James Taylor
+9,Mungo Jerry
+10,Bread
+11,Edwin Starr
+12,Shocking Blue
+13,The Guess Who
+14,The Kinks
+15,Neil Diamond
+16,B.J. Thomas
+17,Chicago
+18,The Carpenters
+19,Vanity Fare
+20,Badfinger
+21,"Peter, Paul and Mary"
+22,Santana
+23,Chicago
+24,Rare Earth
+25,The Jackson 5
+26,Charles Wright & the Watts 103rd Street Rhythm Band
+27,The Hollies
+28,Three Dog Night
+29,The Jaggerz
+30,Free
+31,Eric Burdon & War
+32,Sly & the Family Stone
+33,Mark Lindsay
+34,Bobby Sherman
+35,John Lennon
+36,The Delfonics
+37,The Ides of March
+38,Anne Murray
+39,Blues Image
+40,"Crosby, Stills, Nash & Young"
+41,Brook Benton
+42,Eddie Holman
+43,Neil Diamond
+44,the Archies
+45,Dawn
+46,Sugarloaf
+47,The Brotherhood of Man
+48,The Four Tops
+49,R.B. Greaves
+50,Marmalade
+51,The Temptations
+52,Clarence Carter
+53,Ferrante and Teicher
+54,Freda Payne
+55,Steam
+56,The Moments
+57,Alive N Kickin’
+58,Chairmen of the Board
+59,Tyrone Davis
+60,Ray Stevens
+61,The Carpenters
+62,Aretha Franklin with the Dixie Flyers
+63,B.J. Thomas
+64,Tee Set
+65,The Supremes
+66,Melanie
+67,White Plains
+68,Bobby Sherman
+69,The Poppy Family
+70,The Temptations
+71,R. Dean Taylor
+72,Stevie Wonder
+73,Rare Earth
+74,The Friends of Distinction
+75,The Pipkins
+76,Diana Ross
+77,Tom Jones
+78,Diana Ross & the Supremes
+79,Three Dog Night
+80,Tommy Roe
+81,Bobbi Martin
+82,Kenny Rogers & The First Edition
+83,Dionne Warwick
+84,Bobby Sherman
+85,Ronnie Dyson
+86,100 Proof (Aged in Soul)
+87,Bread
+88,Elton John
+89,Cat Stevens
+90,Ike & Tina Turner
+91,John Denver
+92,John Lennon / Plastic Ono Band
+93,the Partridge Family
+94,Santana
+95,Al Green
+96,The Carpenters
+97,The Doors
+98,Janis Joplin
+99,Marvin Gaye
+100,Van Morrison
+101,Brian Hyland
+102,Cat Stevens
+103,The Rolling Stones
+104,Gordon Lightfoot
+105,Stevie Wonder
+106,Three Dog Night
+107,Tom Jones
+108,Bee Gees
+109,Five Man Electrical Band
+110,Lynn Anderson
+111,The Temptations
+112,Jean Knight
+113,The Carpenters
+114,Badfinger
+115,Joan Baez
+116,Neil Diamond
+117,The Stampeders
+118,The Carpenters
+119,The Dramatics
+120,Three Dog Night
+121,Tony Orlando and Dawn
+122,Andy Williams
+123,Bee Gees
+124,Cher
+125,Isaac Hayes
+126,James Taylor
+127,Lobo
+128,Smokey Robinson & the Miracles
+129,Jerry Reed
+130,Aretha Franklin
+131,Bill Withers
+132,King Floyd
+133,Sammi Smith
+134,Grass Roots
+135,Nitty Gritty Dirt Band
+136,Chicago
+137,Honey Cone
+138,The Osmonds
+139,Wadsworth Mansion
+140,Cornelius Brothers & Sister Rose
+141,The Bells
+142,Tommy James
+143,Freda Payne
+144,The Undisputed Truth
+145,Rare Earth
+146,Grass Roots
+147,Marvin Gaye
+148,Ray Price
+149,Brewer & Shipley
+150,Paul Revere & the Raiders
+151,Gladys Knight & the Pips
+152,Lee Michaels
+153,The 5th Dimension
+154,Jerry Reed
+155,The Supremes
+156,Dave Edmunds
+157,Delaney & Bonnie & Friends
+158,Ringo Starr
+159,Donny Osmond
+160,The Osmonds
+161,The Partridge Family
+162,Barbra Streisand
+163,Ocean
+164,Bobby Goldsboro
+165,Honey Cone
+166,Helen Reddy
+167,Perry Como
+168,The Partridge Family
+169,Daddy Dewdrop
+170,"Hamilton, Joe Frank & Reynolds"
+171,Donny Osmond
+172,The Jackson 5
+173,Wilson Pickett
+174,8th Day
+175,the Partridge Family
+176,Carly Simon
+177,The Free Movement
+178,Elton John
+179,The Osmonds
+180,the Doobie Brothers
+181,Apollo 100
+182,Roberta Flack & Donny Hathaway
+183,Sly & the Family Stone
+184,America
+185,Don McLean
+186,The Hollies
+187,Al Green
+188,Elvis Presley
+189,Bill Withers
+190,Harry Nilsson
+191,Johnny Nash
+192,Michael Jackson
+193,America
+194,Derek and the Dominos
+195,Bread
+196,Mouth & MacNeal
+197,Neil Young
+198,Cat Stevens
+199,Alice Cooper
+200,Jonathan Edwards
+201,The Carpenters
+202,The Dramatics
+203,Bill Withers
+204,Hot Butter
+205,Jackson Browne
+206,Gilbert O’Sullivan
+207,The Moody Blues
+208,Three Dog Night
+209,Chicago
+210,Jim Croce
+211,T. Rex
+212,the Rolling Stones
+213,David Cassidy
+214,Robert John
+215,Eagles
+216,Raspberries
+217,the Stylistics
+218,Roberta Flack
+219,Aretha Franklin
+220,Dennis Coffey
+221,Dr. Hook & The Medicine Show
+222,The O’Jays
+223,Cornelius Brothers & Sister Rose
+224,Donny Osmond
+225,Michael Jackson
+226,Paul Simon
+227,Three Dog Night
+228,Betty Wright
+229,Cher
+230,Melanie
+231,Neil Diamond
+232,The Chi-Lites
+233,Badfinger
+234,Harry Nilsson
+235,Jackson 5
+236,Daniel Boone
+237,Ricky Nelson
+238,Sonny & Cher
+239,The Carpenters
+240,The Stylistics
+241,Commander Cody and His Lost Planet Airmen
+242,Donna Fargo
+243,Curtis Mayfield
+244,Mac Davis
+245,the Chi-Lites
+246,The Main Ingredient
+247,The Chakachas
+248,Three Dog Night
+249,Carly Simon
+250,Carole King
+251,Luther Ingram
+252,Al Green
+253,Climax
+254,The 5th Dimension
+255,Argent
+256,Joe Simon
+257,Michael Jackson
+258,Al Green
+259,Billy Preston
+260,Sammy Davis Jr. with the Mike Curb Congregation
+261,Chuck Berry
+262,Gallery
+263,Joe Tex
+264,Looking Glass
+265,The 5th Dimension
+266,Danny O’Keefe
+267,Sonny & Cher
+268,Gary Glitter
+269,The Jimmy Castor Bunch
+270,Wayne Newton
+271,Lobo
+272,The Staple Singers
+273,Skylark
+274,Paul McCartney & Wings
+275,Kris Kristofferson
+276,Edward Bear
+277,Stealers Wheel
+278,Roberta Flack
+279,Stevie Wonder
+280,Elton John
+281,King Harvest
+282,Stories
+283,B.W. Stevenson
+284,Jim Croce
+285,The Rolling Stones
+286,Paul McCartney & Wings
+287,Steely Dan
+288,The Carpenters
+289,Elton John
+290,The Doobie Brothers
+291,The Temptations
+292,Steely Dan
+293,Stevie Wonder
+294,Dobie Gray
+295,Elton John
+296,Gilbert O’Sullivan
+297,Gladys Knight & the Pips
+298,Helen Reddy
+299,John Denver
+300,Johnny Nash
+301,Stevie Wonder
+302,The Carpenters
+303,The O’Jays
+304,Albert Hammond
+305,The Allman Brothers Band
+306,Gilbert O’Sullivan
+307,Billy Paul
+308,Vicki Lawrence
+309,Deep Purple
+310,Paul Simon
+311,Sly & the Family Stone
+312,Helen Reddy
+313,Anne Murray
+314,Three Dog Night
+315,George Harrison
+316,Grand Funk Railroad
+317,Garfunkel
+318,Curtis Mayfield
+319,Dr. Hook & The Medicine Show
+320,Dr. John
+321,The Edgar Winter Group
+322,Al Green
+323,Barry White
+324,Gladys Knight & the Pips
+325,Paul Simon
+326,Bloodstone
+327,Bobby ‘Boris’ Pickett
+328,Marvin Gaye
+329,The Isley Brothers
+330,Loggins and Messina
+331,Seals and Crofts
+332,Timmy Thomas
+333,Johnnie Taylor
+334,Diana Ross
+335,Focus
+336,War
+337,Bette Midler
+338,Sylvia
+339,The Stylistics
+340,Eric Weissberg & Steve Mandell
+341,Charlie Daniels Band
+342,Chicago
+343,Marvin Gaye
+344,Billy Preston
+345,Maureen McGovern
+346,Billy Preston
+347,Sweet
+348,Al Green
+349,Al Green
+350,Cher
+351,Tony Orlando and Dawn
+352,The Spinners
+353,Donny Osmond
+354,Eddie Kendricks
+355,Marie Osmond
+356,Johnny Rivers
+357,War
+358,Donna Fargo
+359,Lobo
+360,The Pointer Sisters
+361,the DeFranco Family featuring Tony DeFranco
+362,Jermaine Jackson
+363,Clint Holmes
+364,Hurricane Smith
+365,Tony Orlando and Dawn
+366,The Four Tops
+367,War
+368,Carly Simon
+369,The Four Tops
+370,The Spinners
+371,Deodato
+372,New York City
+373,Carly Simon & James Taylor
+374,Redbone
+375,Lynyrd Skynyrd
+376,Barry White
+377,Bad Company
+378,Elton John
+379,Jim Croce
+380,ABBA
+381,Steve Miller Band
+382,The First Class
+383,Elton John
+384,Kool & the Gang
+385,Mocedades
+386,John Denver
+387,Paul McCartney and Wings
+388,Billy Preston
+389,The Carpenters
+390,David Essex
+391,Blue Swede
+392,Gordon Lightfoot
+393,Paul McCartney and Wings
+394,The Hues Corporation
+395,Jim Croce
+396,Joni Mitchell
+397,Steely Dan
+398,Eric Clapton
+399,The Hollies
+400,The Stylistics
+401,America
+402,Byron MacGregor
+403,Elton John
+404,Bobby Womack
+405,Terry Jacks
+406,Barbra Streisand
+407,Charlie Rich
+408,John Denver
+409,Cat Stevens
+410,Cher
+411,Brownsville Station
+412,Chicago
+413,Elton John
+414,Kool & the Gang
+415,William DeVaughn
+416,Todd Rundgren
+417,The O’Jays
+418,Anne Murray
+419,John Denver
+420,Rufus & Chaka Khan
+421,Three Dog Night
+422,Andy Kim
+423,Blue Magic
+424,Ray Stevens
+425,The Jackson 5
+426,George McCrae
+427,Marvin Hamlisch
+428,Stevie Wonder
+429,Grand Funk Railroad
+430,John Lennon with the Plastic Ono Band
+431,Johnny Bristol
+432,Sister Janet Mead
+433,Gladys Knight & the Pips
+434,Maria Muldaur
+435,Olivia Newton-John
+436,Paper Lace
+437,Mike Oldfield
+438,Ringo Starr
+439,Al Wilson
+440,Ringo Starr
+441,Dave Loggins
+442,Olivia Newton-John
+443,Carole King
+444,MFSB featuring the Three Degrees
+445,Olivia Newton-John
+446,The Main Ingredient
+447,Dionne Warwick & The Spinners
+448,Bo Donaldson and The Heywoods
+449,Jim Stafford
+450,Mac Davis
+451,B.T. Express
+452,Helen Reddy
+453,The Righteous Brothers
+454,Love Unlimited Orchestra
+455,The Guess Who featuring Wolfman Jack
+456,Paul McCartney and Wings
+457,Eddie Kendricks
+458,Stevie Wonder
+459,Bobby Vinton
+460,Helen Reddy
+461,Aretha Franklin
+462,The O’Jays
+463,Barry White
+464,Gladys Knight & the Pips
+465,Tony Orlando and Dawn
+466,Jim Stafford
+467,Donny and Marie Osmond
+468,Chicago
+469,Paul Anka with Odia Coates
+470,the Ritchie Family
+471,John Denver
+472,Pilot
+473,America
+474,Natalie Cole
+475,Neil Sedaka
+476,Ringo Starr
+477,Eagles
+478,Grand Funk
+479,Michael Martin Murphey
+480,Carl Douglas
+481,"Hamilton, Joe Frank & Reynolds"
+482,Ace
+483,War
+484,Minnie Riperton
+485,Grand Funk Railroad
+486,Labelle
+487,Barry Manilow
+488,Eagles
+489,Hot Chocolate
+490,Glen Campbell
+491,Elton John
+492,Joe Cocker
+493,Morris Albert
+494,"Earth, Wind & Fire"
+495,James Taylor
+496,Neil Sedaka
+497,Olivia Newton-John
+498,The Carpenters
+499,Bee Gees
+500,Captain & Tennille
+501,Frankie Valli
+502,The Doobie Brothers
+503,America
+504,David Bowie
+505,Ringo Starr
+506,B.T. Express
+507,Chicago
+508,Jefferson Starship
+509,Linda Ronstadt
+510,War
+511,Elton John
+512,KC and the Sunshine Band
+513,Ozark Mountain Daredevils
+514,Average White Band
+515,Elton John
+516,Elton John
+517,Four Seasons
+518,Janis Ian
+519,The Isley Brothers
+520,Freddy Fender
+521,Sammy Johns
+522,Van McCoy & the Soul City Symphony
+523,Freddy Fender
+524,Melissa Manchester
+525,Paul Anka & Odia Coates
+526,Wings
+527,The Blackbyrds
+528,B.J. Thomas
+529,Olivia Newton-John
+530,Stevie Wonder
+531,Paul McCartney & Wings
+532,Alice Cooper
+533,Barry Manilow
+534,Linda Ronstadt
+535,The Carpenters
+536,Phoebe Snow
+537,Donny & Marie Osmond
+538,Helen Reddy
+539,David Geddes
+540,Tavares
+541,10cc
+542,Captain & Tennille
+543,Frankie Valli
+544,Major Harris
+545,Tony Orlando and Dawn
+546,Average White Band
+547,Sweet
+548,Helen Reddy
+549,Mike Post
+550,the Spinners
+551,Tony Camillo’s Bazuka
+552,John Denver
+553,"Earth, Wind & Fire"
+554,Joe Simon
+555,Electric Light Orchestra
+556,Carol Douglas
+557,Barry White
+558,Harry Chapin
+559,Jessi Colter
+560,Sugarloaf
+561,War
+562,Aerosmith
+563,Eric Carmen
+564,"Earth, Wind & Fire"
+565,Hall & Oates
+566,Bay City Rollers
+567,Chicago
+568,Blue Oyster Cult
+569,Fleetwood Mac
+570,The Four Seasons
+571,The Miracles
+572,Hot Chocolate
+573,Wild Cherry
+574,Queen
+575,Jefferson Starship
+576,Bee Gees
+577,Commodores
+578,Steve Miller Band
+579,Paul Simon
+580,The Bellamy Brothers
+581,Hall & Oates
+582,Rufus featuring Chaka Khan
+583,Fleetwood Mac
+584,Queen
+585,Bay City Rollers
+586,Nazareth
+587,Peter Frampton
+588,Eagles
+589,Electric Light Orchestra
+590,Steve Miller Band
+591,Wings
+592,Andrea True Connection
+593,Boz Scaggs
+594,David Bowie
+595,Maxine Nightingale
+596,Orleans
+597,Elvin Bishop
+598,Starland Vocal Band
+599,The Manhattans
+600,Johnnie Taylor
+601,C. W. McCall
+602,Heart
+603,Bee Gees
+604,Peter Frampton
+605,The O’Jays
+606,Gary Wright
+607,Ohio Players
+608,Bee Gees
+609,"Earth, Wind & Fire"
+610,Rhythm Heritage
+611,Sweet
+612,Harold Melvin & the Blue Notes
+613,Wings
+614,Wing and a Prayer Fife and Drum Corps
+615,Dr. Hook
+616,KC and the Sunshine Band
+617,Dorothy Moore
+618,John Sebastian
+619,Neil Sedaka
+620,Barry Manilow
+621,Gary Wright
+622,Pratt and McClain
+623,Bay City Rollers
+624,Donna Summer
+625,Walter Murphy & The Big Apple Band
+626,Diana Ross
+627,Seals and Crofts (featuring Carolyn Willis)
+628,David Ruffin
+629,Silver Convention
+630,The Sylvers
+631,Captain & Tennille
+632,Cliff Richard
+633,Dr. Hook
+634,Paul Anka
+635,Starbuck
+636,Commodores
+637,Henry Gross
+638,Neil Diamond
+639,George Benson
+640,Vicki Sue Robinson
+641,Captain & Tennille
+642,Barry Manilow
+643,Glen Campbell
+644,Silver Convention
+645,Linda Ronstadt
+646,Donny & Marie Osmond
+647,Rick Dees & His Cast of Idiots
+648,Captain & Tennille
+649,Elton John & Kiki Dee
+650,Lou Rawls
+651,KC and the Sunshine Band
+652,England Dan & John Ford Coley
+653,The Brothers Johnson
+654,"Barry DeVorzon and Perry Botkin, Jr."
+655,The Staple Singers
+656,Diana Ross
+657,The Beach Boys
+658,Gordon Lightfoot
+659,Fleetwood Mac
+660,ABBA
+661,Daryl Hall & John Oates
+662,Bee Gees
+663,Eagles
+664,Commodores
+665,Boston
+666,Fleetwood Mac
+667,Andrew Gold
+668,Donna Summer
+669,Kansas
+670,Alice Cooper
+671,The Floaters
+672,Aerosmith
+673,Heart
+674,Bob Seger & The Silver Bullet Band
+675,Eagles
+676,Fleetwood Mac
+677,Glen Campbell
+678,Jimmy Buffett
+679,Stevie Wonder
+680,Atlanta Rhythm Section
+681,Eagles
+682,Electric Light Orchestra
+683,Stevie Wonder
+684,Foreigner
+685,Lord David Dundas
+686,Queen
+687,Peter McCann
+688,Andy Gibb
+689,Commodores
+690,Elton John
+691,Steve Miller Band
+692,Steve Miller Band
+693,The Spinners
+694,10cc
+695,Bill Conti
+696,Burton Cummings
+697,Leo Sayer
+698,Marvin Gaye
+699,Manfred Mann
+700,Electric Light Orchestra
+701,Paul McCartney & Wings
+702,The Jacksons
+703,Boz Scaggs
+704,Bread
+705,Kenny Rogers
+706,The Brothers Johnson
+707,Peter Frampton
+708,Barbra Streisand
+709,"Crosby, Stills & Nash"
+710,Heatwave
+711,Hot
+712,James Taylor
+713,The Marshall Tucker Band
+714,Al Stewart
+715,Debby Boone
+716,Leo Sayer
+717,Mary MacGregor
+718,Shaun Cassidy
+719,Thelma Houston
+720,Bee Gees
+721,Chicago
+722,KC and the Sunshine Band
+723,Pablo Cruise
+724,Rose Royce
+725,Carly Simon
+726,Sanford-Townsend Band
+727,Rose Royce
+728,Brick
+729,Firefall
+730,Foreigner
+731,Barry Manilow
+732,KC and the Sunshine Band
+733,William Bell
+734,Alice Cooper
+735,Barry Manilow
+736,Rita Coolidge
+737,Barbra Streisand
+738,Jennifer Warnes
+739,Engelbert Humperdinck
+740,Marilyn McCoo & Billy Davis Jr.
+741,Alan O’Day
+742,Barry White
+743,Kenny Nolan
+744,Shaun Cassidy
+745,Bay City Rollers
+746,Johnny Rivers
+747,The Sylvers
+748,Paul Nicholas
+749,David Soul
+750,Crystal Gayle
+751,Climax Blues Band
+752,Joe Tex
+753,Natalie Cole
+754,Rod Stewart
+755,Billy Joel
+756,Parliament
+757,Carly Simon
+758,Kansas
+759,Evelyn “Champagne” King
+760,Bee Gees
+761,The Rolling Stones
+762,ABBA
+763,Bee Gees
+764,Donna Summer
+765,Gerry Rafferty
+766,Jefferson Starship
+767,The Trammps
+768,Olivia Newton-John
+769,Rick James
+770,Barry Manilow
+771,Gerry Rafferty
+772,Samantha Sang
+773,Leif Garrett
+774,Little River Band
+775,John Paul Young
+776,The Rolling Stones
+777,Yvonne Elliman
+778,Ambrosia
+779,Bob Seger & The Silver Bullet Band
+780,Jackson Browne
+781,David Gates
+782,Dolly Parton
+783,Foreigner
+784,Frankie Valli
+785,Michael Johnson
+786,Styx
+787,the Who
+788,Anne Murray
+789,Dan Hill
+790,Electric Light Orchestra
+791,Foxy
+792,Raydio
+793,Bob Seger & The Silver Bullet Band
+794,Linda Ronstadt
+795,Linda Ronstadt
+796,Steely Dan
+797,Electric Light Orchestra
+798,Eric Clapton
+799,George Benson
+800,John Travolta & Olivia Newton-John
+801,Player
+802,Andy Gibb
+803,Meat Loaf
+804,Paul Davis
+805,Commodores
+806,Eddie Money
+807,Exile
+808,Foreigner
+809,Natalie Cole
+810,Pablo Cruise
+811,Paul Simon
+812,The O’Jays
+813,Andy Gibb
+814,Roberta Flack & Donny Hathaway
+815,A Taste of Honey
+816,Chuck Mangione
+817,Heatwave
+818,Kenny Loggins & Stevie Nicks
+819,Andy Gibb
+820,Donna Summer
+821,Paul McCartney & Wings
+822,Jay Ferguson
+823,Walter Egan
+824,Alicia Bridges
+825,Bob Welch
+826,Chris Rea
+827,"Earth, Wind & Fire"
+828,Nick Gilder
+829,Randy Newman
+830,Atlanta Rhythm Section
+831,L.T.D.
+832,Sweet
+833,Chic
+834,Johnny Mathis & Deniece Williams
+835,Lynyrd Skynyrd
+836,Boston
+837,High Inergy
+838,Joe Walsh
+839,Shaun Cassidy
+840,Toby Beau
+841,Captain & Tennille
+842,Rod Stewart
+843,Barry Manilow
+844,Bonnie Tyler
+845,John Travolta & Olivia Newton-John
+846,England Dan & John Ford Coley
+847,Bob Welch
+848,Player
+849,Suzi Quatro & Chris Norman
+850,Toto
+851,"Earth, Wind & Fire"
+852,Billy Joel
+853,Kiss
+854,Herb Alpert
+855,John Stewart
+856,Chic
+857,"Earth, Wind & Fire & The Emotions"
+858,Commodores
+859,Michael Jackson
+860,Styx
+861,Bobby Caldwell
+862,Chic
+863,Donna Summer and Brooklyn Dreams
+864,KC & the Sunshine Band
+865,Kenny Rogers
+866,Nicolette Larson
+867,The Doobie Brothers
+868,Donna Summer
+869,Patrick Hernandez
+870,Cher
+871,Ian Matthews
+872,Rod Stewart
+873,Supertramp
+874,The Knack
+875,Sister Sledge
+876,Bee Gees
+877,The Charlie Daniels Band
+878,Bee Gees
+879,Dire Straits
+880,"Earth, Wind & Fire"
+881,Cheap Trick
+882,Cheryl Lynn
+883,Donna Summer
+884,Gloria Gaynor
+885,Dr. Hook & The Medicine Show
+886,Eric Clapton
+887,Linda Ronstadt
+888,Blondie
+889,Kenny Rogers
+890,Randy VanWarmer
+891,Village People
+892,Eagles
+893,Kenny Rogers
+894,Anita Ward
+895,Andy Gibb
+896,Anne Murray
+897,Journey
+898,Robert Palmer
+899,Bee Gees
+900,Maxine Nightingale
+901,Peaches & Herb
+902,Amii Stewart
+903,Fleetwood Mac
+904,Gino Vannelli
+905,Hot Chocolate
+906,The Knack
+907,Ace Frehley
+908,Little River Band
+909,Peaches & Herb
+910,M
+911,Orleans
+912,Chic
+913,Neil Diamond & Barbra Streisand
+914,Nick Lowe
+915,Commodores
+916,Bad Company
+917,England Dan & John Ford Coley
+918,Robert John
+919,Al Stewart
+920,Electric Light Orchestra
+921,The Jacksons
+922,David Naughton
+923,Raydio
+924,Rex Smith
+925,Frank Mills
+926,Leif Garrett
+927,Alice Cooper
+928,Bonnie Pointer
+929,Barry Manilow
+930,McFadden & Whitehead
+931,Electric Light Orchestra
+932,Rickie Lee Jones
+933,GQ
+934,Olivia Newton-John
+935,Village People
+936,Elton John
+937,Paul McCartney & Wings
+938,Bob Seger & The Silver Bullet Band
+939,Sister Sledge
+940,Melissa Manchester
+941,Dr. Hook
+942,Dionne Warwick
+943,Donna Summer
+944,Eagles
+945,The Emotions
+946,Simon & Garfunkel
+947,Aretha Franklin
+948,Orleans
+949,Peter Brown
+950,Roberta Flack
+951,Bad Company
+952,The Pointer Sisters
+953,Ohio Players
+954,The Beatles
+955,"Earth, Wind & Fire"
+956,The New Seekers
+957,The Hillside Singers
+958,Little River Band
+959,Styx
+960,The Jackson 5
+961,Gloria Gaynor
+962,Gladys Knight & the Pips
+963,Stephen Bishop

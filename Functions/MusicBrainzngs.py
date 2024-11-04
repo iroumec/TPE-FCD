@@ -1,51 +1,61 @@
-﻿#pip install musicbrainzngs
+﻿# Instalación de la librería necesaria para utilizar la API.
+# pip install musicbrainzngs
 
 import musicbrainzngs
 import pandas as pd
 
-artist_dataset = pd.read_csv("Track_Dataset.csv")
+# Carga del dataset.
+artist_dataset = pd.read_csv("Datasets/Generados/ArtistDataset.csv")
 
+# Eliminación de los artistas repetidos.
 artistas_unicos = list(artist_dataset["Artist"].unique())
 
-artist_dataset = {"Artista" : artistas_unicos}
+# Creación de un dataset utilizando un diccionario con los artistas únicos.
+artist_dataset = pd.DataFrame.from_dict({"Artista" : artistas_unicos})
 
-artist_dataset = pd.DataFrame.from_dict(artist_dataset)
+# Configuración de los datos de conexión.
+musicbrainzngs.set_useragent("TPE-FCD", "1.0", "iroumec@alumnos.exa.unicen.edu.ar")
 
-# Configurar la librería con el nombre del usuario y contacto
-musicbrainzngs.set_useragent("TuAplicacion", "1.0", "tu_email@example.com")
-
+# Definición de la función encargada de realizar la búsqueda de la nacionalidad del artista.
 def obtener_nacionalidad_artista(nombre_artista):
     try:
-        # Buscar al artista por nombre
+        
+        nombre = None
+        nacionalidad = None
+        
+        # Consulta del artista.
         resultado = musicbrainzngs.search_artists(artist=nombre_artista)
         
+        # Si se hallaron resultados...
         if resultado['artist-count'] > 0:
-            # Tomar el primer resultado que coincida
+            # Se toma el primer resultado que coincida.
             artista = resultado['artist-list'][0]
             nombre = artista['name']
             
-            # Verificar si hay información sobre la localización/nacionalidad
+            # Se verifica si hay información sobre la nacionalidad del artista...
             if 'country' in artista:
                 nacionalidad = artista['country']
-                return nombre, nacionalidad
-            else:
-                return nombre, None
-        else:
-            return None, None
+        
+        return nombre, nacionalidad
     
     except Exception as e:
         print(f"Error al obtener la información: {e}")
         return None, None
 
-# Creo una nueva fila para el nombre hallado y la nacionalidad.
+# Creación en el dataset de una nueva columna para el nombre y nacionalidad hallados.
 artist_dataset["Nombre"] = 'Unknown'
 artist_dataset["Nacionality"] = 'Unknown'
 
+# Por cada artista, se invoca la función y se obtiene su nacionalidad.
 for index, artist in enumerate(artist_dataset['Artista']):
-    print(index)
+    
+    # Impresión del artista para verificar que el algoritmo se halla funcionando.
+    print(artist)
+    
     nombre, nacionalidad = obtener_nacionalidad_artista(artist)
     
     artist_dataset.at[index, "Nombre"] = nombre
     artist_dataset.at[index, "Nacionality"] = nacionalidad
         
+# Importación de los resultados.
 artist_dataset.to_csv("Datasets/Generados/ArtistsNationalities.csv")

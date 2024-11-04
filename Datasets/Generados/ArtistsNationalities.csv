@@ -83,27 +83,27 @@
 81,the Partridge Family,The Partridge Family,US
 82,Al Green,Al Green,US
 83,The Doors,The Doors,US
-84,Aretha Franklin,Aretha Franklin,US
-85,Janis Joplin,Janis Joplin,US
-86,Marvin Gaye,Marvin Gaye,US
-87,Van Morrison,Van Morrison,
-88,Brian Hyland,Brian Hyland,US
-89,The Rolling Stones,The Rolling Stones,GB
-90,Gordon Lightfoot,Gordon Lightfoot,CA
-91,Bee Gees,Bee Gees,GB
-92,Five Man Electrical Band,Five Man Electrical Band,CA
-93,Lynn Anderson,Lynn Anderson,US
-94,Jean Knight,Jean Sibelius,FI
-95,Joan Baez,Joan Baez,US
-96,The Stampeders,The Beatles,GB
-97,The Dramatics,The Beatles,GB
-98,Tony Orlando and Dawn,Tony Orlando & Dawn,US
-99,Andy Williams,Andy Williams,US
-100,Cher,Cher,US
-101,Isaac Hayes,Isaac Hayes,US
-102,Lobo,Lobo,US
-103,Smokey Robinson & the Miracles,The Miracles,US
-104,Jerry Reed,Jerry Reed,US
+84,Janis Joplin,Janis Joplin,US
+85,Marvin Gaye,Marvin Gaye,US
+86,Van Morrison,Van Morrison,
+87,Brian Hyland,Brian Hyland,US
+88,The Rolling Stones,The Rolling Stones,GB
+89,Gordon Lightfoot,Gordon Lightfoot,CA
+90,Bee Gees,Bee Gees,GB
+91,Five Man Electrical Band,Five Man Electrical Band,CA
+92,Lynn Anderson,Lynn Anderson,US
+93,Jean Knight,Jean Sibelius,FI
+94,Joan Baez,Joan Baez,US
+95,The Stampeders,The Beatles,GB
+96,The Dramatics,The Beatles,GB
+97,Tony Orlando and Dawn,Tony Orlando & Dawn,US
+98,Andy Williams,Andy Williams,US
+99,Cher,Cher,US
+100,Isaac Hayes,Isaac Hayes,US
+101,Lobo,Lobo,US
+102,Smokey Robinson & the Miracles,The Miracles,US
+103,Jerry Reed,Jerry Reed,US
+104,Aretha Franklin,Aretha Franklin,US
 105,Bill Withers,Bill Withers,US
 106,King Floyd,Pink Floyd,
 107,Sammi Smith,Sammi Smith,US
@@ -138,390 +138,388 @@
 136,8th Day,Doris Day,US
 137,Carly Simon,Carly Simon,US
 138,The Free Movement,The Free Movement,US
-139,THE LAZY RIVER,Lazy River Jazzband,NL
-140,the Doobie Brothers,The Doobie Brothers,US
-141,Apollo 100,Apollo 100,GB
-142,Roberta Flack & Donny Hathaway,Roberta Flack,US
-143,America,America,US
-144,Don McLean,Don McLean,US
-145,Elvis Presley,Elvis Presley,US
-146,Harry Nilsson,Harry Nilsson,US
-147,Johnny Nash,Johnny Cash,US
-148,Michael Jackson,Michael Jackson,US
-149,Derek and the Dominos,Derek and the Dominos,US
-150,Mouth & MacNeal,Mouth & MacNeal,NL
-151,Neil Young,Neil Young,CA
-152,Alice Cooper,Alice Cooper,US
-153,Jonathan Edwards,Jonathan Mann,US
-154,Hot Butter,Hot Butter,US
-155,Jackson Browne,Jackson Browne,US
-156,Gilbert O’Sullivan,Gilbert O’Sullivan,IE
-157,The Moody Blues,The Moody Blues,GB
-158,Jim Croce,Jim Croce,US
-159,T. Rex,T. Rex,GB
-160,the Rolling Stones,The Rolling Stones,GB
-161,David Cassidy,David Bowie,
-162,Robert John,Robert Schumann,DE
-163,Eagles,Eagles,US
-164,Raspberries,Raspberries,US
-165,the Stylistics,The Beatles,GB
-166,Roberta Flack,Roberta Flack,US
-167,Dennis Coffey,Dennis Coffey,US
-168,Dr. Hook & The Medicine Show,Dr. Hook,US
-169,The O’Jays,The O’Jays,US
-170,Paul Simon,Paul Simon,US
-171,Betty Wright,Betty Wright,US
-172,The Chi-Lites,The Chi‐Lites,US
-173,Jackson 5,Michael Jackson,US
-174,Daniel Boone,Pat Boone,US
-175,Ricky Nelson,Ricky Nelson,US
-176,Sonny & Cher,Sonny & Cher,US
-177,"GOLLY, WOW",Bow Wow Wow,GB
-178,Commander Cody and His Lost Planet Airmen,Commander Cody & His Lost Planet Airmen,US
-179,Donna Fargo,Donna Fargo,US
-180,Curtis Mayfield,Curtis Mayfield,US
-181,Mac Davis,Miles Davis,US
-182,the Chi-Lites,The Chi‐Lites,US
-183,The Main Ingredient,Main Ingredient,
-184,The Chakachas,The Beatles,GB
-185,Carole King,Carole King,US
-186,Luther Ingram,Luther Ingram,US
-187,Climax,Climax Blues Band,GB
-188,Argent,Argent,GB
-189,Joe Simon,Simon Jäger,DE
-190,Billy Preston,Billy Preston,US
-191,Sammy Davis Jr. with the Mike Curb Congregation,Sammy Davis Jr.,US
-192,Chuck Berry,Chuck Berry,US
-193,Gallery,Gallery Six,
-194,Joe Tex,Joe Tex,US
-195,Looking Glass,Philip Glass,US
-196,Danny O’Keefe,Danny Elfman,US
-197,Gary Glitter,Gary Glitter,GB
-198,The Jimmy Castor Bunch,The Jimmy Castor Bunch,US
-199,Wayne Newton,Wayne Newton,US
-200,The Staple Singers,The Staple Singers,US
-201,The Hillside Singers,The Hillside Singers,US
-202,The New Seekers,The New Seekers,GB
-203,Skylark,Skylark,IT
-204,Paul McCartney & Wings,Wings,GB
-205,Kris Kristofferson,Kris Kristofferson,US
-206,Edward Bear,Edward Elgar,GB
-207,Stealers Wheel,Stealers Wheel,GB
-208,King Harvest,Stephen King,US
-209,Stories,Stories,US
-210,B.W. Stevenson,B.W. Stevenson,US
-211,Steely Dan,Steely Dan,
-212,The Doobie Brothers,The Doobie Brothers,US
-213,Dobie Gray,Dobie Gray,US
-214,Albert Hammond,Albert Hammond,GB
-215,The Allman Brothers Band,The Allman Brothers Band,US
-216,Billy Paul,Paul McCartney,GB
-217,Vicki Lawrence,Vicki Lawrence,US
-218,Deep Purple,Deep Purple,GB
-219,George Harrison,George Harrison,GB
-220,Grand Funk Railroad,Grand Funk Railroad,US
-221,Garfunkel,Simon & Garfunkel,US
-222,Dr. John,Dr. John,US
-223,The Edgar Winter Group,The Edgar Winter Group,US
-224,Barry White,Barry White,US
-225,Bloodstone,Bloodstone,US
-226,Bobby ‘Boris’ Pickett,Bobby “Boris” Pickett,US
-227,The Isley Brothers,The Isley Brothers,US
-228,Loggins and Messina,Loggins & Messina,US
-229,Seals and Crofts,Seals & Crofts,US
-230,Timmy Thomas,Timmy Thomas,US
-231,Johnnie Taylor,Johnnie Taylor,US
-232,Focus,Focus,NL
-233,War,War,US
-234,Bette Midler,Bette Midler,US
-235,Sylvia,Sylvia Vrethammar,SE
-236,The Stylistics,The Beatles,GB
-237,Eric Weissberg & Steve Mandell,Eric Clapton,GB
-238,Charlie Daniels Band,The Charlie Daniels Band,US
-239,Maureen McGovern,Maureen McGovern,US
-240,Sweet,Sweet,GB
-241,The Spinners,The Beatles,GB
-242,Eddie Kendricks,Eddie Kendricks,US
-243,Marie Osmond,Marie Osmond,US
-244,Johnny Rivers,Johnny Cash,US
-245,The Pointer Sisters,The Pointer Sisters,US
-246,the DeFranco Family featuring Tony DeFranco,Buddy DeFranco,US
-247,Jermaine Jackson,Jermaine Jackson,US
-248,Clint Holmes,Clint Bajakian,US
-249,Hurricane Smith,Bessie Smith,US
-250,Deodato,Eumir Deodato,BR
-251,New York City,New York City,
-252,Carly Simon & James Taylor,Carly Simon,US
-253,Redbone,Redbone,US
-254,Lynyrd Skynyrd,Lynyrd Skynyrd,US
-255,Bad Company,Bad Company,GB
-256,ABBA,ABBA,SE
-257,Steve Miller Band,Steve Miller Band,US
-258,The First Class,First Class,GB
-259,Kool & the Gang,Kool & the Gang,US
-260,Mocedades,Mocedades,ES
-261,Paul McCartney and Wings,Wings,GB
-262,David Essex,David Essex,GB
-263,Blue Swede,Blue Swede,SE
-264,The Hues Corporation,The Hues Corporation,US
-265,Joni Mitchell,Joni Mitchell,CA
-266,Eric Clapton,Eric Clapton,GB
-267,Byron MacGregor,Byron MacGregor,
-268,Bobby Womack,Bobby Womack,US
-269,Terry Jacks,Terry Pratchett,
-270,Charlie Rich,Charlie Rich,US
-271,Brownsville Station,Brownsville Station,US
-272,William DeVaughn,William Dufris,US
-273,Todd Rundgren,Todd Rundgren,US
-274,Rufus & Chaka Khan,Rufus,US
-275,Andy Kim,Andy Williams,US
-276,Blue Magic,Blue Magic,US
-277,George McCrae,George Frideric Handel,GB
-278,Marvin Hamlisch,Marvin Hamlisch,US
-279,John Lennon with the Plastic Ono Band,John Lennon,GB
-280,Johnny Bristol,Johnny Cash,US
-281,Sister Janet Mead,Sister Janet Mead,AU
-282,Maria Muldaur,Maria Muldaur,US
-283,Olivia Newton-John,Olivia Newton‐John,AU
-284,Paper Lace,Paper Lace,GB
-285,Mike Oldfield,Mike Oldfield,GB
-286,Al Wilson,Al Green,US
-287,Dave Loggins,Kenny Loggins,US
-288,MFSB featuring the Three Degrees,The Three Degrees,US
-289,Dionne Warwick & The Spinners,Dionne Warwick,US
-290,Bo Donaldson and The Heywoods,Bo Donaldson and the Heywoods,US
-291,Jim Stafford,Jim Reeves,US
-292,B.T. Express,BT,US
-293,The Righteous Brothers,The Righteous Brothers,US
-294,Love Unlimited Orchestra,Love Unlimited Orchestra,US
-295,The Guess Who featuring Wolfman Jack,The Guess Who,CA
-296,Bobby Vinton,Bobby Vinton,US
-297,Donny and Marie Osmond,Donny & Marie Osmond,US
-298,Paul Anka with Odia Coates,Paul Anka,CA
-299,the Ritchie Family,The Ritchie Family,US
-300,Pilot,Pilot,GB
-301,Styx,Styx,US
-302,Natalie Cole,Natalie Cole,US
-303,Neil Sedaka,Neil Sedaka,US
-304,Grand Funk,Grand Funk Railroad,US
-305,Michael Martin Murphey,Michael Martin Murphey,US
-306,Carl Douglas,Douglas Adams,GB
-307,Ohio Players,Ohio Players,US
-308,Ace,Ace of Base,SE
-309,Minnie Riperton,Minnie Riperton,US
-310,Labelle,LaBelle,US
-311,Barry Manilow,Barry Manilow,US
-312,Hot Chocolate,Hot Chocolate,GB
-313,Glen Campbell,Glen Campbell,US
-314,Morris Albert,Albert King,US
-315,"Earth, Wind & Fire","Earth, Wind & Fire",US
-316,Orleans,Orleans,US
-317,Captain & Tennille,Captain & Tennille,US
-318,Frankie Valli,Frankie Valli,US
-319,David Bowie,David Bowie,
-320,Jefferson Starship,Jefferson Starship,US
-321,Linda Ronstadt,Linda Ronstadt,US
-322,Gloria Gaynor,Gloria Gaynor,US
-323,KC and the Sunshine Band,KC and the Sunshine Band,US
-324,Ozark Mountain Daredevils,The Ozark Mountain Daredevils,US
-325,Average White Band,Average White Band,GB
-326,Four Seasons,The Four Seasons,US
-327,Janis Ian,Janis Ian,US
-328,Freddy Fender,Freddy Fender,US
-329,Sammy Johns,Sammy Davis Jr.,US
-330,Van McCoy & the Soul City Symphony,Van McCoy & The Soul City Symphony,US
-331,Melissa Manchester,Melissa Manchester,US
-332,Paul Anka & Odia Coates,Paul Anka,CA
-333,Wings,Wings,GB
-334,The Blackbyrds,The Beatles,GB
-335,Phoebe Snow,Phoebe Snow,US
-336,Donny & Marie Osmond,Donny & Marie Osmond,US
-337,David Geddes,David Bowie,
-338,Tavares,Tavares,US
-339,10cc,10cc,GB
-340,Major Harris,Emmylou Harris,US
-341,Mike Post,Mike Post,US
-342,the Spinners,The Beatles,GB
-343,Tony Camillo’s Bazuka,Bazuka,US
-344,Electric Light Orchestra,Electric Light Orchestra,GB
-345,Carol Douglas,Douglas Adams,GB
-346,Harry Chapin,Harry Chapin,US
-347,Jessi Colter,Jessi Colter,US
-348,Aerosmith,Aerosmith,US
-349,MYSELF,Myself,
-350,Hall & Oates,Daryl Hall & John Oates,US
-351,Bay City Rollers,Bay City Rollers,GB
-352,Blue Oyster Cult,Blue Öyster Cult,US
-353,Fleetwood Mac,Fleetwood Mac,GB
-354,The Four Seasons,The Four Seasons,US
-355,The Miracles,The Miracles,US
-356,Wild Cherry,Wild Cherry,US
-357,Queen,Queen,GB
-358,Commodores,Commodores,US
-359,The Bellamy Brothers,The Bellamy Brothers,US
-360,Rufus featuring Chaka Khan,Chaka Khan,US
-361,Nazareth,Nazareth,GB
-362,Peter Frampton,Peter Frampton,GB
-363,Andrea True Connection,The Andrea True Connection,US
-364,Boz Scaggs,Boz Scaggs,US
-365,Maxine Nightingale,Maxine Nightingale,GB
-366,Elvin Bishop,Elvin Bishop,US
-367,Starland Vocal Band,Starland Vocal Band,US
-368,The Manhattans,The Beatles,GB
-369,C. W. McCall,C.W. McCall,US
-370,Heart,Heart,US
-371,Gary Wright,Gary Wright,US
-372,Rhythm Heritage,Rhythm Heritage,US
-373,Harold Melvin & the Blue Notes,Harold Melvin & The Blue Notes,US
-374,Wing and a Prayer Fife and Drum Corps,Wing & A Prayer Fife & Drum Corps,US
-375,Dr. Hook,Dr. Hook,US
-376,Dorothy Moore,Dorothy Moore,US
-377,John Sebastian,Johann Sebastian Bach,DE
-378,Pratt and McClain,Pratt & McClain,US
-379,Donna Summer,Donna Summer,US
-380,Walter Murphy & The Big Apple Band,Walter Murphy,US
-381,Seals and Crofts (featuring Carolyn Willis),Seals & Crofts,US
-382,David Ruffin,David Bowie,
-383,Silver Convention,Silver Convention,DE
-384,The Sylvers,The Beatles,GB
-385,Cliff Richard,Cliff Richard,GB
-386,Paul Anka,Paul Anka,CA
-387,Starbuck,Starbuck,US
-388,Henry Gross,Henry Purcell,GB
-389,George Benson,George Benson,US
-390,Vicki Sue Robinson,Vicki Sue Robinson,US
-391,Rick Dees & His Cast of Idiots,Rick Dees & His Cast of Idiots,US
-392,Elton John & Kiki Dee,Elton John,GB
-393,Lou Rawls,Lou Rawls,US
-394,England Dan & John Ford Coley,England Dan & John Ford Coley,US
-395,The Brothers Johnson,The Brothers Johnson,US
-396,"Barry DeVorzon and Perry Botkin, Jr.",Perry Botkin Jr.,US
-397,The Beach Boys,The Beach Boys,US
-398,Daryl Hall & John Oates,Daryl Hall & John Oates,US
-399,Boston,Boston,
-400,Andrew Gold,Andrew Gold,US
-401,Kansas,Kansas,US
-402,The Floaters,The Beatles,GB
-403,Bob Seger & The Silver Bullet Band,Bob Seger & the Silver Bullet Band,US
-404,Jimmy Buffett,Jimmy Buffett,US
-405,The Emotions,The Beatles,GB
-406,Stephen Bishop,Stephen King,US
-407,Atlanta Rhythm Section,Atlanta Rhythm Section,US
-408,Foreigner,Foreigner,US
-409,Lord David Dundas,David Dundas,GB
-410,Peter McCann,Peter Alexander,AT
-411,Andy Gibb,Andy Gibb,AU
-412,Bill Conti,Bill Conti,US
-413,Burton Cummings,Burton Cummings,
-414,Leo Sayer,Leo Sayer,GB
-415,THE LIGHT,The Beatles,GB
-416,The Jacksons,The Jacksons,US
-417,Kenny Rogers,Kenny Rogers,US
-418,"Crosby, Stills & Nash","Crosby, Stills & Nash",US
-419,Heatwave,Heatwave,GB
-420,Hot,Red Hot Chili Peppers,US
-421,The Marshall Tucker Band,The Marshall Tucker Band,US
-422,Al Stewart,Al Stewart,GB
-423,Debby Boone,Debby Boone,US
-424,Mary MacGregor,Mary MacGregor,US
-425,Shaun Cassidy,Shaun Cassidy,US
-426,Thelma Houston,Thelma Houston,US
-427,Pablo Cruise,Pablo Cruise,US
-428,Rose Royce,Rose Royce,US
-429,Sanford-Townsend Band,The E Street Band,US
-430,Brick,Scott Brick,US
-431,Firefall,Firefall,US
-432,William Bell,William Dufris,US
-433,Rita Coolidge,Rita Coolidge,US
-434,Jennifer Warnes,Jennifer Warnes,US
-435,Engelbert Humperdinck,Engelbert Humperdinck,GB
-436,Marilyn McCoo & Billy Davis Jr.,Marilyn McCoo,US
-437,Alan O’Day,Anita O’Day,US
-438,Kenny Nolan,Kenny Rogers,US
-439,Paul Nicholas,Paul McCartney,GB
-440,David Soul,David Bowie,
-441,Crystal Gayle,Crystal Gayle,US
-442,Climax Blues Band,Climax Blues Band,GB
-443,Rod Stewart,Rod Stewart,GB
-444,Billy Joel,Billy Joel,US
-445,Parliament,Parliament,US
-446,Evelyn “Champagne” King,Evelyn “Champagne” King,US
-447,Gerry Rafferty,Gerry Rafferty,GB
-448,The Trammps,The Trammps,US
-449,Rick James,James Brown,US
-450,Samantha Sang,Samantha Sang,AU
-451,Leif Garrett,Leif Garrett,US
-452,Little River Band,Little River Band,AU
-453,John Paul Young,Paul Young,GB
-454,Yvonne Elliman,Yvonne Elliman,US
-455,Ambrosia,Ambrosia,US
-456,David Gates,David Bowie,
-457,Dolly Parton,Dolly Parton,US
-458,Michael Johnson,Michael Jackson,US
-459,the Who,The Who,GB
-460,Dan Hill,Dan Brown,US
-461,Foxy,Foxy,US
-462,Peter Brown,James Brown,US
-463,Raydio,Raydio,US
-464,John Travolta & Olivia Newton-John,Olivia Newton‐John,AU
-465,Player,Player,US
-466,Meat Loaf,Meat Loaf,US
-467,Paul Davis,Miles Davis,US
-468,Eddie Money,Eddie Money,US
-469,Exile,EXILE,JP
-470,A Taste of Honey,A Taste of Honey,US
-471,Chuck Mangione,Chuck Mangione,US
-472,Kenny Loggins & Stevie Nicks,Stevie Nicks,US
-473,Jay Ferguson,Maynard Ferguson,US
-474,Walter Egan,Walter Egan,US
-475,Alicia Bridges,Alicia Bridges,US
-476,Bob Welch,Bob Dylan,US
-477,Chris Rea,Chris Rea,GB
-478,Nick Gilder,Nick Gilder,CA
-479,Randy Newman,Randy Newman,US
-480,L.T.D.,Public Image Ltd,GB
-481,Chic,Chic,US
-482,Johnny Mathis & Deniece Williams,Johnny Mathis,US
-483,High Inergy,High Inergy,US
-484,Joe Walsh,Joe Walsh,US
-485,Toby Beau,Toby Beau,US
-486,Bonnie Tyler,Bonnie Tyler,GB
-487,Suzi Quatro & Chris Norman,Suzi Quatro,US
-488,Toto,Toto,US
-489,Kiss,KISS,US
-490,Herb Alpert,Herb Alpert,US
-491,John Stewart,John Williams,US
-492,"Earth, Wind & Fire & The Emotions","Earth, Wind & Fire",US
-493,Bobby Caldwell,Bobby Caldwell,US
-494,Donna Summer and Brooklyn Dreams,Donna Summer,US
-495,KC & the Sunshine Band,KC and the Sunshine Band,US
-496,Nicolette Larson,Nicolette Larson,US
-497,Patrick Hernandez,Patrick Rothfuss,US
-498,Ian Matthews,Dave Matthews Band,US
-499,Supertramp,Supertramp,GB
-500,The Knack,The Beatles,GB
-501,Sister Sledge,Sister Sledge,US
-502,The Charlie Daniels Band,The Charlie Daniels Band,US
-503,Dire Straits,Dire Straits,GB
-504,Cheap Trick,Cheap Trick,US
-505,Cheryl Lynn,Cheryl Lynn,US
-506,Blondie,Blondie,US
-507,Randy VanWarmer,Randy VanWarmer,US
-508,Village People,Village People,US
-509,Anita Ward,Anita Ward,US
-510,Journey,Journey,US
-511,Robert Palmer,Robert Palmer,GB
-512,Peaches & Herb,Peaches & Herb,US
-513,Amii Stewart,Amii Stewart,US
-514,Gino Vannelli,Gino Vannelli,CA
-515,Ace Frehley,Ace Frehley,US
-516,M,Boney M.,
-517,Neil Diamond & Barbra Streisand,Barbra Streisand,US
-518,Nick Lowe,Nick Lowe,GB
-519,David Naughton,David Bowie,
-520,Rex Smith,T. Rex,GB
-521,Frank Mills,Frank Sinatra,US
-522,Bonnie Pointer,Bonnie Tyler,GB
-523,McFadden & Whitehead,McFadden & Whitehead,US
-524,Rickie Lee Jones,Rickie Lee Jones,US
-525,GQ,GQ,US
+139,the Doobie Brothers,The Doobie Brothers,US
+140,Apollo 100,Apollo 100,GB
+141,Roberta Flack & Donny Hathaway,Roberta Flack,US
+142,America,America,US
+143,Don McLean,Don McLean,US
+144,Elvis Presley,Elvis Presley,US
+145,Harry Nilsson,Harry Nilsson,US
+146,Johnny Nash,Johnny Cash,US
+147,Michael Jackson,Michael Jackson,US
+148,Derek and the Dominos,Derek and the Dominos,US
+149,Mouth & MacNeal,Mouth & MacNeal,NL
+150,Neil Young,Neil Young,CA
+151,Alice Cooper,Alice Cooper,US
+152,Jonathan Edwards,Jonathan Mann,US
+153,Hot Butter,Hot Butter,US
+154,Jackson Browne,Jackson Browne,US
+155,Gilbert O’Sullivan,Gilbert O’Sullivan,IE
+156,The Moody Blues,The Moody Blues,GB
+157,Jim Croce,Jim Croce,US
+158,T. Rex,T. Rex,GB
+159,the Rolling Stones,The Rolling Stones,GB
+160,David Cassidy,David Bowie,
+161,Robert John,Robert Schumann,DE
+162,Eagles,Eagles,US
+163,Raspberries,Raspberries,US
+164,the Stylistics,The Beatles,GB
+165,Roberta Flack,Roberta Flack,US
+166,Dennis Coffey,Dennis Coffey,US
+167,Dr. Hook & The Medicine Show,Dr. Hook,US
+168,The O’Jays,The O’Jays,US
+169,Paul Simon,Paul Simon,US
+170,Betty Wright,Betty Wright,US
+171,The Chi-Lites,The Chi‐Lites,US
+172,Jackson 5,Michael Jackson,US
+173,Daniel Boone,Pat Boone,US
+174,Ricky Nelson,Ricky Nelson,US
+175,Sonny & Cher,Sonny & Cher,US
+176,The Stylistics,The Beatles,GB
+177,Commander Cody and His Lost Planet Airmen,Commander Cody & His Lost Planet Airmen,US
+178,Donna Fargo,Donna Fargo,US
+179,Curtis Mayfield,Curtis Mayfield,US
+180,Mac Davis,Miles Davis,US
+181,the Chi-Lites,The Chi‐Lites,US
+182,The Main Ingredient,Main Ingredient,
+183,The Chakachas,The Beatles,GB
+184,Carole King,Carole King,US
+185,Luther Ingram,Luther Ingram,US
+186,Climax,Climax Blues Band,GB
+187,Argent,Argent,GB
+188,Joe Simon,Simon Jäger,DE
+189,Billy Preston,Billy Preston,US
+190,Sammy Davis Jr. with the Mike Curb Congregation,Sammy Davis Jr.,US
+191,Chuck Berry,Chuck Berry,US
+192,Gallery,Gallery Six,
+193,Joe Tex,Joe Tex,US
+194,Looking Glass,Philip Glass,US
+195,Danny O’Keefe,Danny Elfman,US
+196,Gary Glitter,Gary Glitter,GB
+197,The Jimmy Castor Bunch,The Jimmy Castor Bunch,US
+198,Wayne Newton,Wayne Newton,US
+199,The Staple Singers,The Staple Singers,US
+200,Skylark,Skylark,IT
+201,Paul McCartney & Wings,Wings,GB
+202,Kris Kristofferson,Kris Kristofferson,US
+203,Edward Bear,Edward Elgar,GB
+204,Stealers Wheel,Stealers Wheel,GB
+205,King Harvest,Stephen King,US
+206,Stories,Stories,US
+207,B.W. Stevenson,B.W. Stevenson,US
+208,Steely Dan,Steely Dan,
+209,The Doobie Brothers,The Doobie Brothers,US
+210,Dobie Gray,Dobie Gray,US
+211,Albert Hammond,Albert Hammond,GB
+212,The Allman Brothers Band,The Allman Brothers Band,US
+213,Billy Paul,Paul McCartney,GB
+214,Vicki Lawrence,Vicki Lawrence,US
+215,Deep Purple,Deep Purple,GB
+216,George Harrison,George Harrison,GB
+217,Grand Funk Railroad,Grand Funk Railroad,US
+218,Garfunkel,Simon & Garfunkel,US
+219,Dr. John,Dr. John,US
+220,The Edgar Winter Group,The Edgar Winter Group,US
+221,Barry White,Barry White,US
+222,Bloodstone,Bloodstone,US
+223,Bobby ‘Boris’ Pickett,Bobby “Boris” Pickett,US
+224,The Isley Brothers,The Isley Brothers,US
+225,Loggins and Messina,Loggins & Messina,US
+226,Seals and Crofts,Seals & Crofts,US
+227,Timmy Thomas,Timmy Thomas,US
+228,Johnnie Taylor,Johnnie Taylor,US
+229,Focus,Focus,NL
+230,War,War,US
+231,Bette Midler,Bette Midler,US
+232,Sylvia,Sylvia Vrethammar,SE
+233,Eric Weissberg & Steve Mandell,Eric Clapton,GB
+234,Charlie Daniels Band,The Charlie Daniels Band,US
+235,Maureen McGovern,Maureen McGovern,US
+236,Sweet,Sweet,GB
+237,The Spinners,The Beatles,GB
+238,Eddie Kendricks,Eddie Kendricks,US
+239,Marie Osmond,Marie Osmond,US
+240,Johnny Rivers,Johnny Cash,US
+241,The Pointer Sisters,The Pointer Sisters,US
+242,the DeFranco Family featuring Tony DeFranco,Buddy DeFranco,US
+243,Jermaine Jackson,Jermaine Jackson,US
+244,Clint Holmes,Clint Bajakian,US
+245,Hurricane Smith,Bessie Smith,US
+246,Deodato,Eumir Deodato,BR
+247,New York City,New York City,
+248,Carly Simon & James Taylor,Carly Simon,US
+249,Redbone,Redbone,US
+250,Lynyrd Skynyrd,Lynyrd Skynyrd,US
+251,Bad Company,Bad Company,GB
+252,ABBA,ABBA,SE
+253,Steve Miller Band,Steve Miller Band,US
+254,The First Class,First Class,GB
+255,Kool & the Gang,Kool & the Gang,US
+256,Mocedades,Mocedades,ES
+257,Paul McCartney and Wings,Wings,GB
+258,David Essex,David Essex,GB
+259,Blue Swede,Blue Swede,SE
+260,The Hues Corporation,The Hues Corporation,US
+261,Joni Mitchell,Joni Mitchell,CA
+262,Eric Clapton,Eric Clapton,GB
+263,Byron MacGregor,Byron MacGregor,
+264,Bobby Womack,Bobby Womack,US
+265,Terry Jacks,Terry Pratchett,
+266,Charlie Rich,Charlie Rich,US
+267,Brownsville Station,Brownsville Station,US
+268,William DeVaughn,William Dufris,US
+269,Todd Rundgren,Todd Rundgren,US
+270,Rufus & Chaka Khan,Rufus,US
+271,Andy Kim,Andy Williams,US
+272,Blue Magic,Blue Magic,US
+273,George McCrae,George Frideric Handel,GB
+274,Marvin Hamlisch,Marvin Hamlisch,US
+275,John Lennon with the Plastic Ono Band,John Lennon,GB
+276,Johnny Bristol,Johnny Cash,US
+277,Sister Janet Mead,Sister Janet Mead,AU
+278,Maria Muldaur,Maria Muldaur,US
+279,Olivia Newton-John,Olivia Newton‐John,AU
+280,Paper Lace,Paper Lace,GB
+281,Mike Oldfield,Mike Oldfield,GB
+282,Al Wilson,Al Green,US
+283,Dave Loggins,Kenny Loggins,US
+284,MFSB featuring the Three Degrees,The Three Degrees,US
+285,Dionne Warwick & The Spinners,Dionne Warwick,US
+286,Bo Donaldson and The Heywoods,Bo Donaldson and the Heywoods,US
+287,Jim Stafford,Jim Reeves,US
+288,B.T. Express,BT,US
+289,The Righteous Brothers,The Righteous Brothers,US
+290,Love Unlimited Orchestra,Love Unlimited Orchestra,US
+291,The Guess Who featuring Wolfman Jack,The Guess Who,CA
+292,Bobby Vinton,Bobby Vinton,US
+293,Donny and Marie Osmond,Donny & Marie Osmond,US
+294,Paul Anka with Odia Coates,Paul Anka,CA
+295,the Ritchie Family,The Ritchie Family,US
+296,Pilot,Pilot,GB
+297,Natalie Cole,Natalie Cole,US
+298,Neil Sedaka,Neil Sedaka,US
+299,Grand Funk,Grand Funk Railroad,US
+300,Michael Martin Murphey,Michael Martin Murphey,US
+301,Carl Douglas,Douglas Adams,GB
+302,Ace,Ace of Base,SE
+303,Minnie Riperton,Minnie Riperton,US
+304,Labelle,LaBelle,US
+305,Barry Manilow,Barry Manilow,US
+306,Hot Chocolate,Hot Chocolate,GB
+307,Glen Campbell,Glen Campbell,US
+308,Morris Albert,Albert King,US
+309,"Earth, Wind & Fire","Earth, Wind & Fire",US
+310,Captain & Tennille,Captain & Tennille,US
+311,Frankie Valli,Frankie Valli,US
+312,David Bowie,David Bowie,
+313,Jefferson Starship,Jefferson Starship,US
+314,Linda Ronstadt,Linda Ronstadt,US
+315,KC and the Sunshine Band,KC and the Sunshine Band,US
+316,Ozark Mountain Daredevils,The Ozark Mountain Daredevils,US
+317,Average White Band,Average White Band,GB
+318,Four Seasons,The Four Seasons,US
+319,Janis Ian,Janis Ian,US
+320,Freddy Fender,Freddy Fender,US
+321,Sammy Johns,Sammy Davis Jr.,US
+322,Van McCoy & the Soul City Symphony,Van McCoy & The Soul City Symphony,US
+323,Melissa Manchester,Melissa Manchester,US
+324,Paul Anka & Odia Coates,Paul Anka,CA
+325,Wings,Wings,GB
+326,The Blackbyrds,The Beatles,GB
+327,Phoebe Snow,Phoebe Snow,US
+328,Donny & Marie Osmond,Donny & Marie Osmond,US
+329,David Geddes,David Bowie,
+330,Tavares,Tavares,US
+331,10cc,10cc,GB
+332,Major Harris,Emmylou Harris,US
+333,Mike Post,Mike Post,US
+334,the Spinners,The Beatles,GB
+335,Tony Camillo’s Bazuka,Bazuka,US
+336,Electric Light Orchestra,Electric Light Orchestra,GB
+337,Carol Douglas,Douglas Adams,GB
+338,Harry Chapin,Harry Chapin,US
+339,Jessi Colter,Jessi Colter,US
+340,Aerosmith,Aerosmith,US
+341,Eric Carmen,Eric Clapton,GB
+342,Hall & Oates,Daryl Hall & John Oates,US
+343,Bay City Rollers,Bay City Rollers,GB
+344,Blue Oyster Cult,Blue Öyster Cult,US
+345,Fleetwood Mac,Fleetwood Mac,GB
+346,The Four Seasons,The Four Seasons,US
+347,The Miracles,The Miracles,US
+348,Wild Cherry,Wild Cherry,US
+349,Queen,Queen,GB
+350,Commodores,Commodores,US
+351,The Bellamy Brothers,The Bellamy Brothers,US
+352,Rufus featuring Chaka Khan,Chaka Khan,US
+353,Nazareth,Nazareth,GB
+354,Peter Frampton,Peter Frampton,GB
+355,Andrea True Connection,The Andrea True Connection,US
+356,Boz Scaggs,Boz Scaggs,US
+357,Maxine Nightingale,Maxine Nightingale,GB
+358,Orleans,Orleans,US
+359,Elvin Bishop,Elvin Bishop,US
+360,Starland Vocal Band,Starland Vocal Band,US
+361,The Manhattans,The Beatles,GB
+362,C. W. McCall,C.W. McCall,US
+363,Heart,Heart,US
+364,Gary Wright,Gary Wright,US
+365,Ohio Players,Ohio Players,US
+366,Rhythm Heritage,Rhythm Heritage,US
+367,Harold Melvin & the Blue Notes,Harold Melvin & The Blue Notes,US
+368,Wing and a Prayer Fife and Drum Corps,Wing & A Prayer Fife & Drum Corps,US
+369,Dr. Hook,Dr. Hook,US
+370,Dorothy Moore,Dorothy Moore,US
+371,John Sebastian,Johann Sebastian Bach,DE
+372,Pratt and McClain,Pratt & McClain,US
+373,Donna Summer,Donna Summer,US
+374,Walter Murphy & The Big Apple Band,Walter Murphy,US
+375,Seals and Crofts (featuring Carolyn Willis),Seals & Crofts,US
+376,David Ruffin,David Bowie,
+377,Silver Convention,Silver Convention,DE
+378,The Sylvers,The Beatles,GB
+379,Cliff Richard,Cliff Richard,GB
+380,Paul Anka,Paul Anka,CA
+381,Starbuck,Starbuck,US
+382,Henry Gross,Henry Purcell,GB
+383,George Benson,George Benson,US
+384,Vicki Sue Robinson,Vicki Sue Robinson,US
+385,Rick Dees & His Cast of Idiots,Rick Dees & His Cast of Idiots,US
+386,Elton John & Kiki Dee,Elton John,GB
+387,Lou Rawls,Lou Rawls,US
+388,England Dan & John Ford Coley,England Dan & John Ford Coley,US
+389,The Brothers Johnson,The Brothers Johnson,US
+390,"Barry DeVorzon and Perry Botkin, Jr.",Perry Botkin Jr.,US
+391,The Beach Boys,The Beach Boys,US
+392,Daryl Hall & John Oates,Daryl Hall & John Oates,US
+393,Boston,Boston,
+394,Andrew Gold,Andrew Gold,US
+395,Kansas,Kansas,US
+396,The Floaters,The Beatles,GB
+397,Bob Seger & The Silver Bullet Band,Bob Seger & the Silver Bullet Band,US
+398,Jimmy Buffett,Jimmy Buffett,US
+399,Atlanta Rhythm Section,Atlanta Rhythm Section,US
+400,Foreigner,Foreigner,US
+401,Lord David Dundas,David Dundas,GB
+402,Peter McCann,Peter Alexander,AT
+403,Andy Gibb,Andy Gibb,AU
+404,Bill Conti,Bill Conti,US
+405,Burton Cummings,Burton Cummings,
+406,Leo Sayer,Leo Sayer,GB
+407,Manfred Mann,Manfred Mann,GB
+408,The Jacksons,The Jacksons,US
+409,Kenny Rogers,Kenny Rogers,US
+410,"Crosby, Stills & Nash","Crosby, Stills & Nash",US
+411,Heatwave,Heatwave,GB
+412,Hot,Red Hot Chili Peppers,US
+413,The Marshall Tucker Band,The Marshall Tucker Band,US
+414,Al Stewart,Al Stewart,GB
+415,Debby Boone,Debby Boone,US
+416,Mary MacGregor,Mary MacGregor,US
+417,Shaun Cassidy,Shaun Cassidy,US
+418,Thelma Houston,Thelma Houston,US
+419,Pablo Cruise,Pablo Cruise,US
+420,Rose Royce,Rose Royce,US
+421,Sanford-Townsend Band,The E Street Band,US
+422,Brick,Scott Brick,US
+423,Firefall,Firefall,US
+424,William Bell,William Dufris,US
+425,Rita Coolidge,Rita Coolidge,US
+426,Jennifer Warnes,Jennifer Warnes,US
+427,Engelbert Humperdinck,Engelbert Humperdinck,GB
+428,Marilyn McCoo & Billy Davis Jr.,Marilyn McCoo,US
+429,Alan O’Day,Anita O’Day,US
+430,Kenny Nolan,Kenny Rogers,US
+431,Paul Nicholas,Paul McCartney,GB
+432,David Soul,David Bowie,
+433,Crystal Gayle,Crystal Gayle,US
+434,Climax Blues Band,Climax Blues Band,GB
+435,Rod Stewart,Rod Stewart,GB
+436,Billy Joel,Billy Joel,US
+437,Parliament,Parliament,US
+438,Evelyn “Champagne” King,Evelyn “Champagne” King,US
+439,Gerry Rafferty,Gerry Rafferty,GB
+440,The Trammps,The Trammps,US
+441,Rick James,James Brown,US
+442,Samantha Sang,Samantha Sang,AU
+443,Leif Garrett,Leif Garrett,US
+444,Little River Band,Little River Band,AU
+445,John Paul Young,Paul Young,GB
+446,Yvonne Elliman,Yvonne Elliman,US
+447,Ambrosia,Ambrosia,US
+448,David Gates,David Bowie,
+449,Dolly Parton,Dolly Parton,US
+450,Michael Johnson,Michael Jackson,US
+451,Styx,Styx,US
+452,the Who,The Who,GB
+453,Dan Hill,Dan Brown,US
+454,Foxy,Foxy,US
+455,Raydio,Raydio,US
+456,John Travolta & Olivia Newton-John,Olivia Newton‐John,AU
+457,Player,Player,US
+458,Meat Loaf,Meat Loaf,US
+459,Paul Davis,Miles Davis,US
+460,Eddie Money,Eddie Money,US
+461,Exile,EXILE,JP
+462,A Taste of Honey,A Taste of Honey,US
+463,Chuck Mangione,Chuck Mangione,US
+464,Kenny Loggins & Stevie Nicks,Stevie Nicks,US
+465,Jay Ferguson,Maynard Ferguson,US
+466,Walter Egan,Walter Egan,US
+467,Alicia Bridges,Alicia Bridges,US
+468,Bob Welch,Bob Dylan,US
+469,Chris Rea,Chris Rea,GB
+470,Nick Gilder,Nick Gilder,CA
+471,Randy Newman,Randy Newman,US
+472,L.T.D.,Public Image Ltd,GB
+473,Chic,Chic,US
+474,Johnny Mathis & Deniece Williams,Johnny Mathis,US
+475,High Inergy,High Inergy,US
+476,Joe Walsh,Joe Walsh,US
+477,Toby Beau,Toby Beau,US
+478,Bonnie Tyler,Bonnie Tyler,GB
+479,Suzi Quatro & Chris Norman,Suzi Quatro,US
+480,Toto,Toto,US
+481,Kiss,KISS,US
+482,Herb Alpert,Herb Alpert,US
+483,John Stewart,John Williams,US
+484,"Earth, Wind & Fire & The Emotions","Earth, Wind & Fire",US
+485,Bobby Caldwell,Bobby Caldwell,US
+486,Donna Summer and Brooklyn Dreams,Donna Summer,US
+487,KC & the Sunshine Band,KC and the Sunshine Band,US
+488,Nicolette Larson,Nicolette Larson,US
+489,Patrick Hernandez,Patrick Rothfuss,US
+490,Ian Matthews,Dave Matthews Band,US
+491,Supertramp,Supertramp,GB
+492,The Knack,The Beatles,GB
+493,Sister Sledge,Sister Sledge,US
+494,The Charlie Daniels Band,The Charlie Daniels Band,US
+495,Dire Straits,Dire Straits,GB
+496,Cheap Trick,Cheap Trick,US
+497,Cheryl Lynn,Cheryl Lynn,US
+498,Gloria Gaynor,Gloria Gaynor,US
+499,Blondie,Blondie,US
+500,Randy VanWarmer,Randy VanWarmer,US
+501,Village People,Village People,US
+502,Anita Ward,Anita Ward,US
+503,Journey,Journey,US
+504,Robert Palmer,Robert Palmer,GB
+505,Peaches & Herb,Peaches & Herb,US
+506,Amii Stewart,Amii Stewart,US
+507,Gino Vannelli,Gino Vannelli,CA
+508,Ace Frehley,Ace Frehley,US
+509,M,Boney M.,
+510,Neil Diamond & Barbra Streisand,Barbra Streisand,US
+511,Nick Lowe,Nick Lowe,GB
+512,David Naughton,David Bowie,
+513,Rex Smith,T. Rex,GB
+514,Frank Mills,Frank Sinatra,US
+515,Bonnie Pointer,Bonnie Tyler,GB
+516,McFadden & Whitehead,McFadden & Whitehead,US
+517,Rickie Lee Jones,Rickie Lee Jones,US
+518,GQ,GQ,US
+519,The Emotions,The Beatles,GB
+520,Peter Brown,James Brown,US
+521,The New Seekers,The New Seekers,GB
+522,The Hillside Singers,The Hillside Singers,US
+523,Stephen Bishop,Stephen King,US
