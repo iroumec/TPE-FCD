@@ -75,20 +75,20 @@ jupyter lab
 
 Una vez allí, se debe dirigir al siguiente apartado 
 
-![imagen para explicar como abrir la notebook en jupyter lab](recursos/apartado_jupyterlab.png)
+![imagen para explicar como abrir la notebook en jupyter lab](Resources/Images/apartado_jupyterlab.png)
 
 
 ### Utilizando el IDE de Visual Studio Code
 > [!IMPORTANT]
 > No se incluye la [instalación del IDE Visual Studio code](https://code.visualstudio.com/docs/)
 
-Para utilizar este IDE se deben instalar las extensiones necesarias. Se debe presionar en el ícono de cuadrado en la barra lateral izquierda ![icono de extension](recursos/icono_extension.png).
+Para utilizar este IDE se deben instalar las extensiones necesarias. Se debe presionar en el ícono de cuadrado en la barra lateral izquierda ![icono de extension](Resources/Images/icono_extension.png).
 
 Una vez allí, se deben instalar las extensiones Python y Jupyter, ambas publicadas por Microsoft.
 
-![Extensiones necesarias: Jupyter](recursos/extensiones_necesarias_jupyter.png)
+![Extensiones necesarias: Jupyter](Resources/Images/extensiones_necesarias_jupyter.png)
 
-![Extensiones necesarias: Python](recursos/extensiones_necesarias_python.png)
+![Extensiones necesarias: Python](Resources/Images/extensiones_necesarias_python.png)
 
 
 Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se be seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este ultimo sea detectado. Al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton runn all](run_all.png)
