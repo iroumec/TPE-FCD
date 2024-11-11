@@ -29,7 +29,7 @@ git clone https://github.com/iroumec/TPE-FCD
 ### Realizando una descarga directa desde el repositorio de GitHUB
 Para esto se debe dirigir al [repositorio](https://github.com/iroumec/TPE-FCD) y seguir el siguiente tutorial.
 
-!!!! GIF !!!!!!!!!
+![Gif para mostrar como descargar](descarga_repositorio.gif)
 
 ## Creacion del ambiente virtual
 > [!IMPORTANT]
@@ -77,7 +77,6 @@ Una vez allí, se debe dirigir al siguiente apartado
 
 ![imagen para explicar como abrir la notebook en jupyter lab](Resources/Images/apartado_jupyterlab.png)
 
-
 ### Utilizando el IDE de Visual Studio Code
 > [!IMPORTANT]
 > No se incluye la [instalación del IDE Visual Studio code](https://code.visualstudio.com/docs/)
@@ -93,6 +92,12 @@ Una vez allí, se deben instalar las extensiones Python y Jupyter, ambas publica
 
 Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se be seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este ultimo sea detectado. Al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton run all](Resources/Images/run_all.png)
 
+> [!CAUTION]
+> Se recomienda encarecidamente la utilizacion de estos metodos ya que otras plataformas como GitHub no renderizan correctamente los graficos realizados.
+
 # Tips para la lectura de la notebook.
 
-Se recomienda ...
+La notebook cuenta con graficos interactivos realizados utilizando la libreria `plotly`.
+
+![Gif para utilizacion de los graficos interactivos](Resources/Gifs/interaccion_grafico.gif)
+
