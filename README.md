@@ -91,7 +91,7 @@ Una vez allí, se deben instalar las extensiones Python y Jupyter, ambas publica
 ![Extensiones necesarias: Python](Resources/Images/extensiones_necesarias_python.png)
 
 
-Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se be seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este ultimo sea detectado. Al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton runn all](run_all.png)
+Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se be seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este ultimo sea detectado. Al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton run all](Resources/Images/run_all.png)
 
 # Tips para la lectura de la notebook.
 
