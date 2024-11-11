@@ -29,7 +29,7 @@ git clone https://github.com/iroumec/TPE-FCD
 ### Realizando una descarga directa desde el repositorio de GitHUB
 Para esto se debe dirigir al [repositorio](https://github.com/iroumec/TPE-FCD) y seguir el siguiente tutorial.
 
-![Gif para mostrar como descargar](descarga_repositorio.gif)
+![Gif para mostrar como descargar](Resources/Gifs/descarga_repositorio.gif)
 
 ## Creacion del ambiente virtual
 > [!IMPORTANT]
