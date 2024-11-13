@@ -13,7 +13,7 @@ En este trabajo, se realizó el análisis de un _dataset_ que contiene canciones
 Guía para descarga del trabajo e instalación de las librerías necesarias.
 
 ## Descarga de los archivos necesarios
-Se deben descargar los archivos necesarios los cuales están contenidos es en el repositorio. Se recomiendan los siguientes métodos.
+Se deben descargar los archivos necesarios los cuales están contenidos en el repositorio. Se recomiendan los siguientes métodos.
 
 ### Utilizando Git
 En este método se utiliza la herramienta Git para clonar el repositorio en el destino deseado.
