@@ -33,7 +33,7 @@ Para esto se debe dirigir al [repositorio](https://github.com/iroumec/TPE-FCD) y
 
 ## Creación del ambiente virtual
 > [!IMPORTANT]
-> No se incluye la [instalación del lenguaje Python](https://www.python.org/downloads/) en esta guía, ya que escapa al alcance del trabajo.
+> No se incluye la [instalación del lenguaje Python](https://www.youtube.com/watch?v=4EGfl6sWQ18) en esta guía, ya que escapa al alcance del trabajo.
 Para asegurar que las dependencias se instalen correctamente y evitar conflictos entre versiones, se recomienda crear un entorno virtual. Desde la terminal, se debe navegar a la carpeta del proyecto y ejecutar:
 
 ```
