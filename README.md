@@ -91,7 +91,9 @@ Una vez allí, se deben instalar las extensiones Python y Jupyter, ambas publica
 ![Extensiones necesarias: Python](Resources/Images/extensiones_necesarias_python.png)
 
 
-Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se debe seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este último sea detectado. Al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton run all](Resources/Images/run_all.png)
+Una vez que se han instalado las extensiones necesarias, en el apartado de _"file"_ en la parte superior izquierda, se debe seleccionar la opcion de _"Open Folder"_ y navegar hasta el apartado del proyecto. Es importante que el proyecto y el ambiente se encuentren en la misma carpeta para que este último sea detectado. 
+Es posible que el IDE no detecte automaticamente el kernel, por lo que se recomiendo realizas `Ctrl + Shift + P` para mostrar los comandos existentes y seleccionar "Python: Clear Cache and Reload Window"
+Finalmente, al tener la carpeta seleccionada, se debe seleccionar el archivo `Notebook.ipynb` y presionar el boton ![boton run all](Resources/Images/run_all.png)
 
 > [!CAUTION]
 > Se recomienda encarecidamente la utilización de estos metodos ya que otras plataformas como GitHub no renderizan correctamente los gráficos realizados.
