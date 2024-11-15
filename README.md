@@ -59,6 +59,10 @@ Con el entorno virtual activo, se deben instalar las dependencias del archivo `r
 ```
 pip install -r requirements.txt
 ```
+Luego, realiza la instalacion de jupyter. Aunque este se encuentre en los requirements, se requiere de su instalacion.
+```
+pip install jupyter
+```
 
 ## Lectura de la notebook de Jupyter
 Una vez se ha instalado todo lo necesario, solo resta la lectura del archivo `Notebook.ipynb`. Para esto, se recomiendan los siguientes métodos.
