@@ -109,3 +109,7 @@ La notebook cuenta con gráficos interactivos realizados utilizando la libreria 
 
 ![Gif para utilización de los graficos interactivos](Resources/Gifs/interaccion_grafico.gif)
 
+# Fe de erratas.
+
+Algunos gráficos tienen un *aspect ratio* no uniforme (la escala en el eje x y en el eje y no coinciden). Esto no es correcto y debe corregirse. No fue hecho de forma intencional y no altera las conclusiones obtenidas en el informe.
+
